@@ -1,3 +1,4 @@
+[
 {
     "id": 546554,
     "title": "Kẻ đâm lén",
@@ -4510,7 +4511,6 @@
         "poster_path": "https://image.tmdb.org/t/p/w500/aEk9jLbiKTVssdATbrF879NvyyJ.jpg",
         "release_date": "2025-09-25",
         "vote_average": 6.11,
-        // Đã sửa link dưới (xóa &dl=0 thừa)
         "dropbox_link": "https://www.dropbox.com/scl/fi/mjw76u8iknlaviooh7t61/The.Strangers.Chapter.2.2025.Hybrid.1080p.BluRay.x264-BRUTE.mkv?rlkey=o7lbomu84wex3zmmtkpoulisi&st=jqhmtvsd&dl=1"
     },
     {
@@ -5328,4 +5328,6 @@
     "release_date": "2023-10-13",
     "vote_average": 5,
     "dropbox_link": "Shunga.Sensei.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264-MagicStar.mkv?dl=1"
-},
+}
+
+]
