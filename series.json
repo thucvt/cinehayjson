@@ -1,154 +1,447 @@
-{
-  "id": 153869,
-  "name": "Tử Xuyên",
-  "original_name": "紫川",
-  "overview": "Truyền kì máu lửa qua từng thời đại: Trong đế quốc của loài người, gia tộc thần bí ở phương Đông xa xôi, Tử Xuyên Tam Kiệt phất lên! Anh cả Đế Lâm chín chắn đa mưu, tàn khốc lí trí, anh hai Sterling chỉ huy một đội quân, có lòng trung thành với nước, em út Tử Xuyên Tú bị người đời gọi với cái tên “Vô Lại”, trí dũng song toàn. Gia tộc Tử Xuyên loạn trong giặc ngoài, Tử Xuyên Tam Kiệt mỗi người đều có thế mạnh riêng: Trong thời khắc nước sôi lửa bỏng, đánh bại Ma tộc hung ác, xông vào hang hổ truy sát tên phản đồ Lôi Hồng đến cùng; Tư Đặc Lâm lấy gia tộc làm gốc, vừa vô tình vừa trọng tình lưu luyến người yêu... Loài người, Ma tộc, Thú tộc. Mỗi tộc ở mỗi phương khác nhau, tranh chấp lẫn nhau trên mảnh đất Đại Lục này, xích mích không ngừng. Khi máu và lửa hòa vào nhau, đao và kiếm va chạm, tạo ra câu chuyện sử thi bi tráng-Tử Xuyên.",
-  "poster_path": "https://image.tmdb.org/t/p/w500/ouv4VvMNFNoSsyE0SmDeabOjM4O.jpg",
-  "backdrop_path": "https://image.tmdb.org/t/p/original/fhTDNfkicAu8lMLjYqtZYJnhcXa.jpg",
-  "first_air_date": "2021-12-21",
-  "vote_average": 8.5,
-  "genres": [
-    "Phim Hoạt Hình",
-    "Sci-Fi & Fantasy"
-  ],
-  "production_countries": [
-    "China"
-  ],
-  "production_companies": [
-    "Build Dream",
-    "Tencent Penguin Pictures"
-  ],
-  "spoken_languages": [
-    "Mandarin"
-  ],
-  "original_language": "zh",
-  "status": "Returning Series",
-  "tagline": "",
-  "homepage": "https://v.qq.com/detail/t/mzc00200iawcmn2.html",
-  "certification": "",
-  "director": "",
-  "cast_top10": [
-    "Tang Bao",
-    "马正阳",
-    "姜广涛",
-    "宝木中阳",
-    "阿杰",
-    "喬詩語",
-    "Liangwei Hu",
-    "高启帆",
-    "Yuanfei Mei",
-    "Dong Zhou"
-  ],
-  "trailer_youtube_key": "",
-  "trailer_youtube_url": "",
-  "episodes": [
-    {
-      "season": 2,
-      "episode": 1,
-      "filename": "Zi.Chuan.S02E01.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/u4og7pq9wohw1cixab97t/Zi.Chuan.S02E01.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=1q6lucgmwigemvfakwakodlmh&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 2,
-      "filename": "Zi.Chuan.S02E02.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/0o06ouvwulep8unf449zr/Zi.Chuan.S02E02.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=3wlzwtda9w8wnmj7vdj1o2blp&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 3,
-      "filename": "Zi.Chuan.S02E03.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/07ot0ojnft51od84mt5e0/Zi.Chuan.S02E03.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=q4pgwo9jvo7j39si8vhngmefu&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 4,
-      "filename": "Zi.Chuan.S02E04.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/3bu7cnejjac6b7a8o21zl/Zi.Chuan.S02E04.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=3ddml5yajpl4eb7x4da6s9zze&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 5,
-      "filename": "Zi.Chuan.S02E05.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/uklj8ufc6r64wvsyjhrtu/Zi.Chuan.S02E05.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=vpbs9cwajufozcpoj6u4uuqjc&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 6,
-      "filename": "Zi.Chuan.S02E06.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/ybtb0xbeiz9ulwh8uqn8j/Zi.Chuan.S02E06.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=ah0n2g3hf9wkdxkkzzzvkd7qk&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 7,
-      "filename": "Zi.Chuan.S02E07.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/ii1z43opy5fk465e3pue4/Zi.Chuan.S02E07.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=5fs1xiszkwjfs4w9m34p4k7qc&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 8,
-      "filename": "Zi.Chuan.S02E08.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/yo39pdbcidi5ciq8icg2c/Zi.Chuan.S02E08.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=ign95fwmsb89954xlwhjgf5fy&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 9,
-      "filename": "Zi.Chuan.S02E09.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/qvptj9dacxqckxsrnnfdq/Zi.Chuan.S02E09.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=9yijfbpyaxpl0bylkw9p8t8qm&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 10,
-      "filename": "Zi.Chuan.S02E10.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/v2op7p762gmht57rowf8c/Zi.Chuan.S02E10.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=mbm0tw5toufbiwf31g1o1zr5u&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 11,
-      "filename": "Zi.Chuan.S02E11.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/hi8ujfgbe65zgn5ou81h5/Zi.Chuan.S02E11.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=tyt6frdij7b1pxdh3wf8yo5bl&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 12,
-      "filename": "Zi.Chuan.S02E12.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/2uidwlrtgez0rj18ne0jq/Zi.Chuan.S02E12.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=is8cnnqh5lzoo9b2gwenqf47x&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 13,
-      "filename": "Zi.Chuan.S02E13.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/i87ax955b365euj27hw9s/Zi.Chuan.S02E13.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=sw0r2gd10dplkznepnruk0ec5&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 14,
-      "filename": "Zi.Chuan.S02E14.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/rr92shxisg7qds4ofjson/Zi.Chuan.S02E14.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=l3up0yuwvixqzbsut5vuqdnwk&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 15,
-      "filename": "Zi.Chuan.S02E15.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/tekv32o2ap5q2l7e1bgei/Zi.Chuan.S02E15.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=jkwfe3a7wu3kpjzncf4jbyese&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 16,
-      "filename": "Zi.Chuan.S02E16.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/njc6gljtbs8ntnjh28c3e/Zi.Chuan.S02E16.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=u3ic4bxyh54b72j4uh0swz3sw&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 17,
-      "filename": "Zi.Chuan.S02E17.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/23nko2v4qjdu1rbje6uqr/Zi.Chuan.S02E17.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=litcqxhyembkr0unzoolm32uk&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 18,
-      "filename": "Zi.Chuan.S02E18.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/8lt5s27nct4rtpkpq74r1/Zi.Chuan.S02E18.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=vl0aw8l9ssv0sao7ekxzkxvq8&dl=1"
-    }
-  ]
-}
+[
+  {
+    "id": 243224,
+    "name": "Phàm Nhân Tu Tiên Truyện",
+    "original_name": "凡人修仙传",
+    "overview": "Phàm Nhân Tu Tiên Truyện là hành trình tu luyện khốc liệt của Hàn Lập, một thiếu niên nghèo có ước mơ trở thành tiên nhân. Với xuất thân bình thường, Hàn Lập gia nhập một môn phái nhỏ rồi dựa vào nỗ lực cùng mưu trí của bản thân để vượt qua vô số nghịch cảnh trên con đường tu tiên đầy hiểm nguy. Với tạo hình đẹp mắt, kỹ xảo ấn tượng cùng loạt cảnh chiến đấu mãn nhãn, đây là tác phẩm tiên hiệp hứa hẹn sẽ mang đến trải nghiệm thị giác vượt trội cho người xem.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/eSlhCgpTcJ1pYmNclKs4IlkmFCW.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/tOpyQG9MAnFN4YiDgyk5NnCGa7X.jpg",
+    "first_air_date": "2025-07-27",
+    "vote_average": 7.3,
+    "genres": [
+      "Phim Chính Kịch",
+      "Sci-Fi & Fantasy"
+    ],
+    "episodes": [
+      {
+        "season": 1,
+        "episode": 1,
+        "filename": "The.Immortal.Ascension.S01E01.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/zmhwgh49i5r3tvlvmgxqo/The.Immortal.Ascension.S01E01.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=nulceihvtvvqewic38jfx35yb&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 2,
+        "filename": "The.Immortal.Ascension.S01E02.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/9uw9nf79ik0z1bntkys77/The.Immortal.Ascension.S01E02.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=w12i763ggfca46z1245n9ok2x&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 3,
+        "filename": "The.Immortal.Ascension.S01E03.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/93j376fdligownsi6jy82/The.Immortal.Ascension.S01E03.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=e2umw4gxdjoywqdjjcavrbw81&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 4,
+        "filename": "The.Immortal.Ascension.S01E04.ViE.1080p.NF.WEB-DL.AAC2.0.H264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/685fvj38htro2yzufvxlk/The.Immortal.Ascension.S01E04.ViE.1080p.NF.WEB-DL.AAC2.0.H264.mkv?rlkey=2ptvhmwukaqi2fbioyl44fchf&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 5,
+        "filename": "The.Immortal.Ascension.S01E05.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/734uhaqs9l91y870gqqys/The.Immortal.Ascension.S01E05.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=5a38v5barjrik6p219wbn19oi&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 6,
+        "filename": "The.Immortal.Ascension.S01E06.ViE.1080p.NF.WEB-DL.AAC2.0.H264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/dk4ux7hmnivm698e3zs43/The.Immortal.Ascension.S01E06.ViE.1080p.NF.WEB-DL.AAC2.0.H264.mkv?rlkey=j08tgwozehwqzbjxyx5demby3&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 7,
+        "filename": "The.Immortal.Ascension.S01E07.ViE.1080p.NF.WEB-DL.AAC2.0.H264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/g04nl56gpyuc49jkdkdwg/The.Immortal.Ascension.S01E07.ViE.1080p.NF.WEB-DL.AAC2.0.H264.mkv?rlkey=u3rrdnrvxr1fbcwpkbt0q21xb&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 9,
+        "filename": "The.Immortal.Ascension.S01E09.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/ptmkhdhgd1uzn32w3vvb7/The.Immortal.Ascension.S01E09.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=h5ltsdqit6ogsp7ajy6bc474k&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 10,
+        "filename": "The.Immortal.Ascension.S01E10.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/4x1socs3lj4kyym11bdun/The.Immortal.Ascension.S01E10.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=ujoztzqr3r8su7wkb4rd4dicz&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 11,
+        "filename": "The.Immortal.Ascension.S01E11.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/8j8zqr903i3sr3sotvmyq/The.Immortal.Ascension.S01E11.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=fwrp7s7vcun83eub2uxr88s8t&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 12,
+        "filename": "The.Immortal.Ascension.S01E12.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/d9c7un86f62zyx0h1am8f/The.Immortal.Ascension.S01E12.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=smo0tcvn1zfd4823sjlq5mbdb&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 13,
+        "filename": "The.Immortal.Ascension.S01E13.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/y2z1f0pookn0zf31fwee5/The.Immortal.Ascension.S01E13.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=czacylkwtdwtcahbg5rzr82j1&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 14,
+        "filename": "The.Immortal.Ascension.S01E14.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/ru7fm8paxkum1toczq2jw/The.Immortal.Ascension.S01E14.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=jpjrpk23asi8w6526zkhxce77&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 15,
+        "filename": "The.Immortal.Ascension.S01E15.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/d4zhsjthj7gibdkylz133/The.Immortal.Ascension.S01E15.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=1d0lcyyab6imq2kq6wnz4mkez&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 16,
+        "filename": "The.Immortal.Ascension.S01E16.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/47ju9q7idirv5q54qpdhp/The.Immortal.Ascension.S01E16.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=uz9jziwzsjcx0n4rk1gfrnf65&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 17,
+        "filename": "The.Immortal.Ascension.S01E17.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-Marco.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/xyvie9sh10jslm87yxey0/The.Immortal.Ascension.S01E17.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-Marco.mkv?rlkey=5btpa327b5th5560z3z1yyog7&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 18,
+        "filename": "The.Immortal.Ascension.S01E18.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/gt470bxzd4mna9zh1ewlw/The.Immortal.Ascension.S01E18.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=05whbnnsf06dtfgnz4r8zr6tk&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 19,
+        "filename": "The.Immortal.Ascension.S01E19.ViE.1080p.NF.WEB-DL.x264.AAC-DeePTV.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/z6arau3c4gs1ew8dly01l/The.Immortal.Ascension.S01E19.ViE.1080p.NF.WEB-DL.x264.AAC-DeePTV.mkv?rlkey=lhyq2fpgcehlfygxwzramzfh5&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 20,
+        "filename": "The.Immortal.Ascension.S01E20.2025.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/peswfcfgar25zmgmbf5hf/The.Immortal.Ascension.S01E20.2025.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=8ppxlkjwhq0u3wfwo8s1wrfg3&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 21,
+        "filename": "The.Immortal.Ascension.S01E21.2025.ViE.1080p.NF.WEB-DL.x264.AAC-DeePTV.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/5in5s9q3sla7as0b1tk9z/The.Immortal.Ascension.S01E21.2025.ViE.1080p.NF.WEB-DL.x264.AAC-DeePTV.mkv?rlkey=br2l1z4lwnj1w0bi9kb9927p4&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 22,
+        "filename": "The.Immortal.Ascension.S01E22.2025.ViE.1080p.NF.WEB-DL.x264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/lyv3g9ios5n9p2yu5vuko/The.Immortal.Ascension.S01E22.2025.ViE.1080p.NF.WEB-DL.x264.mkv?rlkey=skfgjmm9cpm5g8f0irzypf1n8&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 23,
+        "filename": "The.Immortal.Ascension.S01E23.2025.ViE.1080p.NF.WEB-DL.AAC2.0.H264-ColorTV.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/s3j09ol6ee6ityo68b0mv/The.Immortal.Ascension.S01E23.2025.ViE.1080p.NF.WEB-DL.AAC2.0.H264-ColorTV.mkv?rlkey=t9x24vknt04vtq8n5c2iune3i&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 24,
+        "filename": "The.Immortal.Ascension.S01E24.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/juf8kaaq6nbe2k6w5yji2/The.Immortal.Ascension.S01E24.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=da8301t1s8wh9unc942pr65py&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 25,
+        "filename": "The.Immortal.Ascension.S01E25.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/4h5lvdxmj663drdtzpx04/The.Immortal.Ascension.S01E25.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=kw3zj28kresyyofvqqm5sgzd2&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 26,
+        "filename": "The.Immortal.Ascension.S01E26.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/zlduo3iqa3ij8565q8n9i/The.Immortal.Ascension.S01E26.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=a62ejob72dlisx8x9h0wlg0er&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 27,
+        "filename": "The.Immortal.Ascension.S01E27.2025.1080p.NF.WEB-DL.AAC.2.0.H.264-CHDWEB.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/6dscn4202myhoe9t88k7z/The.Immortal.Ascension.S01E27.2025.1080p.NF.WEB-DL.AAC.2.0.H.264-CHDWEB.mkv?rlkey=2obbet0s9vp4gx7u3bvxm4lc1&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 28,
+        "filename": "The.Immortal.Ascension.S01E28.2025.ViE.Fpt.1080p.NF.WEB-DL.AAC.2.0.H.264-CHDWEB.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/633mukywfoc72i4q9qxhv/The.Immortal.Ascension.S01E28.2025.ViE.Fpt.1080p.NF.WEB-DL.AAC.2.0.H.264-CHDWEB.mkv?rlkey=gcu8hvnl58559pgzrn2vke2qv&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 29,
+        "filename": "The.Immortal.Ascension.S01E29.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/jazy0j4oken4g6h1d8ho7/The.Immortal.Ascension.S01E29.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=48fn62ng2er5wqrkaru8aik96&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 30,
+        "filename": "The.Immortal.Ascension.S01E30.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/7ed3qvzw84pwik0utg9dc/The.Immortal.Ascension.S01E30.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=y3ffpz5ntev2qcqkmczc09mmf&dl=1"
+      }
+    ]
+  },
+  {
+    "id": 263034,
+    "name": "Phó Sơn Hải",
+    "original_name": "赴山海",
+    "overview": "Bộ phim kể về Tiêu Minh Minh, một chàng trai từng say mê tiểu thuyết võ hiệp nhưng bị hiện thực làm mai một đi nhiệt huyết. Qua góc nhìn của nhân vật chính Tiêu Thu Thủy trong tiểu thuyết, anh có cơ hội trải nghiệm thế giới võ lâm. Từ một thiếu niên kiếm khách non nớt, bồng bột và có võ công thấp kém, anh dần trưởng thành, trở thành một đại hiệp có nghĩa khí, sẵn sàng bảo vệ gia đình và đất nước. Sau hành trình này, Tiêu Minh Minh tiếp tục sáng tác trong thời gian rảnh rỗi, gửi gắm niềm tin vào tinh thần nghĩa hiệp trong từng trang sách.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wjnj2U2wJlydg1rjMvyaR9uXC2S.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/7dH63uoQDQu6pfYJLNKQYLXJ38m.jpg",
+    "first_air_date": "2025-09-11",
+    "vote_average": 6,
+    "genres": [
+      "Phim Chính Kịch"
+    ],
+    "episodes": [
+      {
+        "season": 1,
+        "episode": 1,
+        "filename": "The.Journey.of.Legend.2025.S01E01.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/6qfb8115f5btiwyrosgbu/The.Journey.of.Legend.2025.S01E01.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=go11xz9gltdrfmo9704v352ga&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 2,
+        "filename": "The.Journey.of.Legend.2025.S01E02.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/8cnpjk0e9iu90r7kynaso/The.Journey.of.Legend.2025.S01E02.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=9nglb3i811lm1hcf57xkps363&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 3,
+        "filename": "The.Journey.of.Legend.2025.S01E03.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/kk1q245ln1sw29ib1wgkc/The.Journey.of.Legend.2025.S01E03.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=6oc0u4aja1ywls2c6iml6uhpq&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 4,
+        "filename": "The.Journey.of.Legend.2025.S01E04.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/awefc1v3l8cd1m8hbogu7/The.Journey.of.Legend.2025.S01E04.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=nrfyxzj8zuw816s362inj6ez4&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 5,
+        "filename": "The.Journey.of.Legend.2025.S01E05.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/mgcqe7nrp2qig7bvq0nco/The.Journey.of.Legend.2025.S01E05.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=lkt1uelv1p9mdebf3ldhp875f&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 6,
+        "filename": "The.Journey.of.Legend.2025.S01E06.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/u00qrtjsja6qlnwp4awlv/The.Journey.of.Legend.2025.S01E06.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=h9jnj6c9dkpxiz689z94l24xc&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 7,
+        "filename": "The.Journey.of.Legend.2025.S01E07.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/kjwfr7jzkpjmhpaik3yt1/The.Journey.of.Legend.2025.S01E07.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=zfmnels9ki3qizxbax5nmvqho&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 8,
+        "filename": "The.Journey.of.Legend.2025.S01E08.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/flcfqzq7my49av9iwetd0/The.Journey.of.Legend.2025.S01E08.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=dwswxcdi3puhmer7cizlq8zz8&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 9,
+        "filename": "The.Journey.of.Legend.2025.S01E09.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/8zu9dzgxgrvwt6rbuqf0r/The.Journey.of.Legend.2025.S01E09.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=0g8vjh3alx6vh409cgz41gnj5&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 10,
+        "filename": "The.Journey.of.Legend.2025.S01E10.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/d7o2ub8nt73gvnuzryv70/The.Journey.of.Legend.2025.S01E10.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=az42ydyky34gzwr1vtb6lhbfk&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 11,
+        "filename": "The.Journey.of.Legend.2025.S01E11.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/qlkkzxd74d667fmukb5ta/The.Journey.of.Legend.2025.S01E11.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=8w1hqt4pov5zi8frdlnffccio&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 12,
+        "filename": "The.Journey.of.Legend.2025.S01E12.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/7688h5s8omqluq02738ly/The.Journey.of.Legend.2025.S01E12.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=sz20swj5rp3v3caltk0du13yv&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 13,
+        "filename": "The.Journey.of.Legend.2025.S01E13.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/wce4j8u0oi9cldnd2v0qg/The.Journey.of.Legend.2025.S01E13.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=yajg1pnflld2qpftgx5jbbua5&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 14,
+        "filename": "The.Journey.of.Legend.2025.S01E14.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/xyg3edcs47p7pdw46akmz/The.Journey.of.Legend.2025.S01E14.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=xlfzaqtpqiiealhr09g0aaedw&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 15,
+        "filename": "The.Journey.of.Legend.2025.S01E15.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/oynu8r1pvqt71k9oagu82/The.Journey.of.Legend.2025.S01E15.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=cpvt5yy6d8tpo76szhfpjf6on&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 16,
+        "filename": "The.Journey.of.Legend.2025.S01E16.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/nrxy29jc7352kjkcvy0wk/The.Journey.of.Legend.2025.S01E16.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=ided6r6uuwdkb162imp90t5ur&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 17,
+        "filename": "The.Journey.of.Legend.2025.S01E17.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/7a7zzvfzpjf4hzk2eme7r/The.Journey.of.Legend.2025.S01E17.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=tgvo4ol9bw6kvkvduby4bdmcy&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 18,
+        "filename": "The.Journey.of.Legend.2025.S01E18.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/jxtr50iyjpf6wjz6jliqn/The.Journey.of.Legend.2025.S01E18.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=6k3tizabyj1661x10l70qjhc9&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 19,
+        "filename": "The.Journey.of.Legend.2025.S01E19.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/qvkvqtbvspbj5ydie6g3k/The.Journey.of.Legend.2025.S01E19.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=jfmyiiim8l32kaedgq0qwpgw7&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 20,
+        "filename": "The.Journey.of.Legend.2025.S01E20.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/18z7gxhpjnestljblkdev/The.Journey.of.Legend.2025.S01E20.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=7sq0xpc6c3stlgr3n9ga604uu&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 21,
+        "filename": "The.Journey.of.Legend.2025.S01E21.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/lxcfm87dwj5q4damvc1lq/The.Journey.of.Legend.2025.S01E21.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=gq77k758fbic9ilhntwl904b4&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 22,
+        "filename": "The.Journey.of.Legend.2025.S01E22.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/dcycqsiqqsa8ck7ggegym/The.Journey.of.Legend.2025.S01E22.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=r45btyezutackzir2dxot1sk5&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 23,
+        "filename": "The.Journey.of.Legend.2025.S01E23.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/4uvu2q0xdf7gapxieha24/The.Journey.of.Legend.2025.S01E23.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=j3v5hdfg7ar48f7y14qrrgwj0&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 24,
+        "filename": "The.Journey.of.Legend.2025.S01E24.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/yoeq3tk5r7ezhqn67oe28/The.Journey.of.Legend.2025.S01E24.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=875i7lhzt606o4vftnqz82n0u&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 25,
+        "filename": "The.Journey.of.Legend.2025.S01E25.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/ddtpvws8houqpojdoxpdo/The.Journey.of.Legend.2025.S01E25.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=pyog769a513m6kwwz99w72h5i&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 26,
+        "filename": "The.Journey.of.Legend.2025.S01E26.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/ktu6lt4p8xmsayrs963mz/The.Journey.of.Legend.2025.S01E26.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=kuf35i40fubjxx3eqtfs37a14&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 27,
+        "filename": "The.Journey.of.Legend.2025.S01E27.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/kto53keoew5y37if9vxe9/The.Journey.of.Legend.2025.S01E27.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=p9ymwipu9yqarhdoqzv6ojayt&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 28,
+        "filename": "The.Journey.of.Legend.2025.S01E28.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/dm7wlwll4l96mipeb4zze/The.Journey.of.Legend.2025.S01E28.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=sy3wqgzb01rhp8496zf6041eq&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 29,
+        "filename": "The.Journey.of.Legend.2025.S01E29.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/1eoeq4mxi4vwac0htv1iv/The.Journey.of.Legend.2025.S01E29.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=yhzkkhwe8mfn4i26b39x2a7le&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 30,
+        "filename": "The.Journey.of.Legend.2025.S01E30.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/ufu3n3718ghfpqzqp8i9p/The.Journey.of.Legend.2025.S01E30.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=gtud3lnnoq6sbx7qsnms0hmiz&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 31,
+        "filename": "The.Journey.of.Legend.2025.S01E31.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/eqgf4czfaxougylkdlsif/The.Journey.of.Legend.2025.S01E31.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=s15fyqsww890hkba2t85dl8kx&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 32,
+        "filename": "The.Journey.of.Legend.2025.S01E32.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/z2zktvuo4hit4czrug8cw/The.Journey.of.Legend.2025.S01E32.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=y430nkgoejhcwxpr8iltzx4vd&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 33,
+        "filename": "The.Journey.of.Legend.2025.S01E33.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/zsfpxhe0ag94zhx52yxyl/The.Journey.of.Legend.2025.S01E33.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=9ae4h9talljq78du7gd0rw4jt&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 34,
+        "filename": "The.Journey.of.Legend.2025.S01E34.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/iw21eeafwy4pyt0y7kpct/The.Journey.of.Legend.2025.S01E34.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=xqsn48lforsewxjnecjvw12an&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 35,
+        "filename": "The.Journey.of.Legend.2025.S01E35.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/9f3097j2k1athiogegg6a/The.Journey.of.Legend.2025.S01E35.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=lz1meyfg68lf00i5fv3smhyp8&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 36,
+        "filename": "The.Journey.of.Legend.2025.S01E36.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/yl3yly52eie3vaw49pgc3/The.Journey.of.Legend.2025.S01E36.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=771v6rlxn0kwzdc9e7cb87kdo&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 37,
+        "filename": "The.Journey.of.Legend.2025.S01E37.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/zrjzit3fjbbgb011ap6qx/The.Journey.of.Legend.2025.S01E37.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=ikgipr1hnug7e6nvg2lb7wj4u&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 38,
+        "filename": "The.Journey.of.Legend.2025.S01E38.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/peyot8xl60ffq00ichk64/The.Journey.of.Legend.2025.S01E38.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=xwfpty7vrhfwbxg8eusdpsmua&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 39,
+        "filename": "The.Journey.of.Legend.2025.S01E39.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/bkv3iin2r090v81cr46q1/The.Journey.of.Legend.2025.S01E39.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=9qjn6l8wlro8myv9vv4n6o0z5&dl=1"
+      },
+      {
+        "season": 1,
+        "episode": 40,
+        "filename": "The.Journey.of.Legend.2025.S01E40.End.2025.ViE.2160p.IQ.WEB-DL.H265.DDP5.1-CHDWEB.mkv",
+        "dropbox_link": "https://www.dropbox.com/scl/fi/o2i9grtbuwd9n8k0x9twn/The.Journey.of.Legend.2025.S01E40.End.2025.ViE.2160p.IQ.WEB-DL.H265.DDP5.1-CHDWEB.mkv?rlkey=1mye7by9wf5vgjj7xei6tfud1&dl=1"
+      }
+    ]
+  }
+]
