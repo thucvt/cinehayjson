@@ -1,154 +1,2412 @@
-{
-  "id": 153869,
-  "name": "Tử Xuyên",
-  "original_name": "紫川",
-  "overview": "Truyền kì máu lửa qua từng thời đại: Trong đế quốc của loài người, gia tộc thần bí ở phương Đông xa xôi, Tử Xuyên Tam Kiệt phất lên! Anh cả Đế Lâm chín chắn đa mưu, tàn khốc lí trí, anh hai Sterling chỉ huy một đội quân, có lòng trung thành với nước, em út Tử Xuyên Tú bị người đời gọi với cái tên “Vô Lại”, trí dũng song toàn. Gia tộc Tử Xuyên loạn trong giặc ngoài, Tử Xuyên Tam Kiệt mỗi người đều có thế mạnh riêng: Trong thời khắc nước sôi lửa bỏng, đánh bại Ma tộc hung ác, xông vào hang hổ truy sát tên phản đồ Lôi Hồng đến cùng; Tư Đặc Lâm lấy gia tộc làm gốc, vừa vô tình vừa trọng tình lưu luyến người yêu... Loài người, Ma tộc, Thú tộc. Mỗi tộc ở mỗi phương khác nhau, tranh chấp lẫn nhau trên mảnh đất Đại Lục này, xích mích không ngừng. Khi máu và lửa hòa vào nhau, đao và kiếm va chạm, tạo ra câu chuyện sử thi bi tráng-Tử Xuyên.",
-  "poster_path": "https://image.tmdb.org/t/p/w500/ouv4VvMNFNoSsyE0SmDeabOjM4O.jpg",
-  "backdrop_path": "https://image.tmdb.org/t/p/original/fhTDNfkicAu8lMLjYqtZYJnhcXa.jpg",
-  "first_air_date": "2021-12-21",
-  "vote_average": 8.5,
-  "genres": [
-    "Phim Hoạt Hình",
-    "Sci-Fi & Fantasy"
-  ],
-  "production_countries": [
-    "China"
-  ],
-  "production_companies": [
-    "Build Dream",
-    "Tencent Penguin Pictures"
-  ],
-  "spoken_languages": [
-    "Mandarin"
-  ],
-  "original_language": "zh",
-  "status": "Returning Series",
-  "tagline": "",
-  "homepage": "https://v.qq.com/detail/t/mzc00200iawcmn2.html",
-  "certification": "",
-  "director": "",
-  "cast_top10": [
-    "Tang Bao",
-    "马正阳",
-    "姜广涛",
-    "宝木中阳",
-    "阿杰",
-    "喬詩語",
-    "Liangwei Hu",
-    "高启帆",
-    "Yuanfei Mei",
-    "Dong Zhou"
-  ],
-  "trailer_youtube_key": "",
-  "trailer_youtube_url": "",
-  "episodes": [
+[
     {
-      "season": 2,
-      "episode": 1,
-      "filename": "Zi.Chuan.S02E01.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/u4og7pq9wohw1cixab97t/Zi.Chuan.S02E01.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=1q6lucgmwigemvfakwakodlmh&dl=1"
+        "id": 279322,
+        "name": "Ngày Không Ngủ",
+        "original_name": "不眠日",
+        "overview": "Bộ phim kể về một vị “thần thám” tại Cục cảnh sát thành phố Hoa Áo, nổi tiếng thông minh và dũng cảm, nhiều lần phá giải những vụ án kỳ bí. Thế nhưng, khi hàng loạt vụ án giết người hoàn mỹ liên tiếp xảy ra, anh phải đối mặt với những thử thách chưa từng có, trong một thành phố đầy biến động và hiểm nguy rình rập ở khắp nơi.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ktilZFVBq4Sc11MbPEXqznW9bYd.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/sTtZV6qfAmrTRNnR3crivqIeAJt.jpg",
+        "first_air_date": "2025-09-17",
+        "vote_average": 7.8,
+        "genres": [
+            "Phim Chính Kịch",
+            "Phim Bí Ẩn",
+            "Phim Hình Sự",
+            "Action & Adventure"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "Mobius.S01E01.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/5m8trl0vmijfc5odxvgku/Mobius.S01E01.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv?rlkey=p1864413gc9bqkm558gv8b3a0&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "Mobius.S01E02.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/8lqlyheyxphi51n3fup7s/Mobius.S01E02.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv?rlkey=nf6p0dyt5g0thf81ypghz0jk9&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "Mobius.S01E03.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/awh658xm2ejmj0pqzoath/Mobius.S01E03.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv?rlkey=f0w0k1958p3psxb1rb98y13no&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "Mobius.S01E04.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/uvmfhui2hf4bq30xxr0b6/Mobius.S01E04.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv?rlkey=5grpngreza908d9linoiiggbb&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "filename": "Mobius.S01E05.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/b4hr3xzkuilamvbwb56zf/Mobius.S01E05.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv?rlkey=vpn8nfm7u9nugsfx4ewijqfgh&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "filename": "Mobius.S01E06.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/dvjt1msnivn9q46irsnhu/Mobius.S01E06.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv?rlkey=nhm0b4cszt8ss7zpqjz1m0p8a&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "filename": "Mobius.S01E07.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/fh2kqbdtpi5qvu119oh74/Mobius.S01E07.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv?rlkey=5vjsq5guaq7wh8pko8iur6e1d&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "filename": "Mobius.S01E08.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/9ynpoeio7r25hu2pp06ov/Mobius.S01E08.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv?rlkey=dt89zhlihtf4257f3x6jq8dcg&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "filename": "Mobius.S01E09.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/we66ui2rhoyohm2vpwtbr/Mobius.S01E09.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv?rlkey=ai8nmk9xggz54k5rajh68ntsz&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "filename": "Mobius.S01E10.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/whzsnc6d6hwqa3glih3m3/Mobius.S01E10.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv?rlkey=jiwas5a56zgih9dg6hgv0kri7&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "filename": "Mobius.S01E11.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/wob6e7mg5xh4u5m7gzycq/Mobius.S01E11.2025.ViE.1080p.IQ.WEB-DL.H264.AAC-CHDWEB.mkv?rlkey=f8rroktiynnovyzhyflu71e5p&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "filename": "Mobius.S01E12.2025.ViE.1080p.NF.WEB-DL.AAC2.0.H264-ColorTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ak94e05wcpqbeg3d2o55k/Mobius.S01E12.2025.ViE.1080p.NF.WEB-DL.AAC2.0.H264-ColorTV.mkv?rlkey=prqgny95h9am4enwysyr22jcm&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "filename": "Mobius.S01E13.2025.ViE.1080p.NF.WEB-DL.AAC2.0.H264-ColorTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ydfesoobjirzzzl9gqamn/Mobius.S01E13.2025.ViE.1080p.NF.WEB-DL.AAC2.0.H264-ColorTV.mkv?rlkey=rthoh70fqonpkebbtmi13b7g0&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 2,
-      "filename": "Zi.Chuan.S02E02.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/0o06ouvwulep8unf449zr/Zi.Chuan.S02E02.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=3wlzwtda9w8wnmj7vdj1o2blp&dl=1"
+        "id": 243224,
+        "name": "Phàm Nhân Tu Tiên Truyện",
+        "original_name": "凡人修仙传",
+        "overview": "Phàm Nhân Tu Tiên Truyện là hành trình tu luyện khốc liệt của Hàn Lập, một thiếu niên nghèo có ước mơ trở thành tiên nhân. Với xuất thân bình thường, Hàn Lập gia nhập một môn phái nhỏ rồi dựa vào nỗ lực cùng mưu trí của bản thân để vượt qua vô số nghịch cảnh trên con đường tu tiên đầy hiểm nguy. Với tạo hình đẹp mắt, kỹ xảo ấn tượng cùng loạt cảnh chiến đấu mãn nhãn, đây là tác phẩm tiên hiệp hứa hẹn sẽ mang đến trải nghiệm thị giác vượt trội cho người xem.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/eSlhCgpTcJ1pYmNclKs4IlkmFCW.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/tOpyQG9MAnFN4YiDgyk5NnCGa7X.jpg",
+        "first_air_date": "2025-07-27",
+        "vote_average": 7.3,
+        "genres": [
+            "Phim Chính Kịch",
+            "Sci-Fi & Fantasy"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "The.Immortal.Ascension.S01E01.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/zmhwgh49i5r3tvlvmgxqo/The.Immortal.Ascension.S01E01.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=nulceihvtvvqewic38jfx35yb&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "The.Immortal.Ascension.S01E02.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/9uw9nf79ik0z1bntkys77/The.Immortal.Ascension.S01E02.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=w12i763ggfca46z1245n9ok2x&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "The.Immortal.Ascension.S01E03.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/93j376fdligownsi6jy82/The.Immortal.Ascension.S01E03.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=e2umw4gxdjoywqdjjcavrbw81&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "The.Immortal.Ascension.S01E04.ViE.1080p.NF.WEB-DL.AAC2.0.H264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/685fvj38htro2yzufvxlk/The.Immortal.Ascension.S01E04.ViE.1080p.NF.WEB-DL.AAC2.0.H264.mkv?rlkey=2ptvhmwukaqi2fbioyl44fchf&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "filename": "The.Immortal.Ascension.S01E05.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/734uhaqs9l91y870gqqys/The.Immortal.Ascension.S01E05.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=5a38v5barjrik6p219wbn19oi&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "filename": "The.Immortal.Ascension.S01E06.ViE.1080p.NF.WEB-DL.AAC2.0.H264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/dk4ux7hmnivm698e3zs43/The.Immortal.Ascension.S01E06.ViE.1080p.NF.WEB-DL.AAC2.0.H264.mkv?rlkey=j08tgwozehwqzbjxyx5demby3&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "filename": "The.Immortal.Ascension.S01E07.ViE.1080p.NF.WEB-DL.AAC2.0.H264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/g04nl56gpyuc49jkdkdwg/The.Immortal.Ascension.S01E07.ViE.1080p.NF.WEB-DL.AAC2.0.H264.mkv?rlkey=u3rrdnrvxr1fbcwpkbt0q21xb&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "filename": "The.Immortal.Ascension.S01E09.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ptmkhdhgd1uzn32w3vvb7/The.Immortal.Ascension.S01E09.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=h5ltsdqit6ogsp7ajy6bc474k&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "filename": "The.Immortal.Ascension.S01E10.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4x1socs3lj4kyym11bdun/The.Immortal.Ascension.S01E10.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=ujoztzqr3r8su7wkb4rd4dicz&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "filename": "The.Immortal.Ascension.S01E11.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/8j8zqr903i3sr3sotvmyq/The.Immortal.Ascension.S01E11.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=fwrp7s7vcun83eub2uxr88s8t&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "filename": "The.Immortal.Ascension.S01E12.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/d9c7un86f62zyx0h1am8f/The.Immortal.Ascension.S01E12.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=smo0tcvn1zfd4823sjlq5mbdb&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "filename": "The.Immortal.Ascension.S01E13.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/y2z1f0pookn0zf31fwee5/The.Immortal.Ascension.S01E13.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=czacylkwtdwtcahbg5rzr82j1&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "filename": "The.Immortal.Ascension.S01E14.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ru7fm8paxkum1toczq2jw/The.Immortal.Ascension.S01E14.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=jpjrpk23asi8w6526zkhxce77&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "filename": "The.Immortal.Ascension.S01E15.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/d4zhsjthj7gibdkylz133/The.Immortal.Ascension.S01E15.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=1d0lcyyab6imq2kq6wnz4mkez&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 16,
+                "filename": "The.Immortal.Ascension.S01E16.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/47ju9q7idirv5q54qpdhp/The.Immortal.Ascension.S01E16.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=uz9jziwzsjcx0n4rk1gfrnf65&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 17,
+                "filename": "The.Immortal.Ascension.S01E17.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-Marco.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/xyvie9sh10jslm87yxey0/The.Immortal.Ascension.S01E17.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-Marco.mkv?rlkey=5btpa327b5th5560z3z1yyog7&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 18,
+                "filename": "The.Immortal.Ascension.S01E18.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/gt470bxzd4mna9zh1ewlw/The.Immortal.Ascension.S01E18.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=05whbnnsf06dtfgnz4r8zr6tk&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 19,
+                "filename": "The.Immortal.Ascension.S01E19.ViE.1080p.NF.WEB-DL.x264.AAC-DeePTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/z6arau3c4gs1ew8dly01l/The.Immortal.Ascension.S01E19.ViE.1080p.NF.WEB-DL.x264.AAC-DeePTV.mkv?rlkey=lhyq2fpgcehlfygxwzramzfh5&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 20,
+                "filename": "The.Immortal.Ascension.S01E20.2025.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/peswfcfgar25zmgmbf5hf/The.Immortal.Ascension.S01E20.2025.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=8ppxlkjwhq0u3wfwo8s1wrfg3&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 21,
+                "filename": "The.Immortal.Ascension.S01E21.2025.ViE.1080p.NF.WEB-DL.x264.AAC-DeePTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/5in5s9q3sla7as0b1tk9z/The.Immortal.Ascension.S01E21.2025.ViE.1080p.NF.WEB-DL.x264.AAC-DeePTV.mkv?rlkey=br2l1z4lwnj1w0bi9kb9927p4&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 22,
+                "filename": "The.Immortal.Ascension.S01E22.2025.ViE.1080p.NF.WEB-DL.x264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/lyv3g9ios5n9p2yu5vuko/The.Immortal.Ascension.S01E22.2025.ViE.1080p.NF.WEB-DL.x264.mkv?rlkey=skfgjmm9cpm5g8f0irzypf1n8&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 23,
+                "filename": "The.Immortal.Ascension.S01E23.2025.ViE.1080p.NF.WEB-DL.AAC2.0.H264-ColorTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/s3j09ol6ee6ityo68b0mv/The.Immortal.Ascension.S01E23.2025.ViE.1080p.NF.WEB-DL.AAC2.0.H264-ColorTV.mkv?rlkey=t9x24vknt04vtq8n5c2iune3i&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 24,
+                "filename": "The.Immortal.Ascension.S01E24.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/juf8kaaq6nbe2k6w5yji2/The.Immortal.Ascension.S01E24.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=da8301t1s8wh9unc942pr65py&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 25,
+                "filename": "The.Immortal.Ascension.S01E25.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4h5lvdxmj663drdtzpx04/The.Immortal.Ascension.S01E25.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=kw3zj28kresyyofvqqm5sgzd2&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 26,
+                "filename": "The.Immortal.Ascension.S01E26.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/zlduo3iqa3ij8565q8n9i/The.Immortal.Ascension.S01E26.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=a62ejob72dlisx8x9h0wlg0er&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 27,
+                "filename": "The.Immortal.Ascension.S01E27.2025.1080p.NF.WEB-DL.AAC.2.0.H.264-CHDWEB.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/6dscn4202myhoe9t88k7z/The.Immortal.Ascension.S01E27.2025.1080p.NF.WEB-DL.AAC.2.0.H.264-CHDWEB.mkv?rlkey=2obbet0s9vp4gx7u3bvxm4lc1&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 28,
+                "filename": "The.Immortal.Ascension.S01E28.2025.ViE.Fpt.1080p.NF.WEB-DL.AAC.2.0.H.264-CHDWEB.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/633mukywfoc72i4q9qxhv/The.Immortal.Ascension.S01E28.2025.ViE.Fpt.1080p.NF.WEB-DL.AAC.2.0.H.264-CHDWEB.mkv?rlkey=gcu8hvnl58559pgzrn2vke2qv&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 29,
+                "filename": "The.Immortal.Ascension.S01E29.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/jazy0j4oken4g6h1d8ho7/The.Immortal.Ascension.S01E29.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=48fn62ng2er5wqrkaru8aik96&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 30,
+                "filename": "The.Immortal.Ascension.S01E30.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/7ed3qvzw84pwik0utg9dc/The.Immortal.Ascension.S01E30.ViE.1080p.NF.WEB-DL.AAC2.0.H.264.mkv?rlkey=y3ffpz5ntev2qcqkmczc09mmf&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 3,
-      "filename": "Zi.Chuan.S02E03.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/07ot0ojnft51od84mt5e0/Zi.Chuan.S02E03.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=q4pgwo9jvo7j39si8vhngmefu&dl=1"
+        "id": 223051,
+        "name": "Tây Du Ký (2000)",
+        "original_name": "Tây Du Ký (2000)",
+        "overview": "Phần tiếp theo của Tây Du Ký (1986). Phần 2 bao gồm 16 tập.",
+        "poster_path": "",
+        "backdrop_path": "",
+        "first_air_date": "",
+        "vote_average": 0,
+        "genres": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "Tay du ky (1986) - Tập 04 - Bị giam ở ngũ hành sơn.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/k5jauxv99cern4tkhrziz/Tay-du-ky-1986-T-p-04-B-giam-ng-h-nh-s-n.mkv?rlkey=4sx7ovo9omc1y6mwk93wk89ip&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "Tay du ky (1986) - Tập 01 - Hầu vương ra đời.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/kcqfsbxeqxjw6969nhami/Tay-du-ky-1986-T-p-01-H-u-v-ng-ra-i.mkv?rlkey=5s2nzsw446p1pbp9el1ubun3e&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "Tay du ky (1986) - Tập 02 - Phong quan bật mã ôn.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/wgae0qtuhevq489e1gtur/Tay-du-ky-1986-T-p-02-Phong-quan-b-t-m-n.mkv?rlkey=2cy3wxyez55xpr9qayekbx9ce&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "Tay du ky (1986) - Tập 03 - Đại náo thiên cung.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/x1r56qzxtky546h7o7e24/Tay-du-ky-1986-T-p-03-i-n-o-thi-n-cung.mkv?rlkey=rwqzuyd2gtxy8v141qptnd0xl&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "filename": "Tay du ky (1986) - Tập 05 - Hầu vương hộ tống đường tăng.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/atv8tj7n7ojq015jjq9de/Tay-du-ky-1986-T-p-05-H-u-v-ng-h-t-ng-ng-t-ng.mkv?rlkey=k2r5xhi8rfm5kz537cwprasin&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "filename": "Tay du ky (1986) - Tập 06 - Hoạ khởi quan âm viện.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/dq7yw08vilw5p2xcdqph0/Tay-du-ky-1986-T-p-06-Ho-kh-i-quan-m-vi-n.mkv?rlkey=wfsobjfkmn36aca2hns84fnot&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "filename": "Tay du ky (1986) - Tập 07 - Dùng kế thu nạp Trư bát giới.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/srjjgk8jtssk7i2elp818/Tay-du-ky-1986-T-p-07-D-ng-k-thu-n-p-Tr-b-t-gi-i.mkv?rlkey=wwl46p7t0rftt8rrxmhar98rt&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 4,
-      "filename": "Zi.Chuan.S02E04.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/3bu7cnejjac6b7a8o21zl/Zi.Chuan.S02E04.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=3ddml5yajpl4eb7x4da6s9zze&dl=1"
+        "id": 263034,
+        "name": "Phó Sơn Hải",
+        "original_name": "赴山海",
+        "overview": "Bộ phim kể về Tiêu Minh Minh, một chàng trai từng say mê tiểu thuyết võ hiệp nhưng bị hiện thực làm mai một đi nhiệt huyết. Qua góc nhìn của nhân vật chính Tiêu Thu Thủy trong tiểu thuyết, anh có cơ hội trải nghiệm thế giới võ lâm. Từ một thiếu niên kiếm khách non nớt, bồng bột và có võ công thấp kém, anh dần trưởng thành, trở thành một đại hiệp có nghĩa khí, sẵn sàng bảo vệ gia đình và đất nước. Sau hành trình này, Tiêu Minh Minh tiếp tục sáng tác trong thời gian rảnh rỗi, gửi gắm niềm tin vào tinh thần nghĩa hiệp trong từng trang sách.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/wjnj2U2wJlydg1rjMvyaR9uXC2S.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/7dH63uoQDQu6pfYJLNKQYLXJ38m.jpg",
+        "first_air_date": "2025-09-11",
+        "vote_average": 6,
+        "genres": [
+            "Phim Chính Kịch"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "The.Journey.of.Legend.2025.S01E01.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/6qfb8115f5btiwyrosgbu/The.Journey.of.Legend.2025.S01E01.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=go11xz9gltdrfmo9704v352ga&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "The.Journey.of.Legend.2025.S01E02.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/8cnpjk0e9iu90r7kynaso/The.Journey.of.Legend.2025.S01E02.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=9nglb3i811lm1hcf57xkps363&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "The.Journey.of.Legend.2025.S01E03.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/kk1q245ln1sw29ib1wgkc/The.Journey.of.Legend.2025.S01E03.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=6oc0u4aja1ywls2c6iml6uhpq&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "The.Journey.of.Legend.2025.S01E04.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/awefc1v3l8cd1m8hbogu7/The.Journey.of.Legend.2025.S01E04.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=nrfyxzj8zuw816s362inj6ez4&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "filename": "The.Journey.of.Legend.2025.S01E05.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/mgcqe7nrp2qig7bvq0nco/The.Journey.of.Legend.2025.S01E05.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=lkt1uelv1p9mdebf3ldhp875f&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "filename": "The.Journey.of.Legend.2025.S01E06.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/u00qrtjsja6qlnwp4awlv/The.Journey.of.Legend.2025.S01E06.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=h9jnj6c9dkpxiz689z94l24xc&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "filename": "The.Journey.of.Legend.2025.S01E07.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/kjwfr7jzkpjmhpaik3yt1/The.Journey.of.Legend.2025.S01E07.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=zfmnels9ki3qizxbax5nmvqho&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "filename": "The.Journey.of.Legend.2025.S01E08.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/flcfqzq7my49av9iwetd0/The.Journey.of.Legend.2025.S01E08.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=dwswxcdi3puhmer7cizlq8zz8&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "filename": "The.Journey.of.Legend.2025.S01E09.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/8zu9dzgxgrvwt6rbuqf0r/The.Journey.of.Legend.2025.S01E09.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=0g8vjh3alx6vh409cgz41gnj5&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "filename": "The.Journey.of.Legend.2025.S01E10.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/d7o2ub8nt73gvnuzryv70/The.Journey.of.Legend.2025.S01E10.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=az42ydyky34gzwr1vtb6lhbfk&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "filename": "The.Journey.of.Legend.2025.S01E11.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/qlkkzxd74d667fmukb5ta/The.Journey.of.Legend.2025.S01E11.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=8w1hqt4pov5zi8frdlnffccio&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "filename": "The.Journey.of.Legend.2025.S01E12.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/7688h5s8omqluq02738ly/The.Journey.of.Legend.2025.S01E12.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=sz20swj5rp3v3caltk0du13yv&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "filename": "The.Journey.of.Legend.2025.S01E13.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/wce4j8u0oi9cldnd2v0qg/The.Journey.of.Legend.2025.S01E13.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=yajg1pnflld2qpftgx5jbbua5&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "filename": "The.Journey.of.Legend.2025.S01E14.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/xyg3edcs47p7pdw46akmz/The.Journey.of.Legend.2025.S01E14.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=xlfzaqtpqiiealhr09g0aaedw&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "filename": "The.Journey.of.Legend.2025.S01E15.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/oynu8r1pvqt71k9oagu82/The.Journey.of.Legend.2025.S01E15.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=cpvt5yy6d8tpo76szhfpjf6on&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 16,
+                "filename": "The.Journey.of.Legend.2025.S01E16.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/nrxy29jc7352kjkcvy0wk/The.Journey.of.Legend.2025.S01E16.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=ided6r6uuwdkb162imp90t5ur&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 17,
+                "filename": "The.Journey.of.Legend.2025.S01E17.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/7a7zzvfzpjf4hzk2eme7r/The.Journey.of.Legend.2025.S01E17.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=tgvo4ol9bw6kvkvduby4bdmcy&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 18,
+                "filename": "The.Journey.of.Legend.2025.S01E18.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/jxtr50iyjpf6wjz6jliqn/The.Journey.of.Legend.2025.S01E18.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=6k3tizabyj1661x10l70qjhc9&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 19,
+                "filename": "The.Journey.of.Legend.2025.S01E19.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/qvkvqtbvspbj5ydie6g3k/The.Journey.of.Legend.2025.S01E19.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=jfmyiiim8l32kaedgq0qwpgw7&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 20,
+                "filename": "The.Journey.of.Legend.2025.S01E20.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/18z7gxhpjnestljblkdev/The.Journey.of.Legend.2025.S01E20.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=7sq0xpc6c3stlgr3n9ga604uu&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 21,
+                "filename": "The.Journey.of.Legend.2025.S01E21.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/lxcfm87dwj5q4damvc1lq/The.Journey.of.Legend.2025.S01E21.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=gq77k758fbic9ilhntwl904b4&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 22,
+                "filename": "The.Journey.of.Legend.2025.S01E22.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/dcycqsiqqsa8ck7ggegym/The.Journey.of.Legend.2025.S01E22.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=r45btyezutackzir2dxot1sk5&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 23,
+                "filename": "The.Journey.of.Legend.2025.S01E23.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4uvu2q0xdf7gapxieha24/The.Journey.of.Legend.2025.S01E23.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=j3v5hdfg7ar48f7y14qrrgwj0&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 24,
+                "filename": "The.Journey.of.Legend.2025.S01E24.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/yoeq3tk5r7ezhqn67oe28/The.Journey.of.Legend.2025.S01E24.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=875i7lhzt606o4vftnqz82n0u&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 25,
+                "filename": "The.Journey.of.Legend.2025.S01E25.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ddtpvws8houqpojdoxpdo/The.Journey.of.Legend.2025.S01E25.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=pyog769a513m6kwwz99w72h5i&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 26,
+                "filename": "The.Journey.of.Legend.2025.S01E26.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ktu6lt4p8xmsayrs963mz/The.Journey.of.Legend.2025.S01E26.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=kuf35i40fubjxx3eqtfs37a14&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 27,
+                "filename": "The.Journey.of.Legend.2025.S01E27.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/kto53keoew5y37if9vxe9/The.Journey.of.Legend.2025.S01E27.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=p9ymwipu9yqarhdoqzv6ojayt&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 28,
+                "filename": "The.Journey.of.Legend.2025.S01E28.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/dm7wlwll4l96mipeb4zze/The.Journey.of.Legend.2025.S01E28.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=sy3wqgzb01rhp8496zf6041eq&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 29,
+                "filename": "The.Journey.of.Legend.2025.S01E29.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/1eoeq4mxi4vwac0htv1iv/The.Journey.of.Legend.2025.S01E29.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=yhzkkhwe8mfn4i26b39x2a7le&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 30,
+                "filename": "The.Journey.of.Legend.2025.S01E30.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ufu3n3718ghfpqzqp8i9p/The.Journey.of.Legend.2025.S01E30.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=gtud3lnnoq6sbx7qsnms0hmiz&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 31,
+                "filename": "The.Journey.of.Legend.2025.S01E31.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/eqgf4czfaxougylkdlsif/The.Journey.of.Legend.2025.S01E31.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=s15fyqsww890hkba2t85dl8kx&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 32,
+                "filename": "The.Journey.of.Legend.2025.S01E32.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/z2zktvuo4hit4czrug8cw/The.Journey.of.Legend.2025.S01E32.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=y430nkgoejhcwxpr8iltzx4vd&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 33,
+                "filename": "The.Journey.of.Legend.2025.S01E33.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/zsfpxhe0ag94zhx52yxyl/The.Journey.of.Legend.2025.S01E33.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=9ae4h9talljq78du7gd0rw4jt&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 34,
+                "filename": "The.Journey.of.Legend.2025.S01E34.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/iw21eeafwy4pyt0y7kpct/The.Journey.of.Legend.2025.S01E34.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=xqsn48lforsewxjnecjvw12an&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 35,
+                "filename": "The.Journey.of.Legend.2025.S01E35.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/9f3097j2k1athiogegg6a/The.Journey.of.Legend.2025.S01E35.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=lz1meyfg68lf00i5fv3smhyp8&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 36,
+                "filename": "The.Journey.of.Legend.2025.S01E36.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/yl3yly52eie3vaw49pgc3/The.Journey.of.Legend.2025.S01E36.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=771v6rlxn0kwzdc9e7cb87kdo&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 37,
+                "filename": "The.Journey.of.Legend.2025.S01E37.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/zrjzit3fjbbgb011ap6qx/The.Journey.of.Legend.2025.S01E37.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=ikgipr1hnug7e6nvg2lb7wj4u&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 38,
+                "filename": "The.Journey.of.Legend.2025.S01E38.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/peyot8xl60ffq00ichk64/The.Journey.of.Legend.2025.S01E38.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=xwfpty7vrhfwbxg8eusdpsmua&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 39,
+                "filename": "The.Journey.of.Legend.2025.S01E39.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/bkv3iin2r090v81cr46q1/The.Journey.of.Legend.2025.S01E39.ViE.1080p.WEB-DL.AAC.2.0.H.264-ZIN.mkv?rlkey=9qjn6l8wlro8myv9vv4n6o0z5&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 40,
+                "filename": "The.Journey.of.Legend.2025.S01E40.End.2025.ViE.2160p.IQ.WEB-DL.H265.DDP5.1-CHDWEB.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/o2i9grtbuwd9n8k0x9twn/The.Journey.of.Legend.2025.S01E40.End.2025.ViE.2160p.IQ.WEB-DL.H265.DDP5.1-CHDWEB.mkv?rlkey=1mye7by9wf5vgjj7xei6tfud1&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 5,
-      "filename": "Zi.Chuan.S02E05.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/uklj8ufc6r64wvsyjhrtu/Zi.Chuan.S02E05.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=vpbs9cwajufozcpoj6u4uuqjc&dl=1"
+        "id": 228689,
+        "name": "Thần đèn ơi, ước đi",
+        "original_name": "다 이루어질지니",
+        "overview": "Sau một ngàn năm, vị thần đèn kỳ quặc nọ trở lại để ban điều ước cho người phụ nữ bẩm sinh vô cảm. Liệu phép thuật của anh có thể mang tình yêu và điều kỳ diệu đến thế giới của cô?",
+        "poster_path": "https://image.tmdb.org/t/p/w500/zq84x5kmwomvmmJ03hzl389UGeb.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
+        "first_air_date": "2025-10-03",
+        "vote_average": 7.338,
+        "genres": [
+            "Sci-Fi & Fantasy",
+            "Phim Hài",
+            "Phim Chính Kịch"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "Genie.Make.a.Wish.S01E01.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/j2llisgipupzb04p7wneg/Genie.Make.a.Wish.S01E01.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv?rlkey=zgvth4zchou060iqq87u5n92d&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "Genie.Make.a.Wish.S01E02.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/3dnhgi5hncjadwos2wj5c/Genie.Make.a.Wish.S01E02.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv?rlkey=3kc87xxdepips05minxco8axm&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "Genie.Make.a.Wish.S01E03.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/98o3d14taqr48u9tfm2cm/Genie.Make.a.Wish.S01E03.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv?rlkey=aw439bb5f2xi530rl46qsx53h&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "Genie.Make.a.Wish.S01E04.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/xu16pa7709e4sci53gyx8/Genie.Make.a.Wish.S01E04.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv?rlkey=nfak7zcn0zedetoat3m0mj3sa&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "filename": "Genie.Make.a.Wish.S01E05.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/l5jhuokc50dhdmyeihtkr/Genie.Make.a.Wish.S01E05.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv?rlkey=iwtxo0trr4qxultpo9e0ltu4y&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "filename": "Genie.Make.a.Wish.S01E06.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/8nm7mflm39zsb8o7dc1w8/Genie.Make.a.Wish.S01E06.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv?rlkey=ocvx5w5ne8zv8jhm3x9nsavrs&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "filename": "Genie.Make.a.Wish.S01E07.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/eocko1wafflimi0018eqo/Genie.Make.a.Wish.S01E07.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv?rlkey=phn4erb3l9hy7im2mhhk55bbv&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "filename": "Genie.Make.a.Wish.S01E08.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/1ht7eqj4bxlk5bc320szn/Genie.Make.a.Wish.S01E08.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv?rlkey=gw6c3240qu3rotqf64x7izmtc&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "filename": "Genie.Make.a.Wish.S01E09.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/oruuokvchsfu8q8dgx1dr/Genie.Make.a.Wish.S01E09.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv?rlkey=18di42zwquqxj7awzlh5cj6pr&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "filename": "Genie.Make.a.Wish.S01E10.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/2uzegkp2ddlqt5t28mx3s/Genie.Make.a.Wish.S01E10.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv?rlkey=rkwgdp2856plgph5h83jmlpz3&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "filename": "Genie.Make.a.Wish.S01E11.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/xfnk8nd1zg2lhw5gbpreq/Genie.Make.a.Wish.S01E11.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv?rlkey=0dhbahpau9rf228im6zola5c2&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "filename": "Genie.Make.a.Wish.S01E12.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ghyvk9o0blfjk4xfqe3yy/Genie.Make.a.Wish.S01E12.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv?rlkey=t7ciuyqwihroosj42wp212fc9&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "filename": "Genie.Make.a.Wish.S01E13End.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/s36dao3hb5gj1cohfp1ku/Genie.Make.a.Wish.S01E13End.ViE.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.mkv?rlkey=pqmz8n6z1fz0owy2696t3816s&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 6,
-      "filename": "Zi.Chuan.S02E06.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/ybtb0xbeiz9ulwh8uqn8j/Zi.Chuan.S02E06.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=ah0n2g3hf9wkdxkkzzzvkd7qk&dl=1"
+        "id": 259710,
+        "name": "Nữ Hoàng Lừa Đảo",
+        "original_name": "컨피던스 맨 KR",
+        "overview": "Phim xoay quanh ba kẻ lừa đảo với kỹ năng siêu việt, chuyên thực hiện các phi vụ tinh vi nhắm vào những kẻ giàu có và tham lam. Yoon Yi Rang – thủ lĩnh của nhóm, sở hữu IQ 165 và tư duy thiên tài. Cô lập một đội với James và Gu-ho để tước đoạt tiền bất hợp pháp của những kẻ xấu và xây dựng sự giàu có cho riêng mình.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/9gL520FwnQa2yHbFq24AtEM2OyW.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/brugu6L6cGP7I0G1EH7id46brj2.jpg",
+        "first_air_date": "2025-09-06",
+        "vote_average": 7.648,
+        "genres": [
+            "Phim Hình Sự",
+            "Phim Hài",
+            "Phim Chính Kịch"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "Confidence.Queen.S01E01.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/198lmi4bgsjuv916wb4ow/Confidence.Queen.S01E01.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=c51n0sf1zd1d17w3zh6d9oh7z&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "Confidence.Queen.S01E02.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/uboaivfokro5ik6wj82u4/Confidence.Queen.S01E02.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=01rlrgsyeub9d8lu9j0oyjbee&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "Confidence.Queen.S01E03.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/r0q5l1hvth7imz7n3p35p/Confidence.Queen.S01E03.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=c8f1wo8wduux6u7o05l9wil7p&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "Confidence.Queen.S01E04.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/7tvhozax7jpbys7ae84dw/Confidence.Queen.S01E04.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=fjmle1n5k5w4qvcphgyi3p7m9&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "filename": "Confidence.Queen.S01E05.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/uj0ylwnla9wjamor2eyt6/Confidence.Queen.S01E05.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=9vsnh3jg1mfsc7sg3n3ps8gbk&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "filename": "Confidence.Queen.S01E06.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/gyjl39t954ob06q38z4w0/Confidence.Queen.S01E06.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=nwk48h6ici57h6xex7lrobdwp&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "filename": "Confidence.Queen.S01E07.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/5rqaz3fbsgzojwy7m0y7f/Confidence.Queen.S01E07.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=ouei3lvq8lo1c3u91me1hzd7b&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "filename": "Confidence.Queen.S01E08.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/0lb4q5ui2g34gmezj7kfc/Confidence.Queen.S01E08.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=xpet28pckpzk5e31rxdu2vga7&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "filename": "Confidence.Queen.S01E09.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/o724oiamg6eiev0xye66m/Confidence.Queen.S01E09.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=95q3rdh4ntuardilrl0lr7ozg&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "filename": "Confidence.Queen.S01E10.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/nm6t0vt0twlvyv55je3nk/Confidence.Queen.S01E10.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=t7oblkmkxkirtpvq6pg9awvkl&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "filename": "Confidence.Queen.S01E11.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/32aivx96feyrlsbiosy8k/Confidence.Queen.S01E11.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=cb50ukwisbo6rnben8rowzaq6&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "filename": "Confidence.Queen.S01E12.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/3urkg3nld7br25otlx4hu/Confidence.Queen.S01E12.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=gfnfvoxaaqkngve4p87t07s3j&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 7,
-      "filename": "Zi.Chuan.S02E07.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/ii1z43opy5fk465e3pue4/Zi.Chuan.S02E07.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=5fs1xiszkwjfs4w9m34p4k7qc&dl=1"
+        "id": 281011,
+        "name": "Hãy Lấy Em Đi",
+        "original_name": "우주메리미",
+        "overview": "Một người đàn ông và một người phụ nữ cùng bước vào cuộc hôn nhân giả kéo dài 90 ngày để giành được một ngôi nhà tân hôn sang trọng.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/v5YTSuNcQvexKTylDWBbueIZaBx.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/lRWXYQGwL56Y1iCrXC5XxCKBz1V.jpg",
+        "first_air_date": "2025-10-10",
+        "vote_average": 7.618,
+        "genres": [
+            "Phim Hài",
+            "Phim Chính Kịch"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "Would.You.Marry.Me.S01E01.ViE.1080p.DSNP.WEB-DL.H264.AAC.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/yvr0ini3h8vsvyd9wjta0/Would.You.Marry.Me.S01E01.ViE.1080p.DSNP.WEB-DL.H264.AAC.mkv?rlkey=6b77d6gjnmts0o7hq6tvhmhyg&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "Would.You.Marry.Me.S01E02.ViE.1080p.DSNP.WEB-DL.H264.AAC.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/rq9f5sqcsw9f4wt32kl1x/Would.You.Marry.Me.S01E02.ViE.1080p.DSNP.WEB-DL.H264.AAC.mkv?rlkey=dancqibklopcwrufj8jpi73nz&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "Would.You.Marry.Me.S01E03.ViE.1080p.DSNP.WEB-DL.AAC2.0.H.264-Marco.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/968vlccpqzrmvcsa28cq2/Would.You.Marry.Me.S01E03.ViE.1080p.DSNP.WEB-DL.AAC2.0.H.264-Marco.mkv?rlkey=jesdo0re6izpa67as7r4pb2cp&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "Would.You.Marry.Me.S01E04.ViE.1080p.DSNP.WEB-DL.AAC2.0.H.264-Marco.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/3vt8tdfdbbq9gsl8lc2dj/Would.You.Marry.Me.S01E04.ViE.1080p.DSNP.WEB-DL.AAC2.0.H.264-Marco.mkv?rlkey=flnhuzccdkbdi4su7giakbvt9&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "filename": "Would.You.Marry.Me.S01E05.ViE.1080p.DSNP.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/sqa6mfwgxg8mfdo2v195g/Would.You.Marry.Me.S01E05.ViE.1080p.DSNP.WEB-DL.AAC2.0.H.264.mkv?rlkey=nrhu5bvsk4wlxy1flvsqa5akk&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "filename": "Would.You.Marry.Me.S01E06.ViE.1080p.DSNP.WEB-DL.AAC2.0.H.264.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/9foepwj3v4u6bimmvdj1b/Would.You.Marry.Me.S01E06.ViE.1080p.DSNP.WEB-DL.AAC2.0.H.264.mkv?rlkey=aqmeslidyc5224vakktn3cdcx&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "filename": "Would.You.Marry.Me.S01E07.ViE.1080p.DSNP.WEB-DL.AAC2.0.H.264-Marco.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/yxj126efjrr2w36u8x1ee/Would.You.Marry.Me.S01E07.ViE.1080p.DSNP.WEB-DL.AAC2.0.H.264-Marco.mkv?rlkey=c38k87uz457qkno2y5z5qa4dn&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "filename": "Would.You.Marry.Me.S01E08.ViE.1080p.DSNP.WEB-DL.AAC2.0.H.264-Marco.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/8b4ai26j3v8e5aenemylm/Would.You.Marry.Me.S01E08.ViE.1080p.DSNP.WEB-DL.AAC2.0.H.264-Marco.mkv?rlkey=mhrl7ik7bberujm2qkkq88mwa&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "filename": "Would.You.Marry.Me.S01E09.1080p.DSNP.WEB-DL.AAC2.0.H.264-DOOXLYN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/u4hdyttvy9fgstaj7z10c/Would.You.Marry.Me.S01E09.1080p.DSNP.WEB-DL.AAC2.0.H.264-DOOXLYN.mkv?rlkey=fqegfrra4055xrq7321tl4hxc&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "filename": "Would.You.Marry.Me.S01E10.1080p.DSNP.WEB-DL.AAC2.0.H.264-DOOXLYN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/2oos31v3hnerrfl38pztj/Would.You.Marry.Me.S01E10.1080p.DSNP.WEB-DL.AAC2.0.H.264-DOOXLYN.mkv?rlkey=r4k10znolsbx9jqpq8gb26f9s&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 8,
-      "filename": "Zi.Chuan.S02E08.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/yo39pdbcidi5ciq8icg2c/Zi.Chuan.S02E08.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=ign95fwmsb89954xlwhjgf5fy&dl=1"
+        "id": 240442,
+        "name": "Thiên Địa Kiếm Tâm",
+        "original_name": "天地剑心",
+        "overview": "Vương Quyền Phú Quý từ nhỏ đã được huấn luyện như một vũ khí tối thượng để trừ yêu diệt quái của Nhất Khí Minh. Trong một lần tình cờ, chàng gặp được Thanh Đồng - một nữ yêu giả dạng người xâm nhập vào Sơn Trang Vương Quyền để làm gián điệp. Sự xuất hiện của Thanh Đồng đã thay đổi dần cách nhìn của Phú Quý về yêu quái, đồng thời mở ra trước mắt chàng một thế giới rộng lớn hơn. Niềm khát khao tự do và ước mơ về một thế giới đại đồng trong lòng Phú Quý dần được thắp lên. Sau khi trải qua kiếp nạn vạn kiếm xuyên tâm, chàng quyết định rời bỏ Sơn Trang Vương Quyền, cùng Thanh Đồng bước đi trên con đường chính đạo do mình giác ngộ.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/eoETKocFtS3SpuSG8YRSYgcNcOE.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/kSx7TUpI5uJUqgPMtu5R7Q3VZRe.jpg",
+        "first_air_date": "2025-10-25",
+        "vote_average": 6.583,
+        "genres": [
+            "Phim Chính Kịch"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "Sword.and.Beloved.S01E01.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/jfq1kmph1339i137940ew/Sword.and.Beloved.S01E01.iQ.H265.2160p.mkv?rlkey=elkx1wwdzbn4ij3smds3cqb7c&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "Sword.and.Beloved.S01E02.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/3n1j685mmmuaz73taa8o6/Sword.and.Beloved.S01E02.iQ.H265.2160p.mkv?rlkey=enrzip8ceyfz9nbitmhbvfpph&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "Sword.and.Beloved.S01E03.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/9ngn35gmtk3rhfqbkpup3/Sword.and.Beloved.S01E03.iQ.H265.2160p.mkv?rlkey=6tnehyy1lhtyp2pw38lhagcg0&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "Sword.and.Beloved.S01E04.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/fckecaje9h0gmqlu5z1ld/Sword.and.Beloved.S01E04.iQ.H265.2160p.mkv?rlkey=a29yj6wrq5u5sh8rvls7fhppp&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "filename": "Sword.and.Beloved.S01E05.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/9xngefxwfw6j2kg2gvm64/Sword.and.Beloved.S01E05.iQ.H265.2160p.mkv?rlkey=6a4wk072avpj9kmjt7xm83vgr&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "filename": "Sword.and.Beloved.S01E06.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/kpiwgt5gqrlx78chvwuu7/Sword.and.Beloved.S01E06.iQ.H265.2160p.mkv?rlkey=ii4yk3hhv89klyxcdtialkihq&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "filename": "Sword.and.Beloved.S01E07.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/qqatzozc5k10djv7h9rbc/Sword.and.Beloved.S01E07.iQ.H265.2160p.mkv?rlkey=2613uwfapnxnn07neicfcm7n1&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "filename": "Sword.and.Beloved.S01E08.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/joqf1olk2b0ka6h2rgx6i/Sword.and.Beloved.S01E08.iQ.H265.2160p.mkv?rlkey=6oesjpj39ybpx0f1u19ulmerx&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "filename": "Sword.and.Beloved.S01E09.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/qg6uq6ounyodf665fp3th/Sword.and.Beloved.S01E09.iQ.H265.2160p.mkv?rlkey=6da9e7za2ro0pyhl4ycii7y37&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "filename": "Sword.and.Beloved.S01E10.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/3whaf7i6dt75jayonye0x/Sword.and.Beloved.S01E10.iQ.H265.2160p.mkv?rlkey=9dvl2rrnqh86aij36ot85gofc&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "filename": "Sword.and.Beloved.S01E11.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/dovrif54jigvk949y2322/Sword.and.Beloved.S01E11.iQ.H265.2160p.mkv?rlkey=zkq5n8j8kvze0820rr1pbyhnr&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "filename": "Sword.and.Beloved.S01E12.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/mth131y94xulytgtfihhj/Sword.and.Beloved.S01E12.iQ.H265.2160p.mkv?rlkey=3cti1nuub25sjvu51qvwiwimv&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "filename": "Sword.and.Beloved.S01E13.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/tv8emsaqu64pzacp1u68p/Sword.and.Beloved.S01E13.iQ.H265.2160p.mkv?rlkey=zueqr51cgkxibi9djger781mt&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "filename": "Sword.and.Beloved.S01E14.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ehzxdurbh124u3en60jbi/Sword.and.Beloved.S01E14.iQ.H265.2160p.mkv?rlkey=a0992ipfy4uae9yx77n44wqnd&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "filename": "Sword.and.Beloved.S01E15.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/fn3lzxynkq7bjvogx8lu7/Sword.and.Beloved.S01E15.iQ.H265.2160p.mkv?rlkey=pa7nsx123r1yk50f8k9t3deec&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 16,
+                "filename": "Sword.and.Beloved.S01E16.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/2m1whexp2wiwru5kqll26/Sword.and.Beloved.S01E16.iQ.H265.2160p.mkv?rlkey=sw8ncwzxjfuhi1qbkwiun0wvp&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 17,
+                "filename": "Sword.and.Beloved.S01E17.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/2lfsn18dgh73xsvcrqw6t/Sword.and.Beloved.S01E17.iQ.H265.2160p.mkv?rlkey=s04yqbiholl3ftwycpmh3hzjm&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 18,
+                "filename": "Sword.and.Beloved.S01E18.iQ.H265.2160p (fix).mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/y65tcyj0v67i8om5akomv/Sword.and.Beloved.S01E18.iQ.H265.2160p-fix.mkv?rlkey=zvfqd54vumwcjssb4px1wkzrv&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 19,
+                "filename": "Sword.and.Beloved.S01E19.iQ.H265.2160p (fix).mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ep1bixiqmlk9w7ym127nl/Sword.and.Beloved.S01E19.iQ.H265.2160p-fix.mkv?rlkey=57le8dqzv4excolil2h7phu63&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 20,
+                "filename": "Sword.and.Beloved.S01E20.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ow9djn0sd436xaz3cxhgg/Sword.and.Beloved.S01E20.iQ.H265.2160p.mkv?rlkey=uxm1epnanll9ax1wh81ecxbzi&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 21,
+                "filename": "Sword.and.Beloved.S01E21.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/mhfu0mbp4qg6dpqkh6x8h/Sword.and.Beloved.S01E21.iQ.H265.2160p.mkv?rlkey=hla70e4jph9s347gcb0yymwm2&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 22,
+                "filename": "Sword.and.Beloved.S01E22.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/auqo0raj3beiq8llw3zfl/Sword.and.Beloved.S01E22.iQ.H265.2160p.mkv?rlkey=fxymuub8htwx1jupdaalk3fyt&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 23,
+                "filename": "Sword.and.Beloved.S01E23.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/05odcyo4w53y3wj7kqu17/Sword.and.Beloved.S01E23.iQ.H265.2160p.mkv?rlkey=bk2lni5qlj0vzy0jh1bi79v9n&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 24,
+                "filename": "Sword.and.Beloved.S01E24.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4yy8u6dosbwkqvg9xfm5m/Sword.and.Beloved.S01E24.iQ.H265.2160p.mkv?rlkey=m636at0t4tr9bjgcx440de78t&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 25,
+                "filename": "Sword.and.Beloved.S01E25.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/y17ipqdbd7oe9aewyvoh7/Sword.and.Beloved.S01E25.iQ.H265.2160p.mkv?rlkey=ou2juoatn3pdy6894e9dln91p&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 26,
+                "filename": "Sword.and.Beloved.S01E26.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/p7vr48f1l7lgm210vk5co/Sword.and.Beloved.S01E26.iQ.H265.2160p.mkv?rlkey=nrez49ziw714xpd4228whc83v&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 27,
+                "filename": "Sword.and.Beloved.S01E27.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/g264o26l48nk5k0ud1yex/Sword.and.Beloved.S01E27.iQ.H265.2160p.mkv?rlkey=6lyts5yk4vn26a5tzhelln6g6&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 28,
+                "filename": "Sword.and.Beloved.S01E28.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/bmn84qua1oum5w3kggr5k/Sword.and.Beloved.S01E28.iQ.H265.2160p.mkv?rlkey=2un2kpnfw3kkdvz0tnz1nqobe&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 29,
+                "filename": "Sword.and.Beloved.S01E29.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/cu6xjoom7jgqg398nyga0/Sword.and.Beloved.S01E29.iQ.H265.2160p.mkv?rlkey=5xproc6460dui7s7jbwa1fq53&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 30,
+                "filename": "Sword.and.Beloved.S01E30.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ep6k1xehil51xn3nlvb88/Sword.and.Beloved.S01E30.iQ.H265.2160p.mkv?rlkey=wep2p413k0sg65iwdsiso2t95&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 31,
+                "filename": "Sword.and.Beloved.S01E31.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/o2xdhl0nhro6ge0sbpjpu/Sword.and.Beloved.S01E31.iQ.H265.2160p.mkv?rlkey=5sgrxipjbxbe3k1w493indsrd&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 32,
+                "filename": "Sword.and.Beloved.S01E32.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/p63r8pajfdv0xi8vz9lq9/Sword.and.Beloved.S01E32.iQ.H265.2160p.mkv?rlkey=gndctnfner7l13knmok44jwjh&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 33,
+                "filename": "Sword.and.Beloved.S01E33.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/mf1zxz0fpip6e3ljk6xb1/Sword.and.Beloved.S01E33.iQ.H265.2160p.mkv?rlkey=cmd6ufoj14dxry47ws5mrbyqo&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 34,
+                "filename": "Sword.and.Beloved.S01E34.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/0v5rv1ye5ouwulima8b5t/Sword.and.Beloved.S01E34.iQ.H265.2160p.mkv?rlkey=on81nwbc7emdlx2v5tckjh4jv&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 35,
+                "filename": "Sword.and.Beloved.S01E35.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/k5991gb612yxa1nu7rpwd/Sword.and.Beloved.S01E35.iQ.H265.2160p.mkv?rlkey=pba6548hwfin6k56q3n9ejcnu&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 36,
+                "filename": "Sword.and.Beloved.S01E36.iQ.H265.2160p.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/uo45tncg1ymaxp9yc6t53/Sword.and.Beloved.S01E36.iQ.H265.2160p.mkv?rlkey=vxgocijln167jpdfgd393fj16&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 9,
-      "filename": "Zi.Chuan.S02E09.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/qvptj9dacxqckxsrnnfdq/Zi.Chuan.S02E09.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=9yijfbpyaxpl0bylkw9p8t8qm&dl=1"
+        "id": 259710,
+        "name": "Nữ Hoàng Lừa Đảo",
+        "original_name": "컨피던스 맨 KR",
+        "overview": "Phim xoay quanh ba kẻ lừa đảo với kỹ năng siêu việt, chuyên thực hiện các phi vụ tinh vi nhắm vào những kẻ giàu có và tham lam. Yoon Yi Rang – thủ lĩnh của nhóm, sở hữu IQ 165 và tư duy thiên tài. Cô lập một đội với James và Gu-ho để tước đoạt tiền bất hợp pháp của những kẻ xấu và xây dựng sự giàu có cho riêng mình.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/9gL520FwnQa2yHbFq24AtEM2OyW.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/brugu6L6cGP7I0G1EH7id46brj2.jpg",
+        "first_air_date": "2025-09-06",
+        "vote_average": 7.648,
+        "genres": [
+            "Phim Hình Sự",
+            "Phim Hài",
+            "Phim Chính Kịch"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "Confidence.Queen.S01E01.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4vd7fwpe9rkzjitk692km/Confidence.Queen.S01E01.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=aqffmji2waz4u18qw8mki600u&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "Confidence.Queen.S01E02.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/rg4n2bgn8m91l511g31mi/Confidence.Queen.S01E02.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=hrczhrqwe8acrmzv0a54z4jrt&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "Confidence.Queen.S01E03.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/zl46krzy0jqk4fv2imckb/Confidence.Queen.S01E03.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=7kbw2cdrf9fzffupdh6p0ukf7&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "Confidence.Queen.S01E04.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ck6fur2oiptldkkfltkt7/Confidence.Queen.S01E04.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=l1zkin6vbctbt6c32sb76wphg&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "filename": "Confidence.Queen.S01E05.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/rs13u6an6pupwmwbqauoc/Confidence.Queen.S01E05.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=6d6jrl89e63913b3sjvl35zuq&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "filename": "Confidence.Queen.S01E06.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/m1idupd8y481a21w58nus/Confidence.Queen.S01E06.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=u9mqjdbiep9e7zi563y5e4cpt&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "filename": "Confidence.Queen.S01E07.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/5oe5s8p18m1v2d568yxnd/Confidence.Queen.S01E07.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=1r2zhn0xg2dgcdppwru25cf66&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "filename": "Confidence.Queen.S01E08.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/5j8vx3brqvxwplqjm8gda/Confidence.Queen.S01E08.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=xuv8j28jsfxe7ghrqfjzkmoru&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "filename": "Confidence.Queen.S01E09.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/5s5lslf7iprjfabdvnj9r/Confidence.Queen.S01E09.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=wewdi6dnc8scdzne1i8reuae9&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "filename": "Confidence.Queen.S01E10.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/13dk93e4knodi4jj2edvc/Confidence.Queen.S01E10.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=mpi71s8azi7oca0r517j28stz&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "filename": "Confidence.Queen.S01E11.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/meav292zpces6692yjwur/Confidence.Queen.S01E11.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=efxqypdqnlxtvhah32np5c72r&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "filename": "Confidence.Queen.S01E12.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/59qg60nb9wque4lhlhne1/Confidence.Queen.S01E12.1080p.AMZN.WEB-DL.DDP2.0.H.264-MrHulk.mkv?rlkey=0ml6l3o1dhx0g6tas60zz75r1&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 10,
-      "filename": "Zi.Chuan.S02E10.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/v2op7p762gmht57rowf8c/Zi.Chuan.S02E10.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=mbm0tw5toufbiwf31g1o1zr5u&dl=1"
+        "id": 254476,
+        "name": "Hiến Ngư",
+        "original_name": "献鱼",
+        "overview": "Bộ phim xoay quanh Trâu Nhạn – một “nô lệ công sở” điển hình thời hiện đại – vô tình xuyên không đến thế giới tu tiên, trở thành Liêu Đình Nhạn, đệ tử của Thanh Cốc Thiên, đồng thời bị tuyển chọn vào hàng ngũ một trăm đệ tử hầu hạ sư tổ Tư Mã Tiêu. Bề ngoài, Tư Mã Tiêu được cho là đang bế quan ở núi Tam Thánh, nhưng thực chất hắn đã bị phong ấn suốt 500 năm, hình thành nên tính cách u ám, lầm lì, cáu kỉnh dễ nổi nóng. Hắn vô cùng căm hận Tiên Phủ Canh Thần và luôn nuôi ý định trả thù. Liêu Đình Nhạn thực chất là thân phận của một thích khách do Ma Vực cài vào, nhưng Trâu Nhạn không hề biết 'bản thân' còn che giấu thiết lập này nên ngay từ lần đầu chạm mặt, cô suýt nữa đã mất mạng dưới tay Tư Mã Tiêu. Sau thời gian tiếp xúc, nhờ năng lực “lời thề nói thật”, Tư Mã Tiêu dần nhận ra cô không hề có ý định ám sát hay lợi dụng mình. Thái độ này khiến hắn cảm thấy tò mò, nảy sinh hứng thú, từ đó bắt đầu chuyện tình dây dưa nhiều kiếp giữa ma vương phản diện và cô gái lười hệ chữa lành.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/nvZosbPq4czPVaQh7hbdHSC6hdq.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/7VxcQrVD2POXg29q5wIFOGD7AY7.jpg",
+        "first_air_date": "2025-08-16",
+        "vote_average": 8.2,
+        "genres": [
+            "Phim Chính Kịch"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "When.Destiny.Brings.the.Demon.S01E01.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ngu099x5m8rir5yo4z3p9/When.Destiny.Brings.the.Demon.S01E01.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=g31fogpni7ttaqjy0r4mlck7a&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "When.Destiny.Brings.the.Demon.S01E02.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/6fo2gtdoqxawpvfyjbk4i/When.Destiny.Brings.the.Demon.S01E02.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=ikiy6j1ozxnhbuaeb6vnvn7eb&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "When.Destiny.Brings.the.Demon.S01E03.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/wwegqbjds9sr0cni9bglm/When.Destiny.Brings.the.Demon.S01E03.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=ondud06a5ae3ovf86m5d93h3e&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "When.Destiny.Brings.the.Demon.S01E04.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/dkk44sti7khn61g3th45b/When.Destiny.Brings.the.Demon.S01E04.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=35rwplh708jyhj4hubvdgcsmn&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "filename": "When.Destiny.Brings.the.Demon.S01E05.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ir05rlpqd6vcwjr2rhrb9/When.Destiny.Brings.the.Demon.S01E05.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=qpu06f1kp1vpbdly2c32uuvtg&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "filename": "When.Destiny.Brings.the.Demon.S01E06.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/kwxwqia0amfo1qkavfynm/When.Destiny.Brings.the.Demon.S01E06.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=su8gq0ru3ldmb3xxc55rn2mmp&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "filename": "When.Destiny.Brings.the.Demon.S01E07.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/bkkbgl1wwzqt4g9gpf9cp/When.Destiny.Brings.the.Demon.S01E07.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=l8d2z43s6efytzgvgx21nrdar&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "filename": "When.Destiny.Brings.the.Demon.S01E08.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/8dvaht6b930m7zwx4iucb/When.Destiny.Brings.the.Demon.S01E08.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=859tpfqikkctdaozn06d8o8ac&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "filename": "When.Destiny.Brings.the.Demon.S01E09.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4818cu0o4i6sw14wk4t0j/When.Destiny.Brings.the.Demon.S01E09.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=92qgrk5mwjjwd4t4gwm9jduvj&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "filename": "When.Destiny.Brings.the.Demon.S01E10.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/a4ifap0g8nlpqsrptrs99/When.Destiny.Brings.the.Demon.S01E10.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=8wqxwyeg81b1w70s6tecwxcim&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "filename": "When.Destiny.Brings.the.Demon.S01E11.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/2sxcz0xc1cb7g6fyhlclu/When.Destiny.Brings.the.Demon.S01E11.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=nt9fcdpdb2r3z20bvp83kpwfe&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "filename": "When.Destiny.Brings.the.Demon.S01E12.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/2hv5dqesxtmpgtjhfkb56/When.Destiny.Brings.the.Demon.S01E12.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=4bpgxca3pjbmnso80sh8xkjxh&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "filename": "When.Destiny.Brings.the.Demon.S01E13.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/6n3c0sjwf9ug3jd3b0tyv/When.Destiny.Brings.the.Demon.S01E13.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=fb5gpbqrmpeqd5lmvr30mgyns&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "filename": "When.Destiny.Brings.the.Demon.S01E14.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/oxcmnkopjkedf0jstsaji/When.Destiny.Brings.the.Demon.S01E14.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=w5y25dfs0yoe9gblyyyj51b56&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "filename": "When.Destiny.Brings.the.Demon.S01E15.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/zxgwbkuqwww0hbxz5w7mc/When.Destiny.Brings.the.Demon.S01E15.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=5wbc458w2q3pvab5cxxikqbbk&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 16,
+                "filename": "When.Destiny.Brings.the.Demon.S01E16.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/rxdcfqhwfi929yv8m2up8/When.Destiny.Brings.the.Demon.S01E16.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=f4fb7c5nww3lb4l68ksfm4srz&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 17,
+                "filename": "When.Destiny.Brings.the.Demon.S01E17.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/97l1rmcp2d24zsgedjg3v/When.Destiny.Brings.the.Demon.S01E17.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=sgxy0cwwkexwy4c9lus23idpx&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 18,
+                "filename": "When.Destiny.Brings.the.Demon.S01E18.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ewk4srbdi3awchc1fq123/When.Destiny.Brings.the.Demon.S01E18.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=nr01c7ef8wol58d8bob6ampnr&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 19,
+                "filename": "When.Destiny.Brings.the.Demon.S01E19.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/2db4hku4gnwgnlcq11ujm/When.Destiny.Brings.the.Demon.S01E19.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=sv6a54oshrwhfz9aapplyz78l&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 20,
+                "filename": "When.Destiny.Brings.the.Demon.S01E20.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/wfh0bs67s3chq4i86ajou/When.Destiny.Brings.the.Demon.S01E20.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=s2xp3pxz0s2hykb49671uav7l&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 21,
+                "filename": "When.Destiny.Brings.the.Demon.S01E21.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/vxqysfbswwzjbdmjpp9jl/When.Destiny.Brings.the.Demon.S01E21.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=lg4sdp2q7vz226wi302q6aat5&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 22,
+                "filename": "When.Destiny.Brings.the.Demon.S01E22.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/1p68kttt89puv5pwjvzig/When.Destiny.Brings.the.Demon.S01E22.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=03qcxgd9zboyy66kn4x0qewl0&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 23,
+                "filename": "When.Destiny.Brings.the.Demon.S01E23.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/zlki8lyqiiz2ksca4vy2x/When.Destiny.Brings.the.Demon.S01E23.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=afgme6rzluezjjt421g3y55v5&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 24,
+                "filename": "When.Destiny.Brings.the.Demon.S01E24.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/40bn7lhppr07zawkzj2yk/When.Destiny.Brings.the.Demon.S01E24.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=bhehy7ilrxgq3dl82cxbox5n1&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 25,
+                "filename": "When.Destiny.Brings.the.Demon.S01E25.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/d1w1wrki5c6m6adughfoc/When.Destiny.Brings.the.Demon.S01E25.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=fg3pqcemv0181gegydgobg80j&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 26,
+                "filename": "When.Destiny.Brings.the.Demon.S01E26.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/rtrfdfj9er9juqqvyq34z/When.Destiny.Brings.the.Demon.S01E26.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=w6xkp8mcxoleoc8fy14a9osrw&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 27,
+                "filename": "When.Destiny.Brings.the.Demon.S01E27.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/jt5tz9thq4f3vmi47ipxh/When.Destiny.Brings.the.Demon.S01E27.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=kmzozj71jdjwnqt2jzmvy6zzf&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 28,
+                "filename": "When.Destiny.Brings.the.Demon.S01E28.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/n96xs8jvm6znjjngwvz9e/When.Destiny.Brings.the.Demon.S01E28.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=ya0yj4krrnnn43y0kbmc3zgdx&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 29,
+                "filename": "When.Destiny.Brings.the.Demon.S01E29.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/d6v9yar9olsfh0s4kvoi0/When.Destiny.Brings.the.Demon.S01E29.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=wzfh8y4o0kstl569fyjkeiyvm&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 30,
+                "filename": "When.Destiny.Brings.the.Demon.S01E30.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/yk3h84qmsathi5coq7cms/When.Destiny.Brings.the.Demon.S01E30.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=224t2rl5avk4d6ywpxvxh2iic&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 31,
+                "filename": "When.Destiny.Brings.the.Demon.S01E31.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/us0yn50wntm6ml19j7wjh/When.Destiny.Brings.the.Demon.S01E31.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=3dns4dk0bqvh9ntx6jd37cpj5&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 32,
+                "filename": "When.Destiny.Brings.the.Demon.S01E32.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/co2yust4iuhsu64bj35vs/When.Destiny.Brings.the.Demon.S01E32.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=sell4l0mmhfltkd6ks874nanw&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 33,
+                "filename": "When.Destiny.Brings.the.Demon.S01E33.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/fx9px8h1aswc0brs6fr60/When.Destiny.Brings.the.Demon.S01E33.ViE.1080p.NF.WEB-DL.AAC2.0.H.264-RSG.mkv?rlkey=lty9sbocoymd0x2tkpj6rio52&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 11,
-      "filename": "Zi.Chuan.S02E11.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/hi8ujfgbe65zgn5ou81h5/Zi.Chuan.S02E11.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=tyt6frdij7b1pxdh3wf8yo5bl&dl=1"
+        "id": 243224,
+        "name": "Phàm Nhân Tu Tiên Truyện",
+        "original_name": "凡人修仙传",
+        "overview": "Phàm Nhân Tu Tiên Truyện là hành trình tu luyện khốc liệt của Hàn Lập, một thiếu niên nghèo có ước mơ trở thành tiên nhân. Với xuất thân bình thường, Hàn Lập gia nhập một môn phái nhỏ rồi dựa vào nỗ lực cùng mưu trí của bản thân để vượt qua vô số nghịch cảnh trên con đường tu tiên đầy hiểm nguy. Với tạo hình đẹp mắt, kỹ xảo ấn tượng cùng loạt cảnh chiến đấu mãn nhãn, đây là tác phẩm tiên hiệp hứa hẹn sẽ mang đến trải nghiệm thị giác vượt trội cho người xem.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/eSlhCgpTcJ1pYmNclKs4IlkmFCW.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/tOpyQG9MAnFN4YiDgyk5NnCGa7X.jpg",
+        "first_air_date": "2025-07-27",
+        "vote_average": 7.3,
+        "genres": [
+            "Phim Chính Kịch",
+            "Sci-Fi & Fantasy"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E01.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/mpb36957abrhe83eruocf/The.Immortal.Ascension.2025.ViE.S01E01.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=q6gdlnduk9nmz3e37s1u5sw4v&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E02.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/lkqauxv5ntyenxek9czy9/The.Immortal.Ascension.2025.ViE.S01E02.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=u3i3y6xyj2i6sspi8dtz1kfsk&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E03.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/zfz3a85n91sc46b38ox86/The.Immortal.Ascension.2025.ViE.S01E03.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=8zxhug257bp0nir0vbh7pnnvf&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E04.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/yycbjh4gp804xn8qteg9o/The.Immortal.Ascension.2025.ViE.S01E04.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=dgovj8kl6o7vwebcads61xo5m&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E05.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/gfi48d11czophtsgyc0n5/The.Immortal.Ascension.2025.ViE.S01E05.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=a96u5mogiu7q4gla3hzvojwp8&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E06.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/wcl2zzlfyrw3tfgg45vfu/The.Immortal.Ascension.2025.ViE.S01E06.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=zceolcs3lah8w1t6ejx76285e&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E07.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/byovashcl16ebp03d3omk/The.Immortal.Ascension.2025.ViE.S01E07.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=3trh0osrgq6qf407i7c8bom36&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E08.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/by768n2h5kpwx4wwf3mw6/The.Immortal.Ascension.2025.ViE.S01E08.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=csprja3cwu4zkegtdglvo6xin&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E09.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/fkhjks4fuhqe14huxb4lz/The.Immortal.Ascension.2025.ViE.S01E09.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=f591xaox5a7bis3t74814pg6o&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E10.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/0idu9408xrimwgd6477s1/The.Immortal.Ascension.2025.ViE.S01E10.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=feupet4h4269n1vt53i9s08q5&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E11.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/qvsabl3di5ru82scmldtg/The.Immortal.Ascension.2025.ViE.S01E11.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=82qqg8zpim6eu1a8epwpz7smq&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E12.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/zbhv9vy5fp28n2pnvpnk8/The.Immortal.Ascension.2025.ViE.S01E12.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=5y9fusc0rramtpmrfynmiorfl&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E13.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/2dnob8szomgh6rd13k6am/The.Immortal.Ascension.2025.ViE.S01E13.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=mrp3duc6lgew4vnprkm4u1vvd&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E14.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/d9yy6nyz910uh3q1w6i3r/The.Immortal.Ascension.2025.ViE.S01E14.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=88dotmkoldzyahoet0tsxzrqo&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E15.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/exj9skyyeixktbpc76xko/The.Immortal.Ascension.2025.ViE.S01E15.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=fbfta768xc8mwb9xap0pookol&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 16,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E16.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/de49y7bwhl9fkmb41leei/The.Immortal.Ascension.2025.ViE.S01E16.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=uhhd83hn0aq9go9r0npjqyesr&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 17,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E17.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/o0ly9axzarnjywqb89fcg/The.Immortal.Ascension.2025.ViE.S01E17.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=npkszev8u0wfw2x1987lbp74b&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 18,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E18.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/s584q5baw311f0287ex0p/The.Immortal.Ascension.2025.ViE.S01E18.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=d78zyui6rg85bcnlpywhr26k1&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 19,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E19.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/f2k7anrnodf1e6aycl6bh/The.Immortal.Ascension.2025.ViE.S01E19.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=ftpy84rpholr6flxbzvi4hdum&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 20,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E20.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ymwbm9828k6wx45eg15to/The.Immortal.Ascension.2025.ViE.S01E20.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=7e0hkr9vn8sikg9wu8kzvoreq&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 21,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E21.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/8hklt6cc6ndpkkbym2p0s/The.Immortal.Ascension.2025.ViE.S01E21.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=289k9l2qdqjgumi9t5p2gfqi3&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 22,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E22.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/gifvl0vam02up75rhn38f/The.Immortal.Ascension.2025.ViE.S01E22.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=2z4e3uzemwv43lvieea1lug07&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 23,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E23.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4diochtc06uqaaojbmto7/The.Immortal.Ascension.2025.ViE.S01E23.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=dkzr19w4patuagarcge53mgqg&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 24,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E24.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/8l9pctpoejj9gor7966tk/The.Immortal.Ascension.2025.ViE.S01E24.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=7rwp3hvt1ukjeem4rp8max9l8&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 25,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E25.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/kmsw9fqesne43eq97jydp/The.Immortal.Ascension.2025.ViE.S01E25.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=iuu1y2mev8ztk5ernnyvi4f6s&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 26,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E26.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4qymgi7ww6try43updx2n/The.Immortal.Ascension.2025.ViE.S01E26.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=5om52ixgz6rmvmobf0tkxaka8&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 27,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E27.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/x2met8jp42l47g4xwxjch/The.Immortal.Ascension.2025.ViE.S01E27.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=t1ziml6x3hl39rrzi5er22e5e&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 28,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E28.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/7sf5n798pejyjir9f87ca/The.Immortal.Ascension.2025.ViE.S01E28.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=2s8ghtyuof77vwuxwnawxtlei&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 29,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E29.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/0angvb7vkyuqlpkce7g89/The.Immortal.Ascension.2025.ViE.S01E29.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=ec8ngaffvk6zejt63ryxkrgdz&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 30,
+                "filename": "The.Immortal.Ascension.2025.ViE.S01E30.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/tsb6li3vh2b6kx22ni3rn/The.Immortal.Ascension.2025.ViE.S01E30.1080p.YK.WEB-DL.AAC2.0.H.265-ANDY.mkv?rlkey=1242r797abn6d11lijo5x4gd7&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 12,
-      "filename": "Zi.Chuan.S02E12.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/2uidwlrtgez0rj18ne0jq/Zi.Chuan.S02E12.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=is8cnnqh5lzoo9b2gwenqf47x&dl=1"
+        "id": 263044,
+        "name": "Sơn Hà Chẩm",
+        "original_name": "山河枕",
+        "overview": "Cha của Sở Du tử trận nơi sa trường, huynh trưởng bị trọng thương đã tiết lộ với cô rằng vụ việc này không hề đơn giản, cô lập tức thề sẽ điều tra chân tướng rõ ràng. Nhà họ Vệ thất bại thảm hại trong một trận chiến, chỉ còn duy nhất con trai út Vệ Uẩn sống sót. Sở Du gả vào nhà họ Vệ, tiến hành điều tra dưới thân phận góa phụ của huynh trưởng đã khuất. Ban đầu Vệ Uẩn còn cảnh giác, nhưng sau khoảng thời gian tiếp xúc đã dần cảm động trước Sở Du. Tình cảm nảy nở giữa hai người, thân phận 'em chồng-chị dâu' ngụy tạo lại trở thành trở ngại. Trải qua bao thử thách sống còn, họ cùng đồng lòng chống ngoại địch, điều tra kỹ càng sự thật và chung tay bảo vệ giang sơn.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/fciOFbC7nwgnKHkBTtW3XeoEuPI.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/pBz1oWgrrV0F9QKf8OwaUdGFmM6.jpg",
+        "first_air_date": "2025-10-30",
+        "vote_average": 8.4,
+        "genres": [
+            "Phim Chính Kịch"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "Fight.for.Love.S01E01.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/8tdmgmd9jovamon76ruaj/Fight.for.Love.S01E01.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=ghmffft3s8g9y3ie1p4xxlou6&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "Fight.for.Love.S01E02.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ttvmh745gh0vrkt0y2wos/Fight.for.Love.S01E02.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=ih9dm7ka3097x0n7gaj9rpsep&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "Fight.for.Love.S01E03.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/n9sotggmbs7rwej4jfl9e/Fight.for.Love.S01E03.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=yq0h51m9wzq5pt4khx2u07tzh&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "Fight.for.Love.S01E04.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/zgtd0v9cymbkoo4u4cx17/Fight.for.Love.S01E04.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=eqo5c5xobbx11nzpedvs99l0a&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "filename": "Fight.for.Love.S01E05.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/8dvaeyrra10vn7fhrjv6v/Fight.for.Love.S01E05.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=tobwr866v10aajwei4ti3lqir&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "filename": "Fight.for.Love.S01E06.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/qkdbd15ru10g26gqh3vjd/Fight.for.Love.S01E06.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=j1cewhcmyda2at196ensy4ws2&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "filename": "Fight.for.Love.S01E07.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/p44s37odghzbzt8ffrogd/Fight.for.Love.S01E07.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=0kw4p2xl5knwcgv4a6de4vqlw&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "filename": "Fight.for.Love.S01E08.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/fc16tzeqogyc5kav5jrvn/Fight.for.Love.S01E08.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=hxgeii7ovzyonj6s486b58aas&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "filename": "Fight.for.Love.S01E09.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4yc8mypnwo12lnsu1vyt9/Fight.for.Love.S01E09.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=ybyq0yy4688i1n5ybpo41imiw&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "filename": "Fight.for.Love.S01E10.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/2jvy5x7l1mb4sw4s55ip9/Fight.for.Love.S01E10.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=sen6btfmstp44wyo75lqs6zyv&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "filename": "Fight.for.Love.S01E11.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/juoldm2730opgk93uvkek/Fight.for.Love.S01E11.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=xjq8nkilixlqcqii104k258vz&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "filename": "Fight.for.Love.S01E12.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/70tni7vdbillvk8ohr1ko/Fight.for.Love.S01E12.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=8srmqro0d35avtp5zosll7f3e&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "filename": "Fight.for.Love.S01E13.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/93onb7gwuzanxaha4ku50/Fight.for.Love.S01E13.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=xxthm8sh1ins3v0e01ip0k30p&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "filename": "Fight.for.Love.S01E14.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/z30o5d9a35x4s2m1xd2z1/Fight.for.Love.S01E14.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=570qm5xd1t63pajiu2ue7dzyq&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "filename": "Fight.for.Love.S01E15.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/gwbaplwe1s8yzz8jj5902/Fight.for.Love.S01E15.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=rilbyay4zrll22woe3nygtw3w&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 16,
+                "filename": "Fight.for.Love.S01E16.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4ozgrn8h114b8w6voefro/Fight.for.Love.S01E16.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=4x2ld3glxbg78qqb6aewggk55&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 17,
+                "filename": "Fight.for.Love.S01E17.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/u223hy6y6inirh1y4latj/Fight.for.Love.S01E17.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=2vprz290r1pxu4i37zuap7m7u&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 18,
+                "filename": "Fight.for.Love.S01E18.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ts9hvq27ibkp1kgpjqyr7/Fight.for.Love.S01E18.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=dj8xl13melr01kghpzbrjh5u3&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 19,
+                "filename": "Fight.for.Love.S01E19.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/77a0lozr0ww8me8f7x4tr/Fight.for.Love.S01E19.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=0qai6xfwd8g7z0kxqyiwwlhiq&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 20,
+                "filename": "Fight.for.Love.S01E20.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/molr42a9ehdn14s7pcjjg/Fight.for.Love.S01E20.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=ukeokq8e0jqzh73n1iucqaag6&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 21,
+                "filename": "Fight.for.Love.S01E21.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/yj2whzpph97nkten34opr/Fight.for.Love.S01E21.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=yu6kuimy4acoa2x51jkn6j1p8&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 22,
+                "filename": "Fight.for.Love.S01E22.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4e1pr1mlho6yjboriw1e2/Fight.for.Love.S01E22.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=he063dkg1cwhkzbmyl5a88fj5&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 23,
+                "filename": "Fight.for.Love.S01E23.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/roy2bqzqhyjwwwq000zd8/Fight.for.Love.S01E23.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=1v6h9pswr8dbgrrmii3zzcicq&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 24,
+                "filename": "Fight.for.Love.S01E24.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/wjxmktrnudf7x383bc3at/Fight.for.Love.S01E24.2025.ViE.1080p.DSNP.WEB-DL.DDP5.1.H264-GrassTV.mkv?rlkey=wre809pf9zcfx91yx36j0lnyg&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 13,
-      "filename": "Zi.Chuan.S02E13.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/i87ax955b365euj27hw9s/Zi.Chuan.S02E13.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=sw0r2gd10dplkznepnruk0ec5&dl=1"
+        "id": 299264,
+        "name": "Seukechi",
+        "original_name": "Seukechi",
+        "overview": "",
+        "poster_path": "",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/h4h8UpkPe5jA2ZXRXul9nDFmRd4.jpg",
+        "first_air_date": "2018-05-25",
+        "vote_average": 0,
+        "genres": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E01 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/sqmetc5l3jhohxkuguoi8/Ph-c-H-a-K-S-t-Nh-n-S01E01-PhacHoaKeSatNhan.mkv?rlkey=kqkl693164co0w1t45zyjepwc&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E02 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/wp27qvrcvajww5xbg05jp/Ph-c-H-a-K-S-t-Nh-n-S01E02-PhacHoaKeSatNhan.mkv?rlkey=yx0xy7uqur9wo64wkplplrdoc&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E03 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/xeqlfh4dln1gkb8wnrs8y/Ph-c-H-a-K-S-t-Nh-n-S01E03-PhacHoaKeSatNhan.mkv?rlkey=ux3gmgriq8pti01hh8jt0tqj6&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E04 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/eclhzdr6vcbwhkkm1tw3k/Ph-c-H-a-K-S-t-Nh-n-S01E04-PhacHoaKeSatNhan.mkv?rlkey=08p9aiazky401finaqb1iy0h7&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E05 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/fajceexzsd365x73fgnvs/Ph-c-H-a-K-S-t-Nh-n-S01E05-PhacHoaKeSatNhan.mkv?rlkey=jpp4h7lq9uzkz2al8r16965k7&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E06 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/hkyt2lrue3s1u1ekcmxbi/Ph-c-H-a-K-S-t-Nh-n-S01E06-PhacHoaKeSatNhan.mkv?rlkey=i61e1av1mde3u4y5q91fgq4ee&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E07 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ssr45nxo36ca1b9kgbwki/Ph-c-H-a-K-S-t-Nh-n-S01E07-PhacHoaKeSatNhan.mkv?rlkey=yt48vi5iyuqb1cfhx7h5x7uor&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E08 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4opswpdwgaiapdlmct07a/Ph-c-H-a-K-S-t-Nh-n-S01E08-PhacHoaKeSatNhan.mkv?rlkey=78zhxpxdlpr7y4u597v445y4e&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E09 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/rjq9fwki1ykyexsr92n0x/Ph-c-H-a-K-S-t-Nh-n-S01E09-PhacHoaKeSatNhan.mkv?rlkey=ya1n79d2jp8jgpbty6p5u4i8v&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E10 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/jcgi4j8hrqopmj0xb8f97/Ph-c-H-a-K-S-t-Nh-n-S01E10-PhacHoaKeSatNhan.mkv?rlkey=3njjogc3lkl7osxq2ym98eo7u&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E11 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/1lwa6g85t2wqw5ydm9dgz/Ph-c-H-a-K-S-t-Nh-n-S01E11-PhacHoaKeSatNhan.mkv?rlkey=2n0f90twrjpw1ha6iskekpu2a&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E12 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/8o7fu82bqg9lqgiih3w3d/Ph-c-H-a-K-S-t-Nh-n-S01E12-PhacHoaKeSatNhan.mkv?rlkey=du8j7kwug7jwc7pnnohutrlmb&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E13 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/u6jgs6a5eabjkwabt0n9v/Ph-c-H-a-K-S-t-Nh-n-S01E13-PhacHoaKeSatNhan.mkv?rlkey=ol9q803ibdpa8d5m9omgd3jwd&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E14 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/dkjuv64msqrzs19htftg3/Ph-c-H-a-K-S-t-Nh-n-S01E14-PhacHoaKeSatNhan.mkv?rlkey=ca6hbltgk31gzg7ydkhuhcgmw&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E15 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/u8dqjk1zepzli4w05pxvz/Ph-c-H-a-K-S-t-Nh-n-S01E15-PhacHoaKeSatNhan.mkv?rlkey=hcv8cvma732sdhrulq0oleiih&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 16,
+                "filename": "Phác Họa Kẻ Sát Nhân - S01E16 - PhacHoaKeSatNhan.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/2z4x9ftda0f7xbx6si5zr/Ph-c-H-a-K-S-t-Nh-n-S01E16-PhacHoaKeSatNhan.mkv?rlkey=q3ggfg0olj96ldg31szjqe561&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 14,
-      "filename": "Zi.Chuan.S02E14.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/rr92shxisg7qds4ofjson/Zi.Chuan.S02E14.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=l3up0yuwvixqzbsut5vuqdnwk&dl=1"
+        "id": 83443,
+        "name": "Phù Dao Hoàng Hậu",
+        "original_name": "Phù Dao Hoàng Hậu",
+        "overview": "",
+        "poster_path": "",
+        "backdrop_path": "",
+        "first_air_date": "2018-06-18",
+        "vote_average": 0,
+        "genres": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "Phù Dao Hoàng Hậu - S01E01 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/nh8pnkrh7vq51c5oqno0x/Ph-Dao-Ho-ng-H-u-S01E01-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=65ginqhf6fnd4p0l8cocwgzbn&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "Phù Dao Hoàng Hậu - S01E02 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/13sl49hwv180ke22oijpp/Ph-Dao-Ho-ng-H-u-S01E02-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=3i2kv2cscpun2kzkrpcxsh1kw&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "Phù Dao Hoàng Hậu - S01E03 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ezw1c2l0o1a7cfuzloqa4/Ph-Dao-Ho-ng-H-u-S01E03-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=mt0hphoamkjl8rcisqg375c2b&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "Phù Dao Hoàng Hậu - S01E04 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/aq1g4n433o4opf9zvjzn1/Ph-Dao-Ho-ng-H-u-S01E04-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=3vq6wo86pj7i0bqvr55rd6ig7&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "filename": "Phù Dao Hoàng Hậu - S01E05 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ujvvesl6nh9lelj0o412g/Ph-Dao-Ho-ng-H-u-S01E05-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=c7wwvdgv1m63h0mnt097krcww&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "filename": "Phù Dao Hoàng Hậu - S01E06 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/78lepf9ctyhyyqaauvsyy/Ph-Dao-Ho-ng-H-u-S01E06-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=o7ncbh3ksf1q1hwk8w8xgkqwx&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "filename": "Phù Dao Hoàng Hậu - S01E07 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ierfwzln4agac0zz42h3n/Ph-Dao-Ho-ng-H-u-S01E07-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=hect7fvk2os24n9m20b56sop8&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "filename": "Phù Dao Hoàng Hậu - S01E08 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ufyb3h6ir0xdvczl7fqrz/Ph-Dao-Ho-ng-H-u-S01E08-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=82oviv8ie6p5b8gr75cvtda1r&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "filename": "Phù Dao Hoàng Hậu - S01E09 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/kuan7uhv3ypdiir2y88ed/Ph-Dao-Ho-ng-H-u-S01E09-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=nliomkogqqdwsw3kiorceh8zf&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "filename": "Phù Dao Hoàng Hậu - S01E10 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/azuo1y81qdstz6hp8uptr/Ph-Dao-Ho-ng-H-u-S01E10-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=2je6nn5tz43wl0rtkafd4iz2c&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "filename": "Phù Dao Hoàng Hậu - S01E11 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/gn8k0p02cugccb3vk9o6i/Ph-Dao-Ho-ng-H-u-S01E11-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=o3iq3g9c6zebopqcrfv1zgwl6&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "filename": "Phù Dao Hoàng Hậu - S01E12 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/43usc78g13mvlvfl87hq2/Ph-Dao-Ho-ng-H-u-S01E12-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=f2bcjqzgo2xx8ng4o40mh9k09&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "filename": "Phù Dao Hoàng Hậu - S01E13 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/6sw9anv3vkjqfjo99u1h4/Ph-Dao-Ho-ng-H-u-S01E13-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=r5kah0brf9cthae67emzq2b48&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "filename": "Phù Dao Hoàng Hậu - S01E14 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/w5i5a780onit5gy6j2ytl/Ph-Dao-Ho-ng-H-u-S01E14-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=o5ovtftw98p8x3sfvepyry9ju&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "filename": "Phù Dao Hoàng Hậu - S01E15 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/48n4ljm75v1115t4c63xm/Ph-Dao-Ho-ng-H-u-S01E15-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=jyp4hndo5gb31bbjt9a1mq1gv&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 16,
+                "filename": "Phù Dao Hoàng Hậu - S01E16 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/odff1einj7l3e4850w1er/Ph-Dao-Ho-ng-H-u-S01E16-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=3blk2h1mvceakojvdeat7n8yz&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 17,
+                "filename": "Phù Dao Hoàng Hậu - S01E17 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/0p1vgrlxe1ymw4wdnhvpx/Ph-Dao-Ho-ng-H-u-S01E17-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=i3zbuixwedwvk2yudnqrackxw&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 18,
+                "filename": "Phù Dao Hoàng Hậu - S01E18 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/6rjrfwqoekl4rvx7xkctf/Ph-Dao-Ho-ng-H-u-S01E18-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=r2swop281o1zaolje4u7lr0ma&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 19,
+                "filename": "Phù Dao Hoàng Hậu - S01E19 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/9ng3zru0560m4uc5dil2d/Ph-Dao-Ho-ng-H-u-S01E19-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=4u16doy2s8jhxvvsk467g1s4z&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 20,
+                "filename": "Phù Dao Hoàng Hậu - S01E20 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4n7kw1c9qoh710gh7h2z9/Ph-Dao-Ho-ng-H-u-S01E20-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=5r68hn5v23i6zqgtv0fopm3zy&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 21,
+                "filename": "Phù Dao Hoàng Hậu - S01E21 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/2itpmc6u4sc7yepcpuur0/Ph-Dao-Ho-ng-H-u-S01E21-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=q40ej83i96bneeijrmidvz00v&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 22,
+                "filename": "Phù Dao Hoàng Hậu - S01E22 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ey08eph9yuat1vgp8vee6/Ph-Dao-Ho-ng-H-u-S01E22-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=kn87g3hav2774uuekgy1qc8ro&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 23,
+                "filename": "Phù Dao Hoàng Hậu - S01E23 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/sjb1v09wasuz86dyelab5/Ph-Dao-Ho-ng-H-u-S01E23-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=osxnbdd3zidi8bdthv6ev8bgn&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 24,
+                "filename": "Phù Dao Hoàng Hậu - S01E24 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/2rfolc8t36d8rxibfzngz/Ph-Dao-Ho-ng-H-u-S01E24-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=22to52n9kmrzl59778bei7n80&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 25,
+                "filename": "Phù Dao Hoàng Hậu - S01E25 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/99fx1brcrl6k372akc7wn/Ph-Dao-Ho-ng-H-u-S01E25-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=ntrkl2jiy4imu3h40pisty4ba&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 26,
+                "filename": "Phù Dao Hoàng Hậu - S01E26 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/rcm1mmdf8adc6lly2d3ob/Ph-Dao-Ho-ng-H-u-S01E26-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=o0hcs5xy96n73seoih41rk052&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 27,
+                "filename": "Phù Dao Hoàng Hậu - S01E27 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/kewym3vw4olq510ut3wun/Ph-Dao-Ho-ng-H-u-S01E27-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=93bjq6j9c1bjozzmmpuo2izrl&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 28,
+                "filename": "Phù Dao Hoàng Hậu - S01E28 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/lme9pywkplfpvk20f5p1m/Ph-Dao-Ho-ng-H-u-S01E28-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=qmsb9x5ij2xml7j586t6dw19b&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 29,
+                "filename": "Phù Dao Hoàng Hậu - S01E29 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ahgz7j6tnfqkn0u2xxq4d/Ph-Dao-Ho-ng-H-u-S01E29-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=o11epjtvomjopmott3uueeb83&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 30,
+                "filename": "Phù Dao Hoàng Hậu - S01E30 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/a6uoaic6bst5ojnprnygj/Ph-Dao-Ho-ng-H-u-S01E30-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=eie96uqtue0ir8src0l61zc4u&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 31,
+                "filename": "Phù Dao Hoàng Hậu - S01E31 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/yjb70iyzzvi5tsmcdr29o/Ph-Dao-Ho-ng-H-u-S01E31-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=mjofxqvj4l2ib7p5mscnxsuwr&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 32,
+                "filename": "Phù Dao Hoàng Hậu - S01E32 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/xqt0iakdmpo5ayzdz8fbe/Ph-Dao-Ho-ng-H-u-S01E32-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=02vezuck8stlncn2zjkqe935m&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 33,
+                "filename": "Phù Dao Hoàng Hậu - S01E33 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/rfn6gfg4wg52jw9qpco0y/Ph-Dao-Ho-ng-H-u-S01E33-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=sfxhrpz5cgp0yg9f2n1x61z2v&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 34,
+                "filename": "Phù Dao Hoàng Hậu - S01E34 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/zyq77ngr8m06asoaye6zg/Ph-Dao-Ho-ng-H-u-S01E34-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=i000num4zmx6jsqaxaia7rtqa&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 35,
+                "filename": "Phù Dao Hoàng Hậu - S01E35 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/pbdm00h8yah0135s4hgdz/Ph-Dao-Ho-ng-H-u-S01E35-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=28bf5miafbosu2rf0xuvtorze&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 36,
+                "filename": "Phù Dao Hoàng Hậu - S01E36 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/3vyagkiihwe94px6qqrp1/Ph-Dao-Ho-ng-H-u-S01E36-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=yfpvagfw3dvfqm0uih8bzqvs5&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 37,
+                "filename": "Phù Dao Hoàng Hậu - S01E37 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/cnltsbnneq9q1nbdcospn/Ph-Dao-Ho-ng-H-u-S01E37-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=9pkkd6kkf8lnf6flejbpysj3e&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 38,
+                "filename": "Phù Dao Hoàng Hậu - S01E38 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/jwnene82v0ptskoe62xli/Ph-Dao-Ho-ng-H-u-S01E38-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=xpoxaua6p19nvglx0rsb43bic&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 39,
+                "filename": "Phù Dao Hoàng Hậu - S01E39 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/a0i9hyigb9p5bms5kvsoq/Ph-Dao-Ho-ng-H-u-S01E39-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=h31bbzuyh1bdd7jt5d8hhiz9p&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 40,
+                "filename": "Phù Dao Hoàng Hậu - S01E40 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/3id2a3w9qson2ofrh568h/Ph-Dao-Ho-ng-H-u-S01E40-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=bsmiwezmrp93m8klumfj60xz4&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 41,
+                "filename": "Phù Dao Hoàng Hậu - S01E41 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/3r0pf2r4z3wpevptsjsig/Ph-Dao-Ho-ng-H-u-S01E41-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=gx0kltqwjexs1ga49wv3oua73&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 42,
+                "filename": "Phù Dao Hoàng Hậu - S01E42 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/b8mglmirvgg6o0wv42k13/Ph-Dao-Ho-ng-H-u-S01E42-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=ajuj3dip7rspkv55psxwbyotp&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 43,
+                "filename": "Phù Dao Hoàng Hậu - S01E43 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/xd19k91mj30gwkslgmytr/Ph-Dao-Ho-ng-H-u-S01E43-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=8obiqz5048jpyk64l5g34gfs3&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 44,
+                "filename": "Phù Dao Hoàng Hậu - S01E44 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4u43dzlty1qnrtoo7jrll/Ph-Dao-Ho-ng-H-u-S01E44-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=yydb1a3vt0gwfpqzfb9arqb01&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 45,
+                "filename": "Phù Dao Hoàng Hậu - S01E45 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/q32g0aw2818x5sybfbcwj/Ph-Dao-Ho-ng-H-u-S01E45-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=v56pbob3nkkn40ys1q945u41r&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 46,
+                "filename": "Phù Dao Hoàng Hậu - S01E46 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/biib99dt2dykuc209vu9h/Ph-Dao-Ho-ng-H-u-S01E46-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=h238140s135omjmzz39evg5eb&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 47,
+                "filename": "Phù Dao Hoàng Hậu - S01E47 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/vqvt2l45ljahqo8j1mldi/Ph-Dao-Ho-ng-H-u-S01E47-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=nve0nv2wpftfha17b81jjd33b&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 48,
+                "filename": "Phù Dao Hoàng Hậu - S01E48 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4hlcw2jq3sladjmby53jo/Ph-Dao-Ho-ng-H-u-S01E48-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=xw1tac5q562827yk9v0cwuj83&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 49,
+                "filename": "Phù Dao Hoàng Hậu - S01E49 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/k00k33w7ysugdbjawiuxb/Ph-Dao-Ho-ng-H-u-S01E49-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=a3893rqv3uk4m976uqr8imagb&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 50,
+                "filename": "Phù Dao Hoàng Hậu - S01E50 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/lsil37xx3kkijfq8tdpjq/Ph-Dao-Ho-ng-H-u-S01E50-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=4r5zoww2mm8pfqcohep1y4js3&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 51,
+                "filename": "Phù Dao Hoàng Hậu - S01E51 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/hq8fdy2j30vupo2psy1cv/Ph-Dao-Ho-ng-H-u-S01E51-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=vnda8fxnxqouh9tg28mzultuc&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 52,
+                "filename": "Phù Dao Hoàng Hậu - S01E52 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ymnpaqtxikfzuldw28d9j/Ph-Dao-Ho-ng-H-u-S01E52-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=gpzgcno25onwivp8k5sz8oici&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 53,
+                "filename": "Phù Dao Hoàng Hậu - S01E53 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/oobxsui41zrezc8qgn4xc/Ph-Dao-Ho-ng-H-u-S01E53-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=8mqxdlwwl92grd3tli88to2nr&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 54,
+                "filename": "Phù Dao Hoàng Hậu - S01E54 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/ur7gqrsxxm4p3w4cvq3c3/Ph-Dao-Ho-ng-H-u-S01E54-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=2mhba1s8ejgbq8501ap8ypbxd&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 55,
+                "filename": "Phù Dao Hoàng Hậu - S01E55 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/09iqcnglmg820aapvz1bz/Ph-Dao-Ho-ng-H-u-S01E55-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=n9ajn3wtrztqncaekwvbnej2h&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 56,
+                "filename": "Phù Dao Hoàng Hậu - S01E56 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/780f6odgm4negki1n8id5/Ph-Dao-Ho-ng-H-u-S01E56-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=tjvlj4nl3xm7jjo1tdjwec1wb&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 57,
+                "filename": "Phù Dao Hoàng Hậu - S01E57 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/tfw4syrkeld3i7jkiykgq/Ph-Dao-Ho-ng-H-u-S01E57-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=i4t8dp4rm0k03lsnh9uqfwxyk&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 58,
+                "filename": "Phù Dao Hoàng Hậu - S01E58 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/8es8l6nno9f77wazmp93r/Ph-Dao-Ho-ng-H-u-S01E58-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=07r9osq2bmfleaoc82uyfhuel&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 59,
+                "filename": "Phù Dao Hoàng Hậu - S01E59 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/kaeo8kbotlgy7trqph129/Ph-Dao-Ho-ng-H-u-S01E59-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=fgjsy8w22ik3znr43uox7pb1c&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 60,
+                "filename": "Phù Dao Hoàng Hậu - S01E60 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/jr9yu3i28ew4r6pwo5nuj/Ph-Dao-Ho-ng-H-u-S01E60-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=01zcrsez61p84hru02q5ai6k3&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 61,
+                "filename": "Phù Dao Hoàng Hậu - S01E61 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/x5jqkokkrw7jhqfpkx288/Ph-Dao-Ho-ng-H-u-S01E61-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=rhzjmzoitxmnengfdr9yxanke&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 62,
+                "filename": "Phù Dao Hoàng Hậu - S01E62 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/4ubgk50qve3p8fvuti1gr/Ph-Dao-Ho-ng-H-u-S01E62-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=tzazhvudzvn2tiow5hvzo5q9x&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 63,
+                "filename": "Phù Dao Hoàng Hậu - S01E63 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/bvnajeua3rqj8udf1qz93/Ph-Dao-Ho-ng-H-u-S01E63-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=b12u301wef3gr8vi1mv549f8v&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 64,
+                "filename": "Phù Dao Hoàng Hậu - S01E64 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/e40npr5jlzyzrg3qr3pgy/Ph-Dao-Ho-ng-H-u-S01E64-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=fl0q9d6befkllh61r5h353um2&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 65,
+                "filename": "Phù Dao Hoàng Hậu - S01E65 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/xq0drpcw3il3l2zmg9opw/Ph-Dao-Ho-ng-H-u-S01E65-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=xd7t2d53ll159hs5c3q68a8zc&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 66,
+                "filename": "Phù Dao Hoàng Hậu - S01E66 - Legend Of Fuyao 2018 ViE DUB WEB AAC JadViE.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/f4htkp7ln2yfqgs0t2smz/Ph-Dao-Ho-ng-H-u-S01E66-Legend-Of-Fuyao-2018-ViE-DUB-WEB-AAC-JadViE.mkv?rlkey=nfh585rvf2ziu7m4rzvhwa6ux&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 15,
-      "filename": "Zi.Chuan.S02E15.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/tekv32o2ap5q2l7e1bgei/Zi.Chuan.S02E15.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=jkwfe3a7wu3kpjzncf4jbyese&dl=1"
+        "id": 200875,
+        "name": "Gã Hề Ma Quái: Chào Mừng Đến Derry",
+        "original_name": "IT: Welcome to Derry",
+        "overview": "Năm 1962, một cặp vợ chồng cùng con trai chuyển đến Derry, Maine đúng lúc một cậu bé biến mất. Với sự xuất hiện của họ, những điều khủng khiếp bắt đầu xảy ra trong thị trấn.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/dAf1nIaHxB6RJm8OxN3rp2W4yyc.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+        "first_air_date": "2025-10-26",
+        "vote_average": 8.266,
+        "genres": [
+            "Phim Chính Kịch",
+            "Phim Bí Ẩn"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "It.Welcome.To.Derry.S01E01.The.Pilot.1080p.HMAX.WEB-DL.DDP5.1.Atmos.H.265-A3TrOn.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/zey11yejq00dnqubtl18z/It.Welcome.To.Derry.S01E01.The.Pilot.1080p.HMAX.WEB-DL.DDP5.1.Atmos.H.265-A3TrOn.mkv?rlkey=sq2lpzquw0t0ilogtms0rsgc0&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "It.Welcome.To.Derry.S01E02.The.Thing.in.the.Dark.1080p.HMAX.WEB-DL.DDP5.1.Atmos.H.265-C2R.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/8vahpyr4ev1qh10rgsbeo/It.Welcome.To.Derry.S01E02.The.Thing.in.the.Dark.1080p.HMAX.WEB-DL.DDP5.1.Atmos.H.265-C2R.mkv?rlkey=bvkj341oc59njgixgdvfpzbuz&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "It.Welcome.To.Derry.S01E03.Now.You.See.It.1080p.MAX.WEB-DL.DDP5.1.Atmos.H.265-C3C.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/f5nahnr6mv9ejujv0nq18/It.Welcome.To.Derry.S01E03.Now.You.See.It.1080p.MAX.WEB-DL.DDP5.1.Atmos.H.265-C3C.mkv?rlkey=kmkjljm5rjozniim3mz87yzdc&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 16,
-      "filename": "Zi.Chuan.S02E16.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/njc6gljtbs8ntnjh28c3e/Zi.Chuan.S02E16.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=u3ic4bxyh54b72j4uh0swz3sw&dl=1"
+        "id": 280946,
+        "name": "Gia Đình Bão Tố",
+        "original_name": "태풍상사",
+        "overview": "Một vị sếp mới thừa kế công việc kinh doanh của bố. Một kế toán viên tham vọng mơ ước thành công. Cùng nhau, họ học hỏi tinh thần kinh doanh và trưởng thành giữa khủng hoảng.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
+        "first_air_date": "2025-10-11",
+        "vote_average": 8.3,
+        "genres": [
+            "Phim Chính Kịch"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "Typhoon.Family.S01E01.The.Season.of.Typhoon.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/3dpt9d4x3qodbj6vctxn2/Typhoon.Family.S01E01.The.Season.of.Typhoon.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv?rlkey=080n0hwmvoux4q0zs1okag7o9&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "Typhoon.Family.S01E02.Asphalt.Man.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/j86m8bre5lf37uej428ye/Typhoon.Family.S01E02.Asphalt.Man.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv?rlkey=q4qbajcudgp3o3h6geexm6582&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "Typhoon.Family.S01E03.Moonlight.in.Seoul.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/nid88c6t7lfbp2gvtzw5t/Typhoon.Family.S01E03.Moonlight.in.Seoul.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv?rlkey=gpo05vij80buzzh9liz41sa14&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "Typhoon.Family.S01E04.The.Wind.Cannot.Stop.Me.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/tahyfipmqng6j78bxg2yj/Typhoon.Family.S01E04.The.Wind.Cannot.Stop.Me.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv?rlkey=ympoqw69ortgamvntk3z67g46&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "filename": "Typhoon.Family.S01E05.Heaven.Where.We.Are.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/c4poj1v6vayhqnujl9sro/Typhoon.Family.S01E05.Heaven.Where.We.Are.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv?rlkey=ihkk2vcw7ftxx7yd8p19c0rta&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "filename": "Typhoon.Family.S01E06.The.Legend.of.Ambition.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/xe8bnu6ncv3agpeqii7ak/Typhoon.Family.S01E06.The.Legend.of.Ambition.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv?rlkey=ma1wowxoih6rtq4ysrcd2v0lb&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "filename": "Typhoon.Family.S01E07.The.Meaning.of.Life.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/xeaolqnscpvzlwq442mkc/Typhoon.Family.S01E07.The.Meaning.of.Life.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv?rlkey=u9f241uo6xvbhbw0tziobxesf&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "filename": "Typhoon.Family.S01E08.The.Bright.Days.of.Youth.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/fnlpc7l8q15nzgllws8pq/Typhoon.Family.S01E08.The.Bright.Days.of.Youth.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv?rlkey=ivbahvqf2772tcns21hljbwhg&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "filename": "Typhoon.Family.S01E09.Walking.to.the.Sky.1080p.NF.WEB-DL.AAC2.0.H.264-DOOXLYN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/04mr8ipt22wvh1h59qlj7/Typhoon.Family.S01E09.Walking.to.the.Sky.1080p.NF.WEB-DL.AAC2.0.H.264-DOOXLYN.mkv?rlkey=lrfwd5d5qwq5ujd8tueicnah2&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "filename": "Typhoon.Family.S01E10.You.and.I.1080p.NF.WEB-DL.AAC2.0.H.264-DOOXLYN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/6fdny8brqprz5zpyhoda8/Typhoon.Family.S01E10.You.and.I.1080p.NF.WEB-DL.AAC2.0.H.264-DOOXLYN.mkv?rlkey=goega09lfhwitqygqyzm6jp8u&dl=1"
+            }
+        ]
     },
     {
-      "season": 2,
-      "episode": 17,
-      "filename": "Zi.Chuan.S02E17.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/23nko2v4qjdu1rbje6uqr/Zi.Chuan.S02E17.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=litcqxhyembkr0unzoolm32uk&dl=1"
-    },
-    {
-      "season": 2,
-      "episode": 18,
-      "filename": "Zi.Chuan.S02E18.2025.4K.H265.Vietsub.TM_chiphu.mkv",
-      "dropbox_link": "https://www.dropbox.com/scl/fi/8lt5s27nct4rtpkpq74r1/Zi.Chuan.S02E18.2025.4K.H265.Vietsub.TM_chiphu.mkv?rlkey=vl0aw8l9ssv0sao7ekxzkxvq8&dl=1"
+        "id": 4250,
+        "name": "Last of the Summer Wine",
+        "original_name": "Last of the Summer Wine",
+        "overview": "",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vjI4WdHda9ckCo5YIYVhc8rl6SR.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/88jpREzaBTjadaJ71JbihhL9A1k.jpg",
+        "first_air_date": "1973-01-04",
+        "vote_average": 7.1,
+        "genres": [
+            "Phim Hài"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "filename": "Last.Summer.S01E01.REPACK.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/7rrga4hykr2jc6v9l2b5x/Last.Summer.S01E01.REPACK.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv?rlkey=4jdp46sk59psxrm4iv2i4ennl&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "filename": "Last.Summer.S01E02.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/8db1oazghp262mjy0d56u/Last.Summer.S01E02.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk.mkv?rlkey=mmfacxwt9pjyfnlbjp5l08eib&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "filename": "Last.Summer.S01E03.1080p.NF.WEB-DL.AAC2.0.H.264-DOOXLYN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/tdekdd78eg81y668ullk3/Last.Summer.S01E03.1080p.NF.WEB-DL.AAC2.0.H.264-DOOXLYN.mkv?rlkey=8kkn3fwu6n5lyawtl4nlo0j6x&dl=1"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "filename": "Last.Summer.S01E04.1080p.NF.WEB-DL.AAC2.0.H.264-DOOXLYN.mkv",
+                "dropbox_link": "https://www.dropbox.com/scl/fi/5z99rja7hr8dzovpnyyz8/Last.Summer.S01E04.1080p.NF.WEB-DL.AAC2.0.H.264-DOOXLYN.mkv?rlkey=5e3z3gfyi8d2lw8emnm9qwq0y&dl=1"
+            }
+        ]
     }
-  ]
-}
+]
