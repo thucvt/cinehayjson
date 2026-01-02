@@ -39546,6 +39546,75 @@
         ]
     },
     {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/lLf58WCzczOKTnaLUc1hh44P0CR.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            }
+        ],
+        "homepage": "",
+        "id": 965094,
+        "imdb_id": "tt32175399",
+        "origin_country": [
+            "KR"
+        ],
+        "original_language": "ko",
+        "original_title": "파일럿",
+        "overview": "Từ đỉnh cao danh vọng, hào quang cơ trưởng của HAN Jung-woo (CHO Jung-seok) tắt ngỏm khi dính vào những thị phi công sở. Đứng trước thị trường tuyển dụng khó khăn, HAN Jung-woo quyết định \"nhập vai\" em gái, ứng tuyển \"nữ phi công\" với hi vọng lấy lại những gì đã mất!",
+        "popularity": 2.0887,
+        "poster_path": "https://image.tmdb.org/t/p/w500/v8PCf9ovG7LlyzLtPsPDBH9X0it.jpg",
+        "production_companies": [
+            {
+                "id": 112531,
+                "logo_path": "/fMxP7x6wzoX31IlTRuMnJjIp8rM.png",
+                "name": "Movierock",
+                "origin_country": "KR"
+            },
+            {
+                "id": 196805,
+                "logo_path": null,
+                "name": "SHOTCAKE",
+                "origin_country": "KR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "release_date": "2024-07-31",
+        "revenue": 30937400,
+        "runtime": 111,
+        "spoken_languages": [
+            {
+                "english_name": "Korean",
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Chàng Nữ Phi Công",
+        "video": false,
+        "vote_average": 7.683,
+        "vote_count": 41,
+        "hot_phim": 0,
+        "type": "movie",
+        "versions": [
+            {
+                "filename": "Pilot.2024 ViE 1080p.WEB-DL.DD2.0.H.264.mkv",
+                "label": "1080p - WEB-DL - 5.83 GB",
+                "link": "https://www.dropbox.com/scl/fi/nd43z14zq7vfpsa269fdi/Pilot.2024-ViE-1080p.WEB-DL.DD2.0.H.264.mkv?rlkey=5uuj3kccciybnhij92x4qhhkq&dl=0",
+                "subtitle": null
+            }
+        ]
+    },
+    {
         "id": 965143,
         "type": "movie",
         "hot_phim": 0,
@@ -58608,31 +58677,6 @@
                 "filename": "Maria.Azama.Da.Best.Porn.Star.2025.2160p.WEB-DL.x264.mkv",
                 "label": "4K - WEB-DL - 2.96 GB",
                 "link": "https://www.dropbox.com/scl/fi/sy3dadr784l2npju6ejxi/Maria.Azama.Da.Best.Porn.Star.2025.2160p.WEB-DL.x264.mkv?rlkey=a4t4jjq45nz2qqsvxcoqfxqt8&dl=0",
-                "subtitle": null
-            }
-        ]
-    },
-    {
-        "id": 1556596,
-        "type": "movie",
-        "hot_phim": 0,
-        "title": "Pilot",
-        "original_title": "Pilot",
-        "overview": "",
-        "poster_path": "https://image.tmdb.org/t/p/w500/z2cuS746vYAWuVo23BnXE01V7p7.jpg",
-        "backdrop_path": "https://image.tmdb.org/t/p/w1280/bAhEThigCHbK8bmrXMd9gLE6YXu.jpg",
-        "release_date": "2025-10-02",
-        "genres": [
-            "Phim Hoạt Hình",
-            "Phim Khoa Học Viễn Tưởng",
-            "Phim Kinh Dị"
-        ],
-        "vote_average": 10,
-        "versions": [
-            {
-                "filename": "Pilot.2024 ViE 1080p.WEB-DL.DD2.0.H.264.mkv",
-                "label": "1080p - WEB-DL - 5.83 GB",
-                "link": "https://www.dropbox.com/scl/fi/nd43z14zq7vfpsa269fdi/Pilot.2024-ViE-1080p.WEB-DL.DD2.0.H.264.mkv?rlkey=5uuj3kccciybnhij92x4qhhkq&dl=0",
                 "subtitle": null
             }
         ]
