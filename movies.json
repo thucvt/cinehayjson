@@ -59027,38 +59027,8 @@
                 "subtitle": null
             }
         ]
-    },
-    
-    {
-        "id": 1419406,
-        "type": "movie",
-        "hot_phim": 0,
-        "title": "Bổ Phong Truy Ảnh",
-        "original_title": "捕风追影",
-        "overview": "Wong Tak-Chung, một cựu chuyên gia giám sát được biết đến với khả năng phân tích dữ liệu và truy vết bậc thầy, bị cảnh sát Ma Cao mời trở lại hợp tác điều tra sau khi xuất hiện hàng loạt vụ cướp quy mô lớn do một tổ chức tội phạm công nghệ cao thực hiện.",
-        "poster_path": "https://image.tmdb.org/t/p/w500/5LGUvRBXoXHsMZsZrCGBOVmwOVd.jpg",
-        "backdrop_path": "https://image.tmdb.org/t/p/w1280/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
-        "release_date": "2025-08-16",
-        "genres": [
-            "Phim Hành Động",
-            "Phim Hình Sự",
-            "Phim Gây Cấn"
-        ],
-        "vote_average": 6.628,
-        "versions": [
-            {
-                "filename": "The.Shadows.Edge.2025.2160p.WEB-DL.H265.DTS-QuickIO-Vsub.mkv",
-                "label": "4K - WEB-DL - DTS - 6.13 GB",
-                "link": "https://www.dropbox.com/scl/fi/u5g8dflgzca4dv74rlyt5/The.Shadows.Edge.2025.2160p.WEB-DL.H265.DTS-QuickIO-Vsub.mkv?rlkey=u3afy5iolyriszlnmsbh95tpf&dl=0",
-                "subtitle": ""
-            },
-            {
-                "filename": "The.Shadows.Edge.2025.2160p.WEB-DL.H265.120fps.DTS5.1-ZiN.mkv",
-                "label": "4K - WEB-DL - DTS - 120FPS - 10.29 GB",
-                "link": "https://www.dropbox.com/scl/fi/pz2275jegvpvvg6r75y03/The.Shadows.Edge.2025.2160p.WEB-DL.H265.120fps.DTS5.1-ZiN.mkv?rlkey=6bx7bodnclcm2bwdvhg30zjkr&dl=0",
-                "subtitle": ""
-            }
-        ]
     }
+    
+   
 
 ]
