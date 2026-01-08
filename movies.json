@@ -76430,5 +76430,1074 @@
                 "subtitle": ""
             }
         ]
+    },
+    {
+        "id": 17979,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Giáng Sinh Yêu Thương",
+        "original_title": "A Christmas Carol",
+        "overview": "Giáng Sinh Yêu Thương dựa trên tác phẩm văn học kinh điển cùng tên của đại văn hào Charles Dicken kể về lão già keo kiệt Miser Ebenezer Scrooge bị đánh thức trong Lễ Giáng Sinh bởi một hồn ma. Trong phim hay này, hồn ma đã cho lão thấy cuộc sống của lão khốn khổ chừng nào và một tương lai kinh khủng đang chờ lão. Lão nhận ra rằng cuộc sống của lão đã trở nên đắng cay và ích kỷ từng ngày, và lão phải lựa chọn.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cRipc1dxyMoNlT1z8Pooq0oSllm.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/uocpNfrP0Vvnf2UxykXuIR1HNUd.jpg",
+        "release_date": "2009-11-04",
+        "genres": [
+            {
+                "id": 16,
+                "name": "Phim Hoạt Hình"
+            },
+            {
+                "id": 10751,
+                "name": "Phim Gia Đình"
+            },
+            {
+                "id": 14,
+                "name": "Phim Giả Tượng"
+            },
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            }
+        ],
+        "vote_average": 6.904,
+        "vote_count": 4823,
+        "production_countries": [
+            "United States of America"
+        ],
+        "cast": [
+            {
+                "name": "Jim Carrey",
+                "character": "Scrooge / Ghosts of Christmas (voice)",
+                "profile_path": "https://image.tmdb.org/t/p/w185/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg"
+            },
+            {
+                "name": "Gary Oldman",
+                "character": "Bob Cratchit / Marley / Tiny Tim (voice)",
+                "profile_path": "https://image.tmdb.org/t/p/w185/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+            },
+            {
+                "name": "Colin Firth",
+                "character": "Fred (voice)",
+                "profile_path": "https://image.tmdb.org/t/p/w185/4VBeYEUQbfhnivdkqInM36u5fda.jpg"
+            },
+            {
+                "name": "Robin Wright",
+                "character": "Fan / Belle (voice)",
+                "profile_path": "https://image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+            },
+            {
+                "name": "Cary Elwes",
+                "character": "Portly Gentleman / Dick Wilkins / Fiddler / Business Man (voice)",
+                "profile_path": "https://image.tmdb.org/t/p/w185/5PAcQuB2fFzGq5fjyugNlOpndk4.jpg"
+            }
+        ],
+        "director": {
+            "name": "Robert Zemeckis",
+            "profile_path": "https://image.tmdb.org/t/p/w185/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg"
+        },
+        "writers": [
+            {
+                "name": "Robert Zemeckis"
+            }
+        ],
+        "runtime": 96,
+        "budget": 200000000,
+        "revenue": 325286646,
+        "imdb_id": "tt1067106",
+        "tagline": "Christmas comes but once a year, but for one man, that's once too often.",
+        "rotten_tomatoes_score": "52%",
+        "metascore": 55,
+        "awards": "3 wins & 5 nominations total",
+        "versions": [
+            {
+                "filename": "A.Christmas.Carol.2009.1080p.BluRay.x264-EbP (TM-Khukhooo-HDVNBits).mkv",
+                "label": "1080p - BluRay - 6.09 GB",
+                "link": "https://www.dropbox.com/scl/fi/abcasrzhy2hm07xmmnga6/A.Christmas.Carol.2009.1080p.BluRay.x264-EbP-TM-Khukhooo-HDVNBits.mkv?rlkey=98zohmip8x9wah0g1yznln6ho&dl=0",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 110415,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Chuyến Tàu Băng Giá",
+        "original_title": "설국열차",
+        "overview": "Lấy bối cảnh năm 2031, sau thất bại của nỗ lực khắc phục sự nóng lên của toàn cầu, Trái Đất trở về với Kỷ Băng Hà khi hoàn toàn bị bao phủ bởi băng tuyết và thế giới loài người đứng trước nguy cơ bị xóa sổ. Tất cả những người may mắn sống sót đều ở trên con tàu mang tên Snowpiercer. Con tàu đi tới khắp nơi trên Trái Đất và giống như một xã hội thu nhỏ, chứa đựng những mâu thuẫn và phân biệt giàu nghèo, giai cấp giữa những người đang phải cùng nhau đương đầu với cái chết. Quá mệt mỏi trước sự áp bức, bất công, dưới sự lãnh đạo của Curtis (Chris Evans thủ vai), những người nghèo sống ở những toa sau của con tàu đã nổi dậy tiến hành cuộc cách mạng lật đổ tầng lớp thượng lưu ở những toa trước. Tuy nhiên, cuộc nổi dậy của họ đối mặt với rất nhiều nhiều khó khăn, thử thách...",
+        "poster_path": "https://image.tmdb.org/t/p/w500/fC6Ipo5o45DQO4xM7Lfq4MppTDT.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/33dV6HAnXBmwKl640gO3U4auqUN.jpg",
+        "release_date": "2013-08-01",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Phim Hành Động"
+            },
+            {
+                "id": 878,
+                "name": "Phim Khoa Học Viễn Tưởng"
+            },
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            }
+        ],
+        "vote_average": 6.91,
+        "vote_count": 10147,
+        "production_countries": [
+            "South Korea"
+        ],
+        "cast": [
+            {
+                "name": "Chris Evans",
+                "character": "Curtis",
+                "profile_path": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+            },
+            {
+                "name": "Song Kang-ho",
+                "character": "Namgoong Minsu",
+                "profile_path": "https://image.tmdb.org/t/p/w185/7dw9wIpFZ5nJZ3zqrue8t7hUUgQ.jpg"
+            },
+            {
+                "name": "Ed Harris",
+                "character": "Wilford",
+                "profile_path": "https://image.tmdb.org/t/p/w185/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+            },
+            {
+                "name": "John Hurt",
+                "character": "Gilliam",
+                "profile_path": "https://image.tmdb.org/t/p/w185/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+            },
+            {
+                "name": "Tilda Swinton",
+                "character": "Mason",
+                "profile_path": "https://image.tmdb.org/t/p/w185/dzjT4LKgs7eOma84GsPy78DsGNH.jpg"
+            }
+        ],
+        "director": {
+            "name": "Bong Joon Ho",
+            "profile_path": "https://image.tmdb.org/t/p/w185/stwnTvZAoD8gEJEDHpDQyLCyDy5.jpg"
+        },
+        "writers": [
+            {
+                "name": "Bong Joon Ho"
+            },
+            {
+                "name": "Kelly Masterson"
+            }
+        ],
+        "runtime": 127,
+        "budget": 39200000,
+        "revenue": 86758912,
+        "imdb_id": "tt1706620",
+        "tagline": "Năm 2031, những hành khách trên tàu là những người sống sót duy nhất trên Trái đất.",
+        "rotten_tomatoes_score": "94%",
+        "metascore": 84,
+        "awards": "36 wins & 109 nominations total",
+        "versions": [
+            {
+                "filename": "Snowpiercer.2013.ViE.1080p.BluRay.DTS.x264-EbP.VAV.mkv",
+                "label": "1080p - BluRay - DTS - 17.51 GB",
+                "link": "https://www.dropbox.com/scl/fi/0ahu8t9hbysvndmb9x4xa/Snowpiercer.2013.ViE.1080p.BluRay.DTS.x264-EbP.VAV.mkv?rlkey=yfed19y1nm7po6uo6l872sbs5&dl=0",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 584242,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "热带雨",
+        "original_title": "热带雨",
+        "overview": "Wet Season revolves around the life of Ling, a schoolteacher who deals with infertility while having to take care of her infirm father-in-law at home. One of Ling's students, Kok Wei Lun, develops a crush on her during remedial Chinese classes. The two become closer as Wei Lun embraces Ling's extra tutoring.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/3y3ayXbsoHGtxGBKb3oRLUHQ9ft.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/d2dxTPPkwY2RAUS2L451JsQTCmC.jpg",
+        "release_date": "2019-11-22",
+        "genres": [
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            },
+            {
+                "id": 10749,
+                "name": "Phim Lãng Mạn"
+            }
+        ],
+        "vote_average": 6.392,
+        "vote_count": 37,
+        "production_countries": [
+            "China",
+            "Singapore",
+            "Taiwan"
+        ],
+        "cast": [
+            {
+                "name": "Yeo Yann Yann",
+                "character": "Ling",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ncOxEFlrrR35kVZW5MgA1uGTUMx.jpg"
+            },
+            {
+                "name": "Koh Jia Ler",
+                "character": "Kok Wei Lun",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ljIC8lfSDJgTp9LoMtMcEs9Ui5H.jpg"
+            },
+            {
+                "name": "Christopher Lee Ming-Shun",
+                "character": "Andrew Lim",
+                "profile_path": "https://image.tmdb.org/t/p/w185/8QvDvbUxkwhbrWHr3Po6liw1jAX.jpg"
+            },
+            {
+                "name": "Yang Shi Bin",
+                "character": "Ling's Father-in-law",
+                "profile_path": "https://image.tmdb.org/t/p/w185/yENNZRWUq0aHQ5s6JGNTW6M0XsB.jpg"
+            },
+            {
+                "name": "Brayden Koh",
+                "character": "Mrs Chew's Son",
+                "profile_path": null
+            }
+        ],
+        "director": {
+            "name": "Anthony Chen",
+            "profile_path": "https://image.tmdb.org/t/p/w185/78xy7fJVDvgs411qratoZur34cQ.jpg"
+        },
+        "writers": [
+            {
+                "name": "Anthony Chen"
+            }
+        ],
+        "runtime": 103,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt9822706",
+        "tagline": null,
+        "rotten_tomatoes_score": "82%",
+        "metascore": 73,
+        "awards": "7 wins & 26 nominations total",
+        "versions": [
+            {
+                "filename": "Wet Season 2019 Remux BluRay 1080p TrueHD 51x26510bit - MoiTinhCoTro.mkv",
+                "label": "1080p - Remux - 19.14 GB",
+                "link": "https://www.dropbox.com/scl/fi/tu76towfwma9twgnmfrkc/Wet-Season-2019-Remux-BluRay-1080p-TrueHD-51x26510bit-MoiTinhCoTro.mkv?rlkey=4uzuy38nk5ca0661gfaarqy46&dl=0",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 592834,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Điệp Viên Siêu Lầy",
+        "original_title": "My Spy",
+        "overview": "Jason Jones, hay còn gọi là JJ (Dave Bautista) – một điệp viên CIA dày dạn kinh nghiệm. Trong một lần thực địa, JJ bị cô bé 9 tuổi Sophie (Chloe Coleman) phát hiện và uy hiếp anh phải “gia sư” môn điệp viên cho mình nếu không muốn cả thế giới biết thân phận thực sự của anh. Mắc kẹt bên cô học trò lắm mưu nhiều mẹo, JJ dần phát hiện ra Sophie thực sự có tố chất và năng khiếu bẩm sinh cho việc trở thành điệp viên.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/rtxTlBIdzL2HIevxkfK7wFWWDMF.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/jDb3VV38z6wOdKbGA9jn1bagnfC.jpg",
+        "release_date": "2020-01-09",
+        "genres": [
+            {
+                "id": 10751,
+                "name": "Phim Gia Đình"
+            },
+            {
+                "id": 28,
+                "name": "Phim Hành Động"
+            },
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            }
+        ],
+        "vote_average": 6.87,
+        "vote_count": 1339,
+        "production_countries": [
+            "United States of America"
+        ],
+        "cast": [
+            {
+                "name": "Dave Bautista",
+                "character": "J.J.",
+                "profile_path": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+            },
+            {
+                "name": "Chloe Coleman",
+                "character": "Sophie Newton",
+                "profile_path": "https://image.tmdb.org/t/p/w185/rTbVFZMvUViFCIa5AXlBX3P6vfR.jpg"
+            },
+            {
+                "name": "Parisa Fitz-Henley",
+                "character": "Kate",
+                "profile_path": "https://image.tmdb.org/t/p/w185/dM1DAi2IzBgq1Qb7o8JcrRa89dY.jpg"
+            },
+            {
+                "name": "Kristen Schaal",
+                "character": "Bobbi",
+                "profile_path": "https://image.tmdb.org/t/p/w185/s3LSHVTx8gxHP2twYsXEGa8JbLl.jpg"
+            },
+            {
+                "name": "Greg Bryk",
+                "character": "Marquez",
+                "profile_path": "https://image.tmdb.org/t/p/w185/1I3SxKFvQSam6KOMT4j5f0nFxRg.jpg"
+            }
+        ],
+        "director": {
+            "name": "Peter Segal",
+            "profile_path": "https://image.tmdb.org/t/p/w185/x0nAuktiPai0OovveeegPAi0dRF.jpg"
+        },
+        "writers": [
+            {
+                "name": "Jon Hoeber"
+            },
+            {
+                "name": "Erich Hoeber"
+            }
+        ],
+        "runtime": 99,
+        "budget": 18000000,
+        "revenue": 10200000,
+        "imdb_id": "tt8242084",
+        "tagline": "Bộ đôi hợp rơ trong một phi vụ bất ngờ.",
+        "rotten_tomatoes_score": "49%",
+        "metascore": 46,
+        "awards": "N/A",
+        "versions": [
+            {
+                "filename": "My.Spy.2020.1080p.BluRay.DTS-HD.MA.5.1.x264-FuzerHD.mkv",
+                "label": "1080p - BluRay - DTS - 11.94 GB",
+                "link": "https://www.dropbox.com/scl/fi/4bulujwi3cfjiat00w4cr/My.Spy.2020.1080p.BluRay.DTS-HD.MA.5.1.x264-FuzerHD.mkv?rlkey=i2bqs91atxnm6j7614jtjb2ng&dl=0",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 726139,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Dự Án Mật: Thảm Họa Trên Cầu",
+        "original_title": "탈출: 프로젝트 사일런스",
+        "overview": "Do điều kiện thời tiết xấu đi đột ngột, tầm nhìn trên cây cầu đến sân bay bị suy giảm nghiêm trọng, khiến người dân bị mắc kẹt và có nguy cơ sập cầu do hàng loạt va chạm dây chuyền và các vụ nổ. Giữa sự hỗn loạn, những chú chó 'Echo' từ thí nghiệm quân sự 'Dự án Mật', đang được vận chuyển bí mật, thoát ra ngoài và tất cả những người sống sót đều trở thành mục tiêu của các cuộc tấn công không ngừng. Nhiều người bị mắc kẹt trên cầu vì nhiều lý do khác nhau - một quan chức chính phủ từ văn phòng tổng thống (LEE Sun Kyun), người đang tiễn con gái mình (KIM Su An) tại sân bay; tài xế xe đầu kéo (JU Ji Hoon) đang trên đường đến hiện trường vụ va chạm; một cặp vợ chồng già (MOON Sung Geun, YE Su Jeong) đang trở về sau chuyến đi nước ngoài; chị em (PARK Hee Von, PARK Ju Hyun) đã lỡ chuyến bay và Tiến sĩ Yang (Kim Hie Won), nhà nghiên cứu chịu trách nhiệm về Dự án Mật - và một cuộc đấu tranh tuyệt vọng bắt đầu để họ trốn thoát đến nơi an toàn.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cId6KFYQjZYimyeqS4vfbvMv3GN.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/39CRS71VP0d9VOsJ5TVgD8IaQnT.jpg",
+        "release_date": "2024-07-11",
+        "genres": [
+            {
+                "id": 53,
+                "name": "Phim Gây Cấn"
+            },
+            {
+                "id": 28,
+                "name": "Phim Hành Động"
+            },
+            {
+                "id": 27,
+                "name": "Phim Kinh Dị"
+            },
+            {
+                "id": 878,
+                "name": "Phim Khoa Học Viễn Tưởng"
+            },
+            {
+                "id": 12,
+                "name": "Phim Phiêu Lưu"
+            }
+        ],
+        "vote_average": 6.936,
+        "vote_count": 375,
+        "production_countries": [
+            "South Korea"
+        ],
+        "cast": [
+            {
+                "name": "Lee Sun-kyun",
+                "character": "Cha Jeong-won",
+                "profile_path": "https://image.tmdb.org/t/p/w185/nHFBbSFohzOUOvMxPVwe3Es2nJw.jpg"
+            },
+            {
+                "name": "Ju Ji-hoon",
+                "character": "Jo Park",
+                "profile_path": "https://image.tmdb.org/t/p/w185/7PYfUrBBXhYv5PIsTalJhjbRteg.jpg"
+            },
+            {
+                "name": "Kim Hie-won",
+                "character": "Doctor Yang",
+                "profile_path": "https://image.tmdb.org/t/p/w185/sDCxskfmmNidOjV2LwsWh9dAVbN.jpg"
+            },
+            {
+                "name": "Moon Sung-keun",
+                "character": "Byeong-hak",
+                "profile_path": "https://image.tmdb.org/t/p/w185/wQjOvAFqCItwMw7dxa486KnGgEE.jpg"
+            },
+            {
+                "name": "Ye Su-jeong",
+                "character": "Soon-ok",
+                "profile_path": "https://image.tmdb.org/t/p/w185/rwGPhu8Ge36eMkrOlzfdKKFargw.jpg"
+            }
+        ],
+        "director": {
+            "name": "Kim Tae-gon",
+            "profile_path": null
+        },
+        "writers": [
+            {
+                "name": "Park Joo-suk"
+            },
+            {
+                "name": "Kim Tae-gon"
+            },
+            {
+                "name": "Kim Yong-hwa"
+            }
+        ],
+        "runtime": 96,
+        "budget": 14750000,
+        "revenue": 6283415,
+        "imdb_id": "tt25808194",
+        "tagline": "Every survivor is a target.",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": "N/A",
+        "versions": [
+            {
+                "filename": "Project.Silence 2024 ViE 1080p WEB-DL DD2.0 H.264 (Thuyet Minh - Sub Viet).mkv",
+                "label": "1080p - WEB-DL - TM - 5.56 GB",
+                "link": "https://www.dropbox.com/scl/fi/l5cti94h1mhynnt4oizcs/Project.Silence-2024-ViE-1080p-WEB-DL-DD2.0-H.264-Thuyet-Minh-Sub-Viet.mkv?rlkey=z3is055dknlki3khkjje3pvxl&dl=0",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1023922,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Mối Nguy Hiểm Bí Ẩn",
+        "original_title": "MaXXXine",
+        "overview": "Maxine, nhân vật chính trong loạt phim 'X' và 'Pearl,' tiếp tục hành trình của mình trong ngành công nghiệp phim người lớn vào những năm 1980. Khi theo đuổi danh vọng và thành công, cô phải đối mặt với những thế lực đen tối từ quá khứ và những nguy hiểm đang rình rập tương lai của mình.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/viKEEaaCaZ0hZ2nGuvIEozlLooL.jpg",
+        "release_date": "2024-07-04",
+        "genres": [
+            {
+                "id": 27,
+                "name": "Phim Kinh Dị"
+            },
+            {
+                "id": 53,
+                "name": "Phim Gây Cấn"
+            }
+        ],
+        "vote_average": 6.314,
+        "vote_count": 1338,
+        "production_countries": [
+            "United States of America"
+        ],
+        "cast": [
+            {
+                "name": "Mia Goth",
+                "character": "Maxine Minx",
+                "profile_path": "https://image.tmdb.org/t/p/w185/rwko7XVaKFcJH1dtAIIsrgLMzHb.jpg"
+            },
+            {
+                "name": "Elizabeth Debicki",
+                "character": "Elizabeth Bender",
+                "profile_path": "https://image.tmdb.org/t/p/w185/nTTnQVTn13Ve4ifjRY9v8kVc99w.jpg"
+            },
+            {
+                "name": "Moses Sumney",
+                "character": "Leon",
+                "profile_path": "https://image.tmdb.org/t/p/w185/r8bsRmSdnpnVbvLeShUPLXu9AkN.jpg"
+            },
+            {
+                "name": "Michelle Monaghan",
+                "character": "Detective Williams",
+                "profile_path": "https://image.tmdb.org/t/p/w185/c6xYsN4NPGkU50l2Lu2fbgZPjI1.jpg"
+            },
+            {
+                "name": "Bobby Cannavale",
+                "character": "Detective Torres",
+                "profile_path": "https://image.tmdb.org/t/p/w185/wlp20ggyNI7x0xGUtTjC2Xl2XmD.jpg"
+            }
+        ],
+        "director": {
+            "name": "Ti West",
+            "profile_path": "https://image.tmdb.org/t/p/w185/y65ZHU9m830lbdbggxC8eOT123S.jpg"
+        },
+        "writers": [
+            {
+                "name": "Ti West"
+            }
+        ],
+        "runtime": 103,
+        "budget": 10000000,
+        "revenue": 22057161,
+        "imdb_id": "tt22048412",
+        "tagline": "Hollywood is a killer.",
+        "rotten_tomatoes_score": "73%",
+        "metascore": 64,
+        "awards": "8 nominations total",
+        "versions": [
+            {
+                "filename": "MaXXXine.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv",
+                "label": "1080p - WEB-DL - Atmos - 7.18 GB",
+                "link": "https://www.dropbox.com/scl/fi/tkrw9sugmjouoogm4qeae/MaXXXine.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv?rlkey=gmx0bb69piw43917reruclj3q&dl=0",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1147710,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Vây Hãm Trên Không",
+        "original_title": "하이재킹",
+        "overview": "'Từ giờ trở đi, chiếc máy bay này sẽ tới Triều Tiên!”. Bộ phim hành động ly kỳ dựa trên sự kiện có thật với sự tham gia của Ha Jung Woo, Yeo Jin Goo và Sung Dong Il được dựa trên một sự kiện có thật năm 1971, khi một thanh niên Hàn Quốc định cướp một chiếc máy bay chở khách khởi hành từ thành phố cảnh phía đông Sokcho bay tới Seoul. Mọi người trên chuyến bay này đều đang đặt cược mạng sống của mình!",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sdakBAPqhYHbu4S5wehKKrz6CV5.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/hQ9grQ2RjHS3X7crItJqhoGvUPm.jpg",
+        "release_date": "2024-06-21",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Phim Hành Động"
+            },
+            {
+                "id": 53,
+                "name": "Phim Gây Cấn"
+            },
+            {
+                "id": 80,
+                "name": "Phim Hình Sự"
+            }
+        ],
+        "vote_average": 6.6,
+        "vote_count": 129,
+        "production_countries": [
+            "South Korea"
+        ],
+        "cast": [
+            {
+                "name": "Ha Jung-woo",
+                "character": "Tae-in",
+                "profile_path": "https://image.tmdb.org/t/p/w185/9KINm0XIwbt4Qql4oZX55krzKxg.jpg"
+            },
+            {
+                "name": "Yeo Jin-goo",
+                "character": "Yong-dae",
+                "profile_path": "https://image.tmdb.org/t/p/w185/f9Gj12cCk66vdIaDVjltTGAZPC9.jpg"
+            },
+            {
+                "name": "Sung Dong-il",
+                "character": "Gyu-sik",
+                "profile_path": "https://image.tmdb.org/t/p/w185/9VLRIvOyQSHkpJaeaBcmHzcEUQn.jpg"
+            },
+            {
+                "name": "Chae Soo-bin",
+                "character": "Ok-soon",
+                "profile_path": "https://image.tmdb.org/t/p/w185/t8inEDMgceg8EFLvgglvXzemklf.jpg"
+            },
+            {
+                "name": "Moon You-kang",
+                "character": "Chang-bae",
+                "profile_path": "https://image.tmdb.org/t/p/w185/69bOe5fyGaUFZy7JUsq40hWd75F.jpg"
+            }
+        ],
+        "director": {
+            "name": "Kim Sung-han",
+            "profile_path": null
+        },
+        "writers": [
+            {
+                "name": "Kim Kyung-chan"
+            }
+        ],
+        "runtime": 100,
+        "budget": null,
+        "revenue": 14602614,
+        "imdb_id": "tt31624258",
+        "tagline": "One passenger with a different destination.",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": "N/A",
+        "versions": [
+            {
+                "filename": "Hijack 1971 2024 ViE 1080p WEB-DL DD 5.1 H264-FLUX.mkv",
+                "label": "1080p - WEB-DL - 7.72 GB",
+                "link": "https://www.dropbox.com/scl/fi/jsh240dbijt05g326avjf/Hijack-1971-2024-ViE-1080p-WEB-DL-DD-5.1-H264-FLUX.mkv?rlkey=w3ndlfb14nz0au4e5j5wn4dqp&dl=0",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1196943,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Chiến Binh Maratha",
+        "original_title": "छावा",
+        "overview": "Chhaava (2025) là một bộ phim lịch sử - hành động của Ấn Độ, kể về cuộc đời của Chhatrapati Sambhaji Maharaj, vị vua thứ hai của Đế quốc Maratha. Bộ phim tái hiện cuộc chiến chống lại Đế chế Mughal của Sambhaji, khi Hoàng đế Aurangzeb cố gắng thôn tính Maratha. Ông đã sử dụng chiến thuật du kích để bảo vệ vương quốc, nhưng cũng phải đối mặt với những cuộc phản bội và âm mưu chính trị. Dù bị bắt và tra tấn, ông vẫn kiên cường, trở thành biểu tượng của lòng quả cảm và sự bất khuất.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ubRsrzb6NRW8YhVTJ6jG1kpNvCi.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/s37s21YPqS7txyB0x0TRel24vgi.jpg",
+        "release_date": "2025-02-14",
+        "genres": [
+            {
+                "id": 36,
+                "name": "Phim Lịch Sử"
+            },
+            {
+                "id": 28,
+                "name": "Phim Hành Động"
+            },
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            }
+        ],
+        "vote_average": 6.896,
+        "vote_count": 48,
+        "production_countries": [
+            "India"
+        ],
+        "cast": [
+            {
+                "name": "Vicky Kaushal",
+                "character": "Chhatrapati Sambhaji Maharaj",
+                "profile_path": "https://image.tmdb.org/t/p/w185/kAEnBobX34y8NJ9qs1IVG42htQb.jpg"
+            },
+            {
+                "name": "Rashmika Mandanna",
+                "character": "Yesubai Bhonsale",
+                "profile_path": "https://image.tmdb.org/t/p/w185/c1wQq0OAzU9nFhGYn4iOoi7dmqD.jpg"
+            },
+            {
+                "name": "Akshaye Khanna",
+                "character": "Aurangzeb",
+                "profile_path": "https://image.tmdb.org/t/p/w185/kRPLQ908NrKejOwG6i3ypBd9qDq.jpg"
+            },
+            {
+                "name": "Ashutosh Rana",
+                "character": "Sarlashkar Hambirrao Mohite",
+                "profile_path": "https://image.tmdb.org/t/p/w185/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
+            },
+            {
+                "name": "Divya Dutta",
+                "character": "Rajmata Soyarabai Bhosale",
+                "profile_path": "https://image.tmdb.org/t/p/w185/mr8GYp92eizLVXBQxQndkxKuJH1.jpg"
+            }
+        ],
+        "director": {
+            "name": "Laxman Utekar",
+            "profile_path": "https://image.tmdb.org/t/p/w185/tjfyze8v39C023F6OElEB33hzAF.jpg"
+        },
+        "writers": [
+            {
+                "name": "Rishi Virmani"
+            },
+            {
+                "name": "Laxman Utekar"
+            },
+            {
+                "name": "Kaustubh J. Savarkar"
+            }
+        ],
+        "runtime": 161,
+        "budget": 15800000,
+        "revenue": 94988235,
+        "imdb_id": "tt27922706",
+        "tagline": "One warrior, one aim and one epic saga.",
+        "rotten_tomatoes_score": "31%",
+        "metascore": null,
+        "awards": "3 nominations total",
+        "versions": [
+            {
+                "filename": "Chhaava.2025.1080p.NF.WEB-DL.DDP5.1.H.264-playWEB (Sub Viet).mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 6.18 GB",
+                "link": "https://www.dropbox.com/scl/fi/dnqi02gq60eb4cpzm41f3/Chhaava.2025.1080p.NF.WEB-DL.DDP5.1.H.264-playWEB-Sub-Viet.mkv?rlkey=h9gbv3pgitt79giscigwe1oqi&dl=0",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1252618,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Quý Cô Thừa Kế 2",
+        "original_title": "Quý Cô Thừa Kế 2",
+        "overview": "“Có mấy ông lắm tiền nhiều của, vợ bé con riêng, gia đình tan nát'... Dần dần câu chuyện thật của giới thượng lưu ngàn tỷ được hé mở. Từ những buổi tiệc thác loạn, đến gia đình đại gia nhưng lộ ra là những bí mật 'dơ bẩn' về một gia đình quyền quý… Quý Cô Thừa Kế 2 hứa hẹn sẽ tháo bỏ lớp mặt nạ hào nhoáng của thế giới thượng lưu để lộ ra một 'âm mưu vô cùng đen tối'...",
+        "poster_path": "https://image.tmdb.org/t/p/w500/fAneLGofu98n0ZSOLbfELxWh2k1.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/s8ICQXI2kU2tSfGnL6RUJp23bbo.jpg",
+        "release_date": "2024-03-08",
+        "genres": [
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            }
+        ],
+        "vote_average": 0,
+        "vote_count": 0,
+        "production_countries": [],
+        "cast": [
+            {
+                "name": "Huy Khánh",
+                "character": "",
+                "profile_path": null
+            },
+            {
+                "name": "Hứa Minh Đạt",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/2Vp47Z2LnQpQOBzDZpwNU84yRlv.jpg"
+            },
+            {
+                "name": "Lâm Vĩ Dạ",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/eDsnLYSpC00Snrcm50A3snxK4W3.jpg"
+            },
+            {
+                "name": "Trang Nhung",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/lMd24MFEpzRqri7Soqa5pAom8g5.jpg"
+            },
+            {
+                "name": "Otis",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/prq2sO7CVhqraPO5RlbXnubtCPs.jpg"
+            }
+        ],
+        "director": {
+            "name": "Trần Nguyễn Hoàng Duy",
+            "profile_path": null
+        },
+        "writers": [],
+        "runtime": 110,
+        "budget": null,
+        "revenue": 253003,
+        "imdb_id": null,
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "QCTK.2 2024.1080p.WEB-DL.DDP5.1.H.264.mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 5.07 GB",
+                "link": "https://www.dropbox.com/scl/fi/yew2p1100elfedi5h8c7o/QCTK.2-2024.1080p.WEB-DL.DDP5.1.H.264.mkv?rlkey=dis76yrt6o29h626ggguv7rbu&dl=0",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1289553,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Mảnh Vỡ Thiên Kiến",
+        "original_title": "다른 것으로 알려질 뿐이지",
+        "overview": "Ba người phụ nữ Soo Jin, In Ju và Yoo Jung đều có mối liên kết với Jung Ho. Và rồi cả ba dần cuốn vào vòng định mệnh kỳ lạ này, mở ra câu chuyện giữa quá khứ và hiện tại.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1hhzLZKX4AEkCPeSFbMDeIAb7G5.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/lq3AvMK74ql1ftsdnVx4X8T5RoD.jpg",
+        "release_date": "2025-08-27",
+        "genres": [
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            },
+            {
+                "id": 10749,
+                "name": "Phim Lãng Mạn"
+            }
+        ],
+        "vote_average": 5,
+        "vote_count": 1,
+        "production_countries": [
+            "South Korea"
+        ],
+        "cast": [
+            {
+                "name": "Gong Min-jeung",
+                "character": "Su-jin",
+                "profile_path": "https://image.tmdb.org/t/p/w185/wkUiwCHq2Z2h4A7JDlhjrVGQiCk.jpg"
+            },
+            {
+                "name": "Jeong Bo-ram",
+                "character": "In-ju",
+                "profile_path": "https://image.tmdb.org/t/p/w185/qlSH6XEPCzGV8XQ1ufKaHW5tUx1.jpg"
+            },
+            {
+                "name": "Jung Hoe-ryn",
+                "character": "Yu-jeong",
+                "profile_path": "https://image.tmdb.org/t/p/w185/Yo1FVCht2IWBeAjGQuzAo4Ober.jpg"
+            },
+            {
+                "name": "Kam Dong-hwan",
+                "character": "Jeong-ho",
+                "profile_path": null
+            },
+            {
+                "name": "Ryu Se-il",
+                "character": "Woo-seok",
+                "profile_path": "https://image.tmdb.org/t/p/w185/o5cX9K1lWmCOXtTlWRjjUQHkopa.jpg"
+            }
+        ],
+        "director": {
+            "name": "Jo Hee-young",
+            "profile_path": "https://image.tmdb.org/t/p/w185/xjgiCQoCCG5k8mSIiFPXGTD1oJ3.jpg"
+        },
+        "writers": [
+            {
+                "name": "Jo Hee-young"
+            }
+        ],
+        "runtime": 144,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt33982915",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": "N/A",
+        "versions": [
+            {
+                "filename": "Merely.Known.as.Something.Else.2025.1080p.WEB-DL.AAC2.0.H.264-T4H (Sub Viet).mkv",
+                "label": "1080p - WEB-DL - 6.07 GB",
+                "link": "https://www.dropbox.com/scl/fi/1ko4y5oo60zcwavf1uwyw/Merely.Known.as.Something.Else.2025.1080p.WEB-DL.AAC2.0.H.264-T4H-Sub-Viet.mkv?rlkey=hiuj9yfrdbjyeq74fo09yqggf&dl=0",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1312078,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Cám",
+        "original_title": "Cám",
+        "overview": "Cám - một cô gái sinh ra với khuôn mặt dị dạng do một lời nguyền truyền qua nhiều thế hệ. Cám bị cha mình xem như một vết nhơ của gia đình và bị đày xuống nhà sau, sống như người hầu và chịu đựng sự ngược đãi. Trong khi đó, người chị cùng cha khác mẹ của cô là Tấm nhận được tình yêu thương và sự nuông chiều của cha. Mặc dù được bao bọc, Tấm vẫn cố gắng chăm sóc Cám, nhưng lòng căm thù của Cám ngày càng sâu sắc do sự lạnh lùng của gia đình.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/814DF85I8NUuJ8lkXXw9jjK1qH4.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/54PQfX2WYGzV3o9tv3YUcRoO5O7.jpg",
+        "release_date": "2024-09-20",
+        "genres": [
+            {
+                "id": 27,
+                "name": "Phim Kinh Dị"
+            }
+        ],
+        "vote_average": 9,
+        "vote_count": 1,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Lam Thanh My",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/be3nDi7ZV0FPAjblGmf93tus4VC.jpg"
+            },
+            {
+                "name": "Rima Thanh Vy",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/A060BOu1KYfXpLMbZ8EFLUr9fLk.jpg"
+            },
+            {
+                "name": "Thuý Diễm",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/fAIJeqF43iDiGOQ14XKch0i2mdg.jpg"
+            },
+            {
+                "name": "Quốc Cường",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/mh3RJhD36s7a5lWbT7Vco4dcvH8.jpg"
+            },
+            {
+                "name": "Ngô Hải Nam",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/39R5VcpD5kEakJQdm0fCB8tTbar.jpg"
+            }
+        ],
+        "director": {
+            "name": "Trần Hữu Tấn",
+            "profile_path": "https://image.tmdb.org/t/p/w185/eZKpdNDKageqMSSJ8wonnvQGsym.jpg"
+        },
+        "writers": [],
+        "runtime": 122,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt33424408",
+        "tagline": "Vì sao con khóc?",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": "N/A",
+        "versions": [
+            {
+                "filename": "The.Sisters.2024.GL.1080p.WEB-DL.EC3.5.1.H.264-DaoP.mkv",
+                "label": "1080p - WEB-DL - 5.48 GB",
+                "link": "https://www.dropbox.com/scl/fi/wucqkkc1nyesuf6u1d2r1/The.Sisters.2024.GL.1080p.WEB-DL.EC3.5.1.H.264-DaoP.mkv?rlkey=hapli61apr6umc5tlnzx8zhkg&dl=0",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1385969,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Believe: The Ultimate Battle",
+        "original_title": "Believe: Takdir, Mimpi, Keberanian",
+        "overview": "Câu chuyện xoay quanh Agus, con trai của một cựu chiến binh, người lớn lên trong sự hỗn loạn và thiếu kỷ luật do bóng đen sự vắng mặt của cha để lại; khi người cha qua đời, Agus quyết định bước vào con đường quân ngũ, đối mặt với thử thách khắc nghiệt để trưởng thành, thấu hiểu di sản mà cha để lại và tìm thấy niềm tin cho chính cuộc đời mình.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/qP5wSoHngnDM1o6nzzUjv6CEiz5.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/ylz2YALMeO62mXhB2nBG6Ni202S.jpg",
+        "release_date": "2025-07-24",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Phim Hành Động"
+            },
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            },
+            {
+                "id": 36,
+                "name": "Phim Lịch Sử"
+            },
+            {
+                "id": 10752,
+                "name": "Phim Chiến Tranh"
+            }
+        ],
+        "vote_average": 5.5,
+        "vote_count": 2,
+        "production_countries": [
+            "Indonesia"
+        ],
+        "cast": [
+            {
+                "name": "Ajil Ditto",
+                "character": "Agus",
+                "profile_path": "https://image.tmdb.org/t/p/w185/kdwfhpLOJfVcxzvnXE6KS3njd3D.jpg"
+            },
+            {
+                "name": "Wafda Saifan Lubis",
+                "character": "Dedi",
+                "profile_path": "https://image.tmdb.org/t/p/w185/o404ufcRUT3lshHhZceCC4JQl3.jpg"
+            },
+            {
+                "name": "Marthino Lio",
+                "character": "Miro",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ryEJo0p2W09GyiGfcvKeDTfjHCC.jpg"
+            },
+            {
+                "name": "Adinda Thomas",
+                "character": "Evi Sophia Indra",
+                "profile_path": "https://image.tmdb.org/t/p/w185/vXti4BqFVvon3auaVkNj6dI20x.jpg"
+            },
+            {
+                "name": "Maudy Koesnaedi",
+                "character": "Lin (Evi's Mother)",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ffpdk9iAMTgthRCyaRYlOqPfXsm.jpg"
+            }
+        ],
+        "director": {
+            "name": "Rahabi Mandra",
+            "profile_path": "https://image.tmdb.org/t/p/w185/ilFaIEvJo4VqliUlSvYvXIKRNsg.jpg"
+        },
+        "writers": [
+            {
+                "name": "Rahabi Mandra"
+            },
+            {
+                "name": "Jocelyn Cordelia"
+            }
+        ],
+        "runtime": 112,
+        "budget": null,
+        "revenue": 2206185,
+        "imdb_id": "tt34547701",
+        "tagline": "A True Story About Faith, Dream & Courage.",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": "N/A",
+        "versions": [
+            {
+                "filename": "Believe.The.Ultimate.Battle.2025.1080p.NF.WEB-DL.DD5.1.H.264-playWEB.mkv",
+                "label": "1080p - WEB-DL - 4.39 GB",
+                "link": "https://www.dropbox.com/scl/fi/bx711a0rt8a6jtidajf51/Believe.The.Ultimate.Battle.2025.1080p.NF.WEB-DL.DD5.1.H.264-playWEB.mkv?rlkey=pxcx1i1jhci7ntijypx674gu1&dl=0",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1386792,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Lefter: Câu chuyện của Ordinarius",
+        "original_title": "Lefter: Bir Ordinaryüs Hikayesi",
+        "overview": "Một thần đồng bóng đá vươn lên thành danh, chiến đấu với định kiến và những giằng xé nội tâm để chạm tới sự vĩ đại. Phim dựa trên cuộc đời của Lefter, huyền thoại của Thổ Nhĩ Kỳ.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/pvy0dINISg6SIlRpzALX0p284lm.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/8ECv9LSLwRnisxoTAmCZBBl8E6k.jpg",
+        "release_date": "2025-11-13",
+        "genres": [
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            },
+            {
+                "id": 36,
+                "name": "Phim Lịch Sử"
+            }
+        ],
+        "vote_average": 6.688,
+        "vote_count": 16,
+        "production_countries": [
+            "Turkey"
+        ],
+        "cast": [
+            {
+                "name": "Erdem Kaynarca",
+                "character": "Lefter Küçükandonyadis",
+                "profile_path": "https://image.tmdb.org/t/p/w185/jmOpw1OoCHBoSdG4FFfauvmUmKv.jpg"
+            },
+            {
+                "name": "Aslıhan Malbora",
+                "character": "Meri",
+                "profile_path": "https://image.tmdb.org/t/p/w185/lGc6gbYHlgVSn0ksOQjf9XzkIRy.jpg"
+            },
+            {
+                "name": "Deniz Işın",
+                "character": "Stavrini",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ao7KDiTYgjfLsQbQqwpujD1dDKF.jpg"
+            },
+            {
+                "name": "Aslihan Gurbuz",
+                "character": "Argiro",
+                "profile_path": "https://image.tmdb.org/t/p/w185/3gTOAg1HdQsCXbWT45hUZfSNKrD.jpg"
+            },
+            {
+                "name": "Halit Ergenç",
+                "character": "Hristo",
+                "profile_path": "https://image.tmdb.org/t/p/w185/7L5ivMz1S7ArHTvUaslVVV3ML42.jpg"
+            }
+        ],
+        "director": {
+            "name": "Can Ulkay",
+            "profile_path": "https://image.tmdb.org/t/p/w185/37ZlEKDZUrYcysyHTD6YMee5EvI.jpg"
+        },
+        "writers": [
+            {
+                "name": "Ayse Ilker Turgut"
+            }
+        ],
+        "runtime": null,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt34433451",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": "N/A",
+        "versions": [
+            {
+                "filename": "Lefter.The.Story.of.the.Ordinarius.2025.1080p.NF.WEB-DL.DDP5.1.Atmos.H264-HHWEB (Sub Viet).mkv",
+                "label": "1080p - WEB-DL - Atmos - 5.6 GB",
+                "link": "https://www.dropbox.com/scl/fi/qu9fcs806isf018zaglzg/Lefter.The.Story.of.the.Ordinarius.2025.1080p.NF.WEB-DL.DDP5.1.Atmos.H264-HHWEB-Sub-Viet.mkv?rlkey=7306m0qptvb0yqkvmqsssz5hz&dl=0",
+                "subtitle": null
+            }
+        ]
     }
+
+
+
 ]
+
+
+
