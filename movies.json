@@ -93,6 +93,169 @@
         ]
     },
     {
+        "id": 18328,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Nụ hôn thần chết",
+        "original_title": "Nụ hôn thần chết",
+        "overview": "Hài hước, lãng mạn và pha chút kinh dị, 'Nụ Hôn Thần Chết' được xem là một hiện tượng của phim Việt năm 2008. Thần chết Du 'mới vào nghề' trong lần 'làm việc' đầu tiên đã phải lòng cô gái xinh đẹp mà anh phải 'bắt hồn'. Nhưng nếu không hoàn thành sứ mệnh, chính anh sẽ phải hứng chịu lời nguyền khủng khiếp từ cha mình. Liệu tình cảm hồn nhiên, chân thành giữa hai người có thể vượt qua những rào cản định kiến của hai cõi âm - dương?",
+        "poster_path": "https://image.tmdb.org/t/p/w500/qprJZZY6S4NyNIGnnRsK9XTkD6M.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/qerBcGLdXGErq6EjKPVM4LWl3A8.jpg",
+        "release_date": "2008-01-01",
+        "genres": [
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            },
+            {
+                "id": 10749,
+                "name": "Phim Lãng Mạn"
+            },
+            {
+                "id": 27,
+                "name": "Phim Kinh Dị"
+            }
+        ],
+        "vote_average": 5.7,
+        "vote_count": 5,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Thanh Hằng",
+                "character": "An",
+                "profile_path": "https://image.tmdb.org/t/p/w185/sa32gCX4i8b4cmArLtvOUC1k507.jpg"
+            },
+            {
+                "name": "Johnny Nguyen",
+                "character": "Du / Death",
+                "profile_path": "https://image.tmdb.org/t/p/w185/jm5FUULyRkqL587mHi8OlvyepTD.jpg"
+            },
+            {
+                "name": "Hương Giang",
+                "character": "Death Queen",
+                "profile_path": "https://image.tmdb.org/t/p/w185/t0H2zOWRCtHe6VDp5OaMwuL7HzD.jpg"
+            },
+            {
+                "name": "Hoài Linh",
+                "character": "Death's Father / Death King",
+                "profile_path": "https://image.tmdb.org/t/p/w185/sUTrL2w0i1ctXc8LNZnmetQz8e4.jpg"
+            },
+            {
+                "name": "Phương Thanh",
+                "character": "Fortune Teller",
+                "profile_path": "https://image.tmdb.org/t/p/w185/2OOCCtfXA574vF5sGlKgsvNQgzb.jpg"
+            }
+        ],
+        "director": {
+            "name": "Nguyễn Quang Dũng",
+            "profile_path": "https://image.tmdb.org/t/p/w185/vD8w4D7VIhpTL7u2NRQ2fElMafB.jpg"
+        },
+        "writers": [
+            {
+                "name": "Nguyễn Quang Dũng"
+            }
+        ],
+        "runtime": 93,
+        "budget": 196000,
+        "revenue": 629000,
+        "imdb_id": "tt2088840",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "NU HON THAN CHET (2008).mkv",
+                "label": "3.6 GB",
+                "link": "https://uce9d88366bdabc241697c881523.dl.dropboxusercontent.com/cd/0/get/C5A1UZ-Ab5jRf9X8IGgQhseK6Op5cwQf2QtLE_GnrsX1phpgusyfPcZ3UXIF47UAVe-pV49MAzuwxxKoedwo7gr4QypqU1U3XcGUd30TkHRxI5GCtpz7FIMxSIxwU6FwlXAbDePXdVUDPfXDBoaZ3GA8N8t05qzlImurZ73BU1mrSnM0h9fOqTixRlyyDkgOYP05dNc8PCGD62by7_88CNsO/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 24221,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Dòng Máu Anh Hùng",
+        "original_title": "Dòng Máu Anh Hùng",
+        "overview": "Phim kể về một sĩ quan mật thám và cô con gái của thủ lĩnh nghĩa quân trong bối cảnh cuộc khởi nghĩa chống Pháp vào thập niên 1920.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/zJ0Y785BEVhOf3KFGN5GINBwsvO.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/nLGFt4zt8F43fymrZUsHvympXpE.jpg",
+        "release_date": "2007-04-27",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Phim Hành Động"
+            },
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            }
+        ],
+        "vote_average": 6.8,
+        "vote_count": 33,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Johnny Nguyen",
+                "character": "Cuong",
+                "profile_path": "https://image.tmdb.org/t/p/w185/jm5FUULyRkqL587mHi8OlvyepTD.jpg"
+            },
+            {
+                "name": "Veronica Ngo",
+                "character": "Thuy",
+                "profile_path": "https://image.tmdb.org/t/p/w185/uvmZVmCbo7d9Zpc9cNEYvqhFKpU.jpg"
+            },
+            {
+                "name": "Nguyễn Chánh Tín",
+                "character": "Cuong's father",
+                "profile_path": "https://image.tmdb.org/t/p/w185/6ITRaZVStQTbbNiCgcsxnPNqxV2.jpg"
+            },
+            {
+                "name": "Thang Nguyen",
+                "character": "Hua Danh",
+                "profile_path": "https://image.tmdb.org/t/p/w185/dTWKF0IrLoOGpq67n1XcqtpTrOB.jpg"
+            },
+            {
+                "name": "Dustin Nguyễn",
+                "character": "Sy",
+                "profile_path": "https://image.tmdb.org/t/p/w185/40TjXyYUSG3O01Zak4TJLz0oZN3.jpg"
+            }
+        ],
+        "director": {
+            "name": "Charlie Nguyen",
+            "profile_path": "https://image.tmdb.org/t/p/w185/5MxHaGUiguSGXNcBLnkW0hU4iAD.jpg"
+        },
+        "writers": [
+            {
+                "name": "Johnny Nguyen"
+            },
+            {
+                "name": "Dominic Pereira"
+            }
+        ],
+        "runtime": 103,
+        "budget": 1500000,
+        "revenue": 4300000,
+        "imdb_id": "tt0782154",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Dong.Mau.Anh.Hung.2007.1080p.Bluray.DTS.x264-VietHD.mkv",
+                "label": "1080p - BluRay - DTS - 11.29 GB",
+                "link": "https://uc6c349ce52b23d82166b47513fa.dl.dropboxusercontent.com/cd/0/get/C5DnAvBFxKY6pyKil47pXDkFEFHlXop4ZsrfqEzcmO0OEx0erpiNvaJzr3xtHtk-WkBZAAfCa8BV-EaQOo8RYIlYr2QvPCBbHTxY0rPzaCADhsIem9DS0Rs2SVuWvzMkRSZ69iP_M2n-1XhEeM7dwHTG9_k25sVMQaE3Lcu7Y4Yb6L_DGKVy6Per_ogO1jrJLkBmOVkQL4y9kZ6iy2Ky4J66/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
         "id": 39202,
         "type": "movie",
         "hot_phim": 0,
@@ -586,6 +749,94 @@
         ]
     },
     {
+        "id": 53165,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Trường Học Uy Long II",
+        "original_title": "逃學威龍２",
+        "overview": "Trong phim Trường Học Uy Long 2 (1992), Châu Tinh Trì vẫn trở lại trong vai cảnh sát chìm Chow Sing-Sing, anh vừa bị giáng chức xuống làm cảnh sát tuần tra giao thông vì đã dám trêu chọc cấp trên của mình. Mặc dù không được cấp trên chỉ định làm nhiệm vụ nào nhưng anh vẫn quyết định xâm nhập vào một trường trung học để điều tra và ngăn chặn một vụ khủng bố đang chuẩn bị tiến hành. Chỉ có một vấn đề là Bộ Cảnh Sát không muốn anh tham gia vào vụ việc này nhưng bấy nhiêu đó cũng không thể làm khó được anh chàng cảnh sát tài hoa đẹp trai này.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/w9kBUFMVntlrvoDwTJrOlovi5HN.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/f7GkjfXn8AnREazKkmLlcUmzIB6.jpg",
+        "release_date": "1992-04-09",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Phim Hành Động"
+            },
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            },
+            {
+                "id": 80,
+                "name": "Phim Hình Sự"
+            }
+        ],
+        "vote_average": 6.771,
+        "vote_count": 107,
+        "production_countries": [
+            "Hong Kong"
+        ],
+        "cast": [
+            {
+                "name": "Stephen Chow",
+                "character": "Chow Sing Sing",
+                "profile_path": "https://image.tmdb.org/t/p/w185/vCCyAspvQDFmOB2SJj0X7Wr2gil.jpg"
+            },
+            {
+                "name": "Sharla Cheung",
+                "character": "Miss Ho",
+                "profile_path": "https://image.tmdb.org/t/p/w185/mHu0edLezIp5gPYzPX7w4d2Iw15.jpg"
+            },
+            {
+                "name": "Richard Ng Man-Tat",
+                "character": "Tso Tat Wah",
+                "profile_path": "https://image.tmdb.org/t/p/w185/l8Sfi9pT0YcyzGy0bt7XwY8OEBo.jpg"
+            },
+            {
+                "name": "Athena Chu Yan",
+                "character": "Sandy Lai",
+                "profile_path": "https://image.tmdb.org/t/p/w185/g0CvpJUxQ1ROr6sDWt4gsFGMars.jpg"
+            },
+            {
+                "name": "Deanie Ip",
+                "character": "Insp. Lydia Wong",
+                "profile_path": "https://image.tmdb.org/t/p/w185/cbLmEQf2bzjEB4tOcoCPOVTZLeb.jpg"
+            }
+        ],
+        "director": {
+            "name": "Gordon Chan",
+            "profile_path": "https://image.tmdb.org/t/p/w185/u5ZyeRfHyQGraQClzz9XO8Jjeav.jpg"
+        },
+        "writers": [
+            {
+                "name": "John Chan Kin-Chung"
+            },
+            {
+                "name": "Gordon Chan"
+            },
+            {
+                "name": "Yuen Kai-Chi"
+            }
+        ],
+        "runtime": 98,
+        "budget": null,
+        "revenue": 4086980,
+        "imdb_id": "tt0105534",
+        "tagline": "Fight Back To School 2",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Fight.Back.to.School.2.1992.BluRay.1080p.x265.10bit.2Audio.MNHD-FRDS.mkv",
+                "label": "1080p - BluRay - 7.03 GB",
+                "link": "https://uc85d82ec31ad82b1ba95af853fc.dl.dropboxusercontent.com/cd/0/get/C5DoOmeXJaNjA9cpscm7e32lUtnZLgu1Q0q72cfV2zFzBY3AVY1ADP6a2vPxegm0g9KDCpHbNk62bhhykC-2U6f0sAezefnO6f4DdocBFkN07eURRWuJ99GowMeWz3EQ7hI60A4nt3NEUEBvqe9paxt6ZNYoBdnWkP40nEe4EoO7fxvPDhZe3Je7MMMS4sBUoH7W5tpw-LxiBVCXnTFzX8wr/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
         "id": 53168,
         "type": "movie",
         "hot_phim": 0,
@@ -670,6 +921,88 @@
                 "label": "1080p - WEB-DL - 2.62 GB",
                 "link": "https://uc8e080bf5fbe27ccb6c6ae801cd.dl.dropboxusercontent.com/cd/0/get/C5C7t8QIRn6qC4PAc01ADxJ1sYVSMLgtJuThvon0-VV-7AaVTUuMI8G1yKDHIobwsaxGjpqB_JddbsEa__5vyvY8zV7wxQ7fw0ckXiw9Ux9Z2wTwCStcleBDhPBZ2HJ66et9GpyxoQLwe4d129FpDaqPLFA6ay3BptZ0xhoohhgv86iWjTHzB1Oc9VxYUwzCvK5KaoIt7jSaBb0pM1WUVFZ0/file",
                 "subtitle": "https://ucac205fc33a8910c024eee299d1.dl.dropboxusercontent.com/cd/0/get/C5DSbC3MiDfKECtHEGELUcyAGhDNWt5g_SFfr8bKQ0bokciSqSkx8FqkWKCSGgZSjz45oIdvxCuvYOnUPptMKa9uRtoyJUNcqJiC048a6ddxFZjpzP9MYD5JZVVnH7BjOzP-Dh7B9NbZ6adJVDZ8sNHjBFj71l4z8nGRW7WgJE9ITM9K6-fDZxQIojv6hMhKbWhJIb0C1tyrJYnxMUTJrBOh/file"
+            }
+        ]
+    },
+    {
+        "id": 53281,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Bịp Vương Thượng Hải",
+        "original_title": "千王之王2000",
+        "overview": "Anh chàng cảnh sát chìm Lương Khoan, do sai sót trong hành động đã bị khiển trách nặng nề. Được giao cơ hội khám phá chứng cứ tội phạm của tay cờ bạc khét tiếng Ferrari, Lương Khoan nhanh nhảu lên đường làm nhiệm vụ.  Tuy nhiên, do chưa có kinh nghiệm phá án liên quan đến các tổ chức cờ bạc phi pháp, phải tự tầm sư học đạo để dễ dàng xâm nhập vào giới bài bạc. Bạn gái của Khoan giới thiệu cho anh người họ hàng xa là Hoàng Phi Hổ, vua bịp bạc Hồng Kông vừa được ra tù.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/mFF1AtJdfVgY1E4I7lNfE3cA4Mt.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/7LpfwFFGystvSQpE70cBfs7ocPn.jpg",
+        "release_date": "1999-08-05",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Phim Hành Động"
+            },
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            },
+            {
+                "id": 80,
+                "name": "Phim Hình Sự"
+            }
+        ],
+        "vote_average": 5.885,
+        "vote_count": 48,
+        "production_countries": [
+            "Hong Kong"
+        ],
+        "cast": [
+            {
+                "name": "Nick Cheung Ka-Fai",
+                "character": "Leung Foon",
+                "profile_path": "https://image.tmdb.org/t/p/w185/yjjSMT1bCX7vlJMVt2BiPVwOATo.jpg"
+            },
+            {
+                "name": "Stephen Chow",
+                "character": "Master Wong",
+                "profile_path": "https://image.tmdb.org/t/p/w185/vCCyAspvQDFmOB2SJj0X7Wr2gil.jpg"
+            },
+            {
+                "name": "Sandra Ng Kwan-Yu",
+                "character": "Wasabi",
+                "profile_path": "https://image.tmdb.org/t/p/w185/4x5DKG7EFjYxOa9RfV0YkKyheEG.jpg"
+            },
+            {
+                "name": "Suki Kwan Sau-Mei",
+                "character": "Pizza",
+                "profile_path": "https://image.tmdb.org/t/p/w185/tHHsZzWsfInMPT8kJJO6JW0DNv0.jpg"
+            },
+            {
+                "name": "Wong Jing",
+                "character": "Ferrari",
+                "profile_path": "https://image.tmdb.org/t/p/w185/gMmaDRst3OwnY1wClKt541AmslD.jpg"
+            }
+        ],
+        "director": {
+            "name": "Wong Jing",
+            "profile_path": "https://image.tmdb.org/t/p/w185/gMmaDRst3OwnY1wClKt541AmslD.jpg"
+        },
+        "writers": [
+            {
+                "name": "Wong Jing"
+            }
+        ],
+        "runtime": 93,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt0212864",
+        "tagline": "Bịp Vương Thượng Hải - The Tricky Master",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "The.Tricky.Master.1999.WEB-DL.1080p.H264.AAC-CHDWEB~USLT.mkv",
+                "label": "1080p - WEB-DL - 4.01 GB",
+                "link": "https://uc7837f7dcdd14b5c8371ea1fbe9.dl.dropboxusercontent.com/cd/0/get/C5Cflrj_m1rLAziviqeAn3qfozleOT88ldfWOhr66eO6ozqesYU21NtLMnz1UxIbLakaUph9vd2dkc-gumYwQfMtL8oIk73CLcyQd4NP9zzVr-m3c_8gauE5QWMN1eUPE6AL2qZstP6kQnJWpKLUM4WvANmMLpaxEOg3-nsFauxZ7me8AW9ZKYOQdDqdHt4KJ_W3twltsplatHvTwSNBk49y/file",
+                "subtitle": null
             }
         ]
     },
@@ -828,6 +1161,76 @@
                 "filename": "Bẫy.Rồng.2009.1080p.NF.WEB-DL.AAC2.0.x264-HBO.mkv",
                 "label": "1080p - WEB-DL - 3.23 GB",
                 "link": "https://uc2c5c62ee9ebad774a96bbea1bd.dl.dropboxusercontent.com/cd/0/get/C5CTqXwOOy9R1mj6OMHBmVqSGqXuIlOQt3C89_-Y79WiiAil-uhR-_t_FrZkGM3tvYEWUgJG_YveOcdSH-iomoye7Y4Z3meq_XRCEd4NmR6Ow_zJGaSoGlg9I6VyKbrxn9GIBv5kmQxageyfaruvlDXacAkXbFKCBw8S4OfHjunR1dAP1LAUvtzJ8zJ9k-XHpY84qfhaYnBHJM_AKkoj92A9/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 60084,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Cánh Đồng Bất Tận",
+        "original_title": "Cánh Đồng Bất Tận",
+        "overview": "Lấy bối cảnh ở đồng bằng sông Cửu Long của Việt Nam, bộ phim kể về câu chuyện của ông Võ và những người con của ông. Vô cùng tức giận vì sự không chung thủy của vợ, anh đã đốt nhà và tất cả những kỷ niệm của anh trong quá khứ.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/EHzcyuFO84ZxHV4mNsNl8bHPdG.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/uC597yZ6CaEuy6a5T9sb0XjrdaB.jpg",
+        "release_date": "2010-12-03",
+        "genres": [
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            }
+        ],
+        "vote_average": 6.3,
+        "vote_count": 12,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Dustin Nguyễn",
+                "character": "Võ",
+                "profile_path": "https://image.tmdb.org/t/p/w185/40TjXyYUSG3O01Zak4TJLz0oZN3.jpg"
+            },
+            {
+                "name": "Đỗ Thị Hải Yến",
+                "character": "Sương",
+                "profile_path": "https://image.tmdb.org/t/p/w185/jz3oiYpF2XCw7OjXkrYo0BRD6Pa.jpg"
+            },
+            {
+                "name": "Tăng Thanh Hà",
+                "character": "Võ's wife",
+                "profile_path": "https://image.tmdb.org/t/p/w185/17mNrzIcRgpzWLYzAZpjxiWAx6a.jpg"
+            },
+            {
+                "name": "Ninh Dương Lan Ngọc",
+                "character": "Nương",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ypwd4glGKnAoiLMWH0DuxDkPvKE.jpg"
+            },
+            {
+                "name": "Võ Thanh Hòa",
+                "character": "Điền",
+                "profile_path": "https://image.tmdb.org/t/p/w185/zobhEmgspK9iJHGg2x1XZjKxHU2.jpg"
+            }
+        ],
+        "director": {
+            "name": "Nguyễn Phan Quang Bình",
+            "profile_path": "https://image.tmdb.org/t/p/w185/fCBhuNnPJU6sGOnw3NXn1M2mCHo.jpg"
+        },
+        "writers": [],
+        "runtime": 105,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt1772864",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Canh.Dong.Bat.Tan.2010.WEB-DL.1080p.mkv",
+                "label": "1080p - WEB-DL - 2.79 GB",
+                "link": "https://uca8cfe2bab05f3dd302c3b76c22.dl.dropboxusercontent.com/cd/0/get/C5DpkS1QUyY71ynGLsRaUwPRCU2PY1Ez6Ddp7vdi7J0iuflrw9iT9Yy_zwX_mjH-TDP0Ra_9ChA9VE-GyV29Nw2EOBkqFItJoTprX1IjWSz2LYandXDZt9bQMvM_6Pw9IeHiu1T6D-DexnPt0QV5r_3UEVS8g9kGY-H9qhC8682yp7CzoPCMQ9OK4pQea5_224a4qfo9v8EZlVVeljygnjMw/file",
                 "subtitle": null
             }
         ]
@@ -1160,6 +1563,80 @@
         ]
     },
     {
+        "id": 108052,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Cô Dâu Đại Chiến",
+        "original_title": "Cô Dâu Đại Chiến",
+        "overview": "Thay vì nỗi căng thẳng vào ngày trọng đại, cặp đôi này lại phải đối mặt với những vị khách không mời tại đám cưới – bốn cô vợ chưa cưới thề sẽ trả thù chú rể ích kỷ.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/lhxVAKCNoJJZ8NdjsRHGHEzjZuz.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/aSiBARglt1uJP8R8sVbJWygDUGg.jpg",
+        "release_date": "2011-01-11",
+        "genres": [
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            },
+            {
+                "id": 10749,
+                "name": "Phim Lãng Mạn"
+            }
+        ],
+        "vote_average": 5.9,
+        "vote_count": 7,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Huy Khánh",
+                "character": "Thái",
+                "profile_path": "https://image.tmdb.org/t/p/w185/6utMvZ1BlU3SK6HKeVqmIgIYghs.jpg"
+            },
+            {
+                "name": "Ngọc Diệp",
+                "character": "Linh",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ueXSVd0DSgAgml3QCIC1fKrfMZN.jpg"
+            },
+            {
+                "name": "Phi Thanh Vân",
+                "character": "Phương",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ji7wna7vqFpehxxrRMMZTS4oI4X.jpg"
+            },
+            {
+                "name": "Ngân Khánh",
+                "character": "Trang",
+                "profile_path": "https://image.tmdb.org/t/p/w185/p9S13nwfmQizcnohUzjZD9bAng0.jpg"
+            },
+            {
+                "name": "Vân Trang",
+                "character": "Châu",
+                "profile_path": "https://image.tmdb.org/t/p/w185/bkNkbvoTdqMY36kcWx6l7cyXZuO.jpg"
+            }
+        ],
+        "director": {
+            "name": "Victor Vũ",
+            "profile_path": "https://image.tmdb.org/t/p/w185/fnmFClB6WZw80CTJLua3ZCO5nZc.jpg"
+        },
+        "writers": [],
+        "runtime": 101,
+        "budget": 30000,
+        "revenue": null,
+        "imdb_id": "tt1831609",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Cô.Dâu.Đại.Chiến.2011.1080p.NF.WEB-DL.AAC2.0.x264-HBO.mkv",
+                "label": "1080p - WEB-DL - 3.88 GB",
+                "link": "https://uc716d3bb8c2cc27496c34964aed.dl.dropboxusercontent.com/cd/0/get/C5AS-HqPjUFuEnQNtObubj6nyLQ51TDmxyVElL9EPP2BJB516tyzvSDtJAEbPg7wX0g1gx3wK8d6IfNgOyGPWqY4H5vUsQQQzhcdjhuN_0JFJM06HLHrDrKyPzW0TbdyKLSDCT5JC91iJJcgZ1suEgBSaEZLmqFlPPczdBRejNo8W-eebjI2knu1d-NdHyS8T3IrpS8anpSHAhANibPy39dQ/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
         "id": 135061,
         "type": "movie",
         "hot_phim": 0,
@@ -1242,6 +1719,164 @@
         ]
     },
     {
+        "id": 172680,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Hắc Miêu 2",
+        "original_title": "黑貓II：刺殺葉利欽",
+        "overview": "Các nhà khoa học đã lắp đặt một vi mạch, được gọi là Black Cat, bên trong não của một cô gái dễ bị bạo lực tên là Catherine trong nỗ lực tinh chỉnh và kiểm soát cơn thịnh nộ của mình. Kế hoạch của họ là biến cô ấy thành 'cỗ máy giết người' mật vụ hoàn hảo của chính phủ.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/a23bZ5voqgowyIDKs2MUdSlme3J.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/yQT6DB2sv4mG1Quimqhj4tXJSwR.jpg",
+        "release_date": "1992-10-01",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Phim Hành Động"
+            },
+            {
+                "id": 80,
+                "name": "Phim Hình Sự"
+            },
+            {
+                "id": 53,
+                "name": "Phim Gây Cấn"
+            }
+        ],
+        "vote_average": 6.5,
+        "vote_count": 11,
+        "production_countries": [
+            "Hong Kong"
+        ],
+        "cast": [
+            {
+                "name": "Jade Leung Tsang",
+                "character": "Erica Leung / Black Cat",
+                "profile_path": "https://image.tmdb.org/t/p/w185/v98ekwW8XsXnUC4qHJ02RfKmMqu.jpg"
+            },
+            {
+                "name": "Robin Shou",
+                "character": "Robin",
+                "profile_path": "https://image.tmdb.org/t/p/w185/cnL8HqBowYu9ssTkShDfEmxTgdZ.jpg"
+            },
+            {
+                "name": "Zoltan Buday",
+                "character": "Alexander",
+                "profile_path": "https://image.tmdb.org/t/p/w185/8dCzgl8gnpNB8UGZSc3EZ7SxuMo.jpg"
+            },
+            {
+                "name": "Tatiana Chekhova",
+                "character": "Tanya",
+                "profile_path": "https://image.tmdb.org/t/p/w185/bQHjrnRz7m1uq6Qhpq4SOnk9xUu.jpg"
+            },
+            {
+                "name": "Michael Miller",
+                "character": "Russian Assassin",
+                "profile_path": "https://image.tmdb.org/t/p/w185/32eChbtFcOrsyjutcAnlobjUD8g.jpg"
+            }
+        ],
+        "director": {
+            "name": "Stephen Shin Kei-Yin",
+            "profile_path": "https://image.tmdb.org/t/p/w185/8eN3Oe0R1JXHNhastQvmWupeE6V.jpg"
+        },
+        "writers": [
+            {
+                "name": "Shin  Kam-Ching"
+            },
+            {
+                "name": "Ivy Lee Mo-King"
+            },
+            {
+                "name": "James Fung Shui-Hung"
+            }
+        ],
+        "runtime": 90,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt0104405",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Black.Cat.2.1992.1080p.BluRay.x264.AAC-[YTS.MX][USLT.nhungong].mkv",
+                "label": "1080p - BluRay - 1.64 GB",
+                "link": "https://uc2b9c4a6c06f6664ecff0728bf9.dl.dropboxusercontent.com/cd/0/get/C5BDw6AIxOLcpQ88TS6lvUw7PWQb7YXIPTmjqxQuVaDqcu8oIGfcmMPKgvAt-QTKamwrU82WhKI4VOas_pLHFAuIOK7Vjxb467wSOmFSum9rvI9hO0aTp6ckGj1fwKfqiC9LKWGVs8sGqdrQ2xvpHmYSK5dgM1FiEwUZCCdw2P7vXybQi6X1Tdd6-jFnXunh2ejEZKm6C16gnzNg4VnH0Wa6/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 210626,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Mỹ Nhân Kế",
+        "original_title": "Mỹ Nhân Kế",
+        "overview": "Mỹ nhân kế là một bộ phim võ hiệp - cổ trang của Việt Nam do Nguyễn Quang Dũng làm đạo diễn và viết kịch bản. Chuyện phim xoay quanh băng nhóm của Kiều Thị (do Thanh Hằng thủ vai) và các nữ sát thủ trá hình kiều nữ ở Đường Sơn quán: Đào Thị (Ngọc Quyên), Mai Thị (Diễm My 9x) và Liễu Thị (Kim Dung). Họ cướp của người giàu, quan lại tham ô với mong muốn tích góp đủ số tiền để có được cuộc sống như ý.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/aEbTnTFc0qxQ7FyKbvXWaSUsLBx.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/ow9Z7mr9KL2TVMYfIIYKODCIDgP.jpg",
+        "release_date": "2013-03-13",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Phim Hành Động"
+            }
+        ],
+        "vote_average": 5.5,
+        "vote_count": 13,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Kim Dzung",
+                "character": "Liễu Thị",
+                "profile_path": null
+            },
+            {
+                "name": "Thanh Hằng",
+                "character": "Kiều Thị",
+                "profile_path": "https://image.tmdb.org/t/p/w185/sa32gCX4i8b4cmArLtvOUC1k507.jpg"
+            },
+            {
+                "name": "Thai-Hoa Le",
+                "character": "Tướng quân Quan Du",
+                "profile_path": "https://image.tmdb.org/t/p/w185/dCAmllfqiBOEbSUmextJEhIcz4W.jpg"
+            },
+            {
+                "name": "Diễm My 9x",
+                "character": "Mai Thị",
+                "profile_path": "https://image.tmdb.org/t/p/w185/9seJmlinOz2gHm4OfYS0XBRjxwB.jpg"
+            },
+            {
+                "name": "Ngọc Quyên",
+                "character": "Đào Thị",
+                "profile_path": null
+            }
+        ],
+        "director": {
+            "name": "Nguyễn Quang Dũng",
+            "profile_path": "https://image.tmdb.org/t/p/w185/vD8w4D7VIhpTL7u2NRQ2fElMafB.jpg"
+        },
+        "writers": [],
+        "runtime": 83,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt3084836",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "My Nhan Ke 2013 1080i HDTV.MP4",
+                "label": "6.29 GB",
+                "link": "https://ucc8a418f127e0b2de91d1acae27.dl.dropboxusercontent.com/cd/0/get/C5Ckp7N08QcxzU4d9Fhgi7bHqEmplESSnwhDaxh8F3gA15PILTLEMKyDMZYS0VpDUQfalvW2JS3zmwF1w_vyIAS4jWn5_YObqwLI-5ipe7XQ1LYtKIdwfVLfUj-7hLQnfRbYMb1aZkSTckmQxmCCdYb9NLISjjhLv5yVwBVPU6wVqfukEcK3oLkNiYRpf58InKowRH_89D-rQczHroD_5AZo/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
         "id": 380375,
         "type": "movie",
         "hot_phim": 0,
@@ -1301,6 +1936,84 @@
                 "filename": "49.Ngày.2015.1080p.WEB-DL.DDP5.1.H.264-HDVN.mkv",
                 "label": "1080p - WEB-DL - DDP5.1 - 4.09 GB",
                 "link": "https://uc49c6e1d1602d0b273b692af6d9.dl.dropboxusercontent.com/cd/0/get/C5CxcZtrvHPDAPQwJp1S0xss6BuiltxYCcxghPB9LcGhLx5zcVTyncnZJpvZqXNkwBrQRHKF6VXg2cgQzG0u7dx-o5iJW_649Aw6bZY2ccnveze2oIXYiGckKWfD5VswgdhhLkQTxti-0o-DbC4oMj0K0m5QRXhdDKHjzl8XUDmQbzRx4bbz-6xKfQ3NxhM3bHyKeCmLWAua2IlMDLI6wCJS/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 385102,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Chàng Trai Năm Ấy",
+        "original_title": "Chàng Trai Năm Ấy",
+        "overview": "Đình Phong là một ca sĩ trẻ nổi tiếng, ước mơ tổ chức liveshow của riêng mình. Thế nhưng, cuộc đời không mỉm cười với chàng trai ấy khi anh bị chẩn đoán mắc căn bệnh nan y. Kiên cường sống, chàng ca sĩ vẫn làm việc chăm chỉ và phấn đấu hết mình. May mắn thay, bên anh luôn có những người bạn hết lòng quan tâm, chăm sóc và yêu thương.  Chàng Trai Năm Ấy là bộ phim gây tiếng vang lớn trong năm 2015, đưa tên tuổi Sơn Tùng M-TP trở thành ngôi sao hàng đầu Việt Nam. Ngoài ra, phim có sự xuất hiện của nhiều ngôi sao nổi tiếng như Hari Won, Phạm Quỳnh Anh, Hứa Vĩ Văn… Bộ phim được lấy cảm hứng từ câu chuyện có thật của chàng ca sĩ quá cố Wanbi Tuấn Anh.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/aKE6msLmCm6Ks46EcTbqvlMe00Q.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/nwrQSodaQK8i0GfuTxDNykb91Gs.jpg",
+        "release_date": "2014-12-31",
+        "genres": [
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            },
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            },
+            {
+                "id": 10749,
+                "name": "Phim Lãng Mạn"
+            }
+        ],
+        "vote_average": 3,
+        "vote_count": 3,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Sơn Tùng M-TP",
+                "character": "Đình Phong",
+                "profile_path": "https://image.tmdb.org/t/p/w185/cuDTsHul5WFLmOylgx0CWkH4R4Z.jpg"
+            },
+            {
+                "name": "Ngô Kiến Huy",
+                "character": "Ha",
+                "profile_path": "https://image.tmdb.org/t/p/w185/gbTEXwPVTiDys2RXVROGjm7sF6s.jpg"
+            },
+            {
+                "name": "Phạm Quỳnh Anh",
+                "character": "Phạm Quỳnh Băng",
+                "profile_path": "https://image.tmdb.org/t/p/w185/jkG2IQ43elwXBlh5xG46azYBPov.jpg"
+            },
+            {
+                "name": "Hari Won",
+                "character": "Sky",
+                "profile_path": "https://image.tmdb.org/t/p/w185/A17FhdIjdqYdL9weo97w5D04wDK.jpg"
+            },
+            {
+                "name": "Hứa Vĩ Văn",
+                "character": "Lâm",
+                "profile_path": "https://image.tmdb.org/t/p/w185/kX5YSIonNV4nj97MVmSGf8ZR1nF.jpg"
+            }
+        ],
+        "director": {
+            "name": "Quang Huy",
+            "profile_path": null
+        },
+        "writers": [],
+        "runtime": 119,
+        "budget": 466418,
+        "revenue": 1958955,
+        "imdb_id": "tt5232522",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Chàng.Trai.Năm.Ấy.2014.1080p.NF.WEB-DL.DDP5.1.x264-HBO.mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 4.06 GB",
+                "link": "https://ucc24e167c4c117715d6336a1b1d.dl.dropboxusercontent.com/cd/0/get/C5C7tBtKhPkwOeOq55u1QUs2OEyT9dYPObROj14VsO6zm1am9cCay0iOgceICHkXTtZ6Ri5sSgKJyx9bNTWOcbXxptpK-SIatwiKAF-hoo4t_QreeWDDhR2RD4b8MN_Fmhq7IRamS_H4sa9nIaZb8WNrsphsE2_bS0lDFAGQbKNUCj4MDEKXPV0IGf5J7gEf6Qw8941P5acOFG9o1z98S4ym/file",
                 "subtitle": null
             }
         ]
@@ -1386,6 +2099,87 @@
         ]
     },
     {
+        "id": 413971,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Gái Già Lắm Chiêu",
+        "original_title": "Gái Già Lắm Chiêu",
+        "overview": "Gái Già Lắm Chiêu là câu chuyện kể về một cô nàng vừa bước vào tuổi 30, thành đạt, xinh đẹp, nhưng bỗng một ngày phát hiện mình mắc căn bệnh “buồng trứng” quái gở. Do đó, bằng mọi cách cô nàng phải mang bầu trong vòng hai tháng trước khi 'cái trứng cuối cùng rụng xuống'. Cô đã cùng những người bạn thân lập tức lên kế hoạch tìm chồng, và như vậy là vô số tình huống dở khóc, dở cười của nhóm 'gái già lắm chiêu' này khi truy tìm “trai đẹp” xảy ra.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cczCfHNIIFe99mWcpXAzlVBPpmX.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/g4Rw4brB2UVgEH7bYBb5fqgTdol.jpg",
+        "release_date": "2016-02-19",
+        "genres": [
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            },
+            {
+                "id": 10749,
+                "name": "Phim Lãng Mạn"
+            }
+        ],
+        "vote_average": 4.5,
+        "vote_count": 2,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Bình Minh",
+                "character": "Thien Minh",
+                "profile_path": "https://image.tmdb.org/t/p/w185/6zzhORhh46Bx8wA5VBkGFdBHG3J.jpg"
+            },
+            {
+                "name": "Diễm My 9x",
+                "character": "Linh San",
+                "profile_path": "https://image.tmdb.org/t/p/w185/9seJmlinOz2gHm4OfYS0XBRjxwB.jpg"
+            },
+            {
+                "name": "Việt Hương",
+                "character": "Trang Dai",
+                "profile_path": "https://image.tmdb.org/t/p/w185/9v9E5OM91kILN7zkkE2pBSRNHbZ.jpg"
+            },
+            {
+                "name": "Huỳnh Lập",
+                "character": "Oliver",
+                "profile_path": "https://image.tmdb.org/t/p/w185/kgNnQqGiA2PcyL6YRBTeOvLQmsk.jpg"
+            },
+            {
+                "name": "Dieu Nhi",
+                "character": "May",
+                "profile_path": "https://image.tmdb.org/t/p/w185/egzQEkov9l6qHSrwHGuddOrZbbQ.jpg"
+            }
+        ],
+        "director": {
+            "name": "Bảo Nhân",
+            "profile_path": null
+        },
+        "writers": [
+            {
+                "name": "Namcito"
+            },
+            {
+                "name": "Bảo Nhân"
+            }
+        ],
+        "runtime": 95,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt5357902",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Gai.Gia.Lam.Chieu.2016.Webrip.1080p.mkv",
+                "label": "1080p - WEB-DL - 3.17 GB",
+                "link": "https://ucde51ad8ef3517f339f66553534.dl.dropboxusercontent.com/cd/0/get/C5Bl2nmkP6cogiM4z7Gjxs5kLUlQGMxCZeh3m6xxZAPWlR2KmRyxeVWcegh_m7pOZnDz1op0DfbOjlMGibfkrCTa1Y5_OcQlfJ4agw_Bc8k3wAyNlRj6JmsqcHaXDz1ydPL4ESdgV8sl4Zp9-Z94iExHS8054bAzcmBrN5hKiXtL7m-KVIB59qHPQfSqdS6JjeK15t5pJ2jcKLOvZRyKPq2C/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
         "id": 452371,
         "type": "movie",
         "hot_phim": 0,
@@ -1455,6 +2249,119 @@
                 "filename": "Bạn.Gái.Tôi.Là.Sếp.2017.1080p.WEB-DL.AAC2.0.H.264-HDVN.mkv",
                 "label": "1080p - WEB-DL - 2.84 GB",
                 "link": "https://uc1c9d2fe9af8464a8a399978d83.dl.dropboxusercontent.com/cd/0/get/C5Bzd9p0kzam-NB9lBwrn3BpbeDPaa797mP-Vc9Y85hoqh6-VFNoDTjQgjsH_YDtmWuSp5KyY05FdWv9hIsDfCikk7-xh5Y-kyVwpSAz2bz8Z5xvWsvvMPDQRH-aIEPiMNBfjtiuW5XnSnTSbfUPrsrYIlUVQrVYlao1_CHbrzdiJtqrXpV9ARUPDz2kWpM_tBCLgf5F8xLqAdohchhPyhPx/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 464003,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Em Chưa 18",
+        "original_title": "Em Chưa 18",
+        "overview": "Câu chuyện bắt đầu với Hoàng, một Tay chơi “chất lầy” bảnh tỏn, thu nhập ngất ngưởng, sống cùng quy luật 'không có đêm thứ 2' với bất kỳ cô nàng nào. Định mệnh ập đến khi chàng trai trong mơ của bao người đàn ông gặp gỡ Linh Đan. Dĩ nhiên, cả hai đã có mối tình chớp nhoáng và không hề có gì khác biệt với những cô gái trước đây, cho đến khi Hoàng phát hiện ra bạn gái mới của mình chưa đủ 18 tuổi. Từ đây, cả thế giới đào hoa của chàng 'lầy gái' số một bất ngờ thu nhỏ lại trong lưới tình của cô học trò xinh đẹp tinh quái.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/phXbIGRmNZduZwnBjC0dBZfn8lr.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/vo1MUU9liVIsk9dGeZCLyK6JvGR.jpg",
+        "release_date": "2017-04-28",
+        "genres": [
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            },
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            }
+        ],
+        "vote_average": 6.583,
+        "vote_count": 12,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Kaity Nguyễn",
+                "character": "Linh Đan",
+                "profile_path": "https://image.tmdb.org/t/p/w185/n78QM4icCLlhWLBn1eXhRSX21Lg.jpg"
+            },
+            {
+                "name": "Kiều Minh Tuấn",
+                "character": "Uông Việt Hoàng",
+                "profile_path": "https://image.tmdb.org/t/p/w185/8htmGyEcsF9ClSHEkpQJWkHB7lL.jpg"
+            },
+            {
+                "name": "Will",
+                "character": "Tony",
+                "profile_path": null
+            },
+            {
+                "name": "Nguyễn Tiến Dũng",
+                "character": "Trình",
+                "profile_path": null
+            },
+            {
+                "name": "Kiều Trinh",
+                "character": "Phương",
+                "profile_path": "https://image.tmdb.org/t/p/w185/nnvWvgMxI2Kmg7p3pJrr7o7H6PA.jpg"
+            }
+        ],
+        "director": {
+            "name": "Lê Thanh Sơn",
+            "profile_path": null
+        },
+        "writers": [],
+        "runtime": 90,
+        "budget": 528,
+        "revenue": 7436000,
+        "imdb_id": "tt6416676",
+        "tagline": "Trời tính không bằng gái tính",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Em.Chưa.18.2017.1080p.WEB-DL.DDP5.1.H.264-HDVN.mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 4.38 GB",
+                "link": "https://ucfc95613460f0e598101f099418.dl.dropboxusercontent.com/cd/0/get/C5DlJNv3kEqW09zvRyu9DAuH5xGOUHBVNBULDcEXMYYX8W6jkVqlRcIABvmmfpS5AKTAyjHBfTWqINKegxFvtknjvWHnr0u0BDiDsm8pbhgCPFyn6QFpDHC97aklkyvDyQ-uOgeojTGriHJYdpnW-7OtS5i1L1urj97JRKsvMcQOhaevog7q6hTIxoLcOL-4mT3WwOyVXeIcHkieApIXCuKM/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 477256,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Cao Thủ Ẩn Danh",
+        "original_title": "Cao Thủ Ẩn Danh",
+        "overview": "Cao Thủ Ẩn Danh một bộ phim hài hước do Việt Nam sản xuất kể về bà Năm ' hột gà ' một người phụ nữ hành nghề bán bột chiên dạo, thoạt nhìn trông bà có vẻ khắc khổ bương trải nhưng ít có ai biết đến được rằng bà Năm từng là một cao thủ võ lâm vì muốn tránh xa khỏi chốn thị phi giang hồ nên đã ẩn danh một thời gian và buôn bán bột chiên, sống hạnh phúc cùng cô con gái Bảo Yên. Lớn lên Bảo Yên trở thành một cô gái xinh đẹp và cực kì giỏi võ như mẹ mình, cô luôn muốn dùng sức mạnh của mình để bảo vệ những người nghèo và kẻ yếu. Để biết thêm xin mời các bạn theo dõi bộ phim này ngay sau đây nhé",
+        "poster_path": "https://image.tmdb.org/t/p/w500/s3ceMwi1aF3BBXS7pcljITMwC1W.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/824X7LJLjnVp6VSK3I8C6Kj4RBt.jpg",
+        "release_date": "2016-05-27",
+        "genres": [
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            }
+        ],
+        "vote_average": 10,
+        "vote_count": 1,
+        "production_countries": [],
+        "cast": [],
+        "director": null,
+        "writers": [],
+        "runtime": 93,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": null,
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Cao.Thủ.Ẩn.Danh.2016.1080p.NF.WEB-DL.AAC2.0.x264-HBO.mkv",
+                "label": "1080p - WEB-DL - 4.91 GB",
+                "link": "https://uca705ba229001f50201203af614.dl.dropboxusercontent.com/cd/0/get/C5AVxMHQj2cmxvPzyFA-D5jGdX2i4fC6qBUnWAYim8IZkvWJBYnYc5h1zezJujL_lwwXkukSRDZDPZ5KtPrJRqMM4WJ8j0VUBRHoAWfnKhSm4j6Qj4KXlQdbQGo7hvq-tFmRPrOudHMVKJJInq_z6FrUDvxXWkbN_XVuBeILMDMf4Z7FDlHftXSLaoSqUOVX4JlbGVC724hSwYkM2LBc8sld/file",
                 "subtitle": null
             }
         ]
@@ -1546,6 +2453,75 @@
         ]
     },
     {
+        "id": 505176,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Giấc Mơ Mỹ",
+        "original_title": "Giấc Mơ Mỹ",
+        "overview": "“Giấc mơ Mỹ” (The American Dream) là bộ phim điện ảnh Việt Nam đầu tiên khai thác về đề tài y khoa với bối cảnh chính được quay tại bệnh viện Vinmec vừa mới được xây dựng ở thành phố Hồ Chí Minh và các bối cảnh khác ở các địa danh nổi tiếng ở tại 15 thành phố lớn ở California cũng như một số cảnh đẹp tại Việt Nam. Nhà sản xuất đã không ngại đầu tư du thuyền 5 sao, máy bay trực thăng cũng như một đoàn xe moto phân khối lớn để thực hiện những cảnh quay sang trọng và hoàng tráng cho phim. Bộ phim quy tụ dàn diễn viên trẻ, tài năng cùng với những diễn viên gạo cội, dày dạn kinh nghiệm của điện ảnh trong và ngoài nước như: Mai Thu Huyền, Bình Minh, Kyo York, Đinh Y Nhung, Ramani Raja, Trương Thế Vinh, Mai Thu Trang, á khôi thể thao Băng Châu…",
+        "poster_path": "https://image.tmdb.org/t/p/w500/lKkqQb6dRcmJxgEMU4Ngm5vub1f.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/hJI6Vw0uoY2DOUzGT62hlYRqU83.jpg",
+        "release_date": "2017-12-08",
+        "genres": [
+            {
+                "id": 10751,
+                "name": "Phim Gia Đình"
+            },
+            {
+                "id": 10749,
+                "name": "Phim Lãng Mạn"
+            }
+        ],
+        "vote_average": 0,
+        "vote_count": 0,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Mai Thu Huyền",
+                "character": "Hoàng Linh",
+                "profile_path": "https://image.tmdb.org/t/p/w185/msaazITlOJxW7OEtmS1c1OVTGJD.jpg"
+            },
+            {
+                "name": "Bình Minh",
+                "character": "Thế Vinh",
+                "profile_path": "https://image.tmdb.org/t/p/w185/6zzhORhh46Bx8wA5VBkGFdBHG3J.jpg"
+            },
+            {
+                "name": "Đinh Y Nhung",
+                "character": "Hà Giang",
+                "profile_path": "https://image.tmdb.org/t/p/w185/aCI6xFetNad1Qt2W3IEeWmZZ2Pk.jpg"
+            },
+            {
+                "name": "Kyo York",
+                "character": "Peter",
+                "profile_path": null
+            }
+        ],
+        "director": {
+            "name": "Davina Hồng Ngân",
+            "profile_path": null
+        },
+        "writers": [],
+        "runtime": 90,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": null,
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Giac Mo My 2017.mp4",
+                "label": "2.04 GB",
+                "link": "https://ucc1b483eeaa8b67e36272571a48.dl.dropboxusercontent.com/cd/0/get/C5CZ4SFlyFiyHzKgUvjUznDs-f2FkU_h4zQPuMp6y3D3Rco6AMyWSUiXsygRNLI-OLSblDD2SVxjkUGZ94GAn2Wwdgwu8IbZ7FalxFT7fZV7llpKPBKCsOtmWNfVb18I2mdk7CDxU_c__VSKB9KZWUG9iKTifEb0R9BBJ4bDPQlyjPgS0Cxnwcg6s73FwzHW4mOLHM7aLGnF9G8BSLYF1uQu/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
         "id": 507223,
         "type": "movie",
         "hot_phim": 0,
@@ -1606,6 +2582,243 @@
                 "filename": "798Mười.2018.1080p.WEB-DL.AAC2.0.H.264-HDVN.mkv",
                 "label": "1080p - WEB-DL - 4.33 GB",
                 "link": "https://ucfef1e16b4a21836e738d46480f.dl.dropboxusercontent.com/cd/0/get/C5DgJQZOILycKAnKAfRf2_IYtkpcLE0Whg1HXkK2c_j2FLIUHfhNJaeu2Dly1P0zCDKpaOgNgTr8XyPu_xqcYqZP7Kr3bZV3LcPeS8I7vxp-HeRrfQLRipdaP5T32E69PLn_KyMQ_fWip2tUYY-XmI8ZY8_qXtqwXhGqdY9nkZGX0OhdS5GxKeqfuZWIixIVqKDeFkmmudwv9PAFb-_lTTwn/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 507244,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Người Hùng Thời Tận Thế",
+        "original_title": "Afterburn",
+        "overview": "Sau một trận bão mặt trời tàn phá bán cầu Đông của Trái Đất, nhân loại rơi vào hỗn loạn. Giữa đống đổ nát, một thợ săn kho báu liều lĩnh lên đường đến châu Âu để truy tìm bức tranh Mona Lisa. Nhưng hành trình nhanh chóng vượt khỏi mục tiêu ban đầu – giờ đây, anh phải trở thành người hùng mà thế giới đang tuyệt vọng cần đến.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6bZG08UKAQLe6btFs85wEcUARHA.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/kHOfxq7cMTXyLbj0UmdoGhT540O.jpg",
+        "release_date": "2025-08-20",
+        "genres": [
+            {
+                "id": 878,
+                "name": "Phim Khoa Học Viễn Tưởng"
+            },
+            {
+                "id": 28,
+                "name": "Phim Hành Động"
+            },
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            }
+        ],
+        "vote_average": 6.6,
+        "vote_count": 168,
+        "production_countries": [
+            "United States of America"
+        ],
+        "cast": [
+            {
+                "name": "Dave Bautista",
+                "character": "Jake",
+                "profile_path": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+            },
+            {
+                "name": "Olga Kurylenko",
+                "character": "Drea",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
+            },
+            {
+                "name": "Kristofer Hivju",
+                "character": "General Volkov",
+                "profile_path": "https://image.tmdb.org/t/p/w185/bACL39GihNmBnFRay78rS3PUHsH.jpg"
+            },
+            {
+                "name": "Samuel L. Jackson",
+                "character": "Valentine",
+                "profile_path": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+            },
+            {
+                "name": "Daniel Bernhardt",
+                "character": "Gorynych",
+                "profile_path": "https://image.tmdb.org/t/p/w185/3BLz32inDr1jznU6pKQmh20zfhK.jpg"
+            }
+        ],
+        "director": {
+            "name": "J.J. Perry",
+            "profile_path": "https://image.tmdb.org/t/p/w185/57assDPZceZ4x7YWrkPE5FqVn1f.jpg"
+        },
+        "writers": [
+            {
+                "name": "Matt Johnson"
+            },
+            {
+                "name": "Nimród Antal"
+            }
+        ],
+        "runtime": 105,
+        "budget": 60000000,
+        "revenue": 184758,
+        "imdb_id": "tt1210027",
+        "tagline": "The apocalypse isn't for everybody.",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Afterburn.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 6.06 GB",
+                "link": "https://uc061ddcb469c6145641c49e5eed.dl.dropboxusercontent.com/cd/0/get/C5DqjUPoYqbEAYzprojCbl9dvIsAGVFv7ST2zeaGXe6inlE9BzliDqmU6X-LSho7wYKd-PzOipRzMKoxHyZPRGyQt0NMW-jBfzQpvo36fmMPjh63aywySe3lYkm1Me8e8KL9TaldK9vijY3UxqrAV37KdjiAtubwN7U0dN04mr7T8B58F5ugKE4Z40lmUKlW9vfL_Pbd6C_XStXH5OfTKzG7/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 522417,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Vua Bọ Cạp: Quyển Sách Linh Hồn",
+        "original_title": "Scorpion King: Book of Souls",
+        "overview": "Ở Ai Cập cổ đại, lãnh chúa độc ác, Nebserek (Peter Mensah), phát hiện ra một thanh kiếm bị nguyền rủa khiến người sử dụng nó mạnh hơn với mọi linh hồn mà nó tấn công. Quyết tâm ngăn chặn sức mạnh của mình tăng lên, Vua Bọ Cạp (Zach McGowan) gia nhập lực lượng với Tala (Pearl Doesi), Công chúa Nubian; Amina, một người phụ nữ bí ẩn với một bí mật kỳ diệu và bi thảm; và người bảo vệ golem của cô để tìm ra một thứ có thể đánh bại Nebserek: Quyển sách linh hồn…",
+        "poster_path": "https://image.tmdb.org/t/p/w500/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/syGl3udgPqjCYrs6pzbcV0Tb2jk.jpg",
+        "release_date": "2018-10-23",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Phim Hành Động"
+            },
+            {
+                "id": 12,
+                "name": "Phim Phiêu Lưu"
+            },
+            {
+                "id": 14,
+                "name": "Phim Giả Tượng"
+            }
+        ],
+        "vote_average": 5.91,
+        "vote_count": 310,
+        "production_countries": [
+            "United States of America"
+        ],
+        "cast": [
+            {
+                "name": "Zach McGowan",
+                "character": "Mathayus",
+                "profile_path": "https://image.tmdb.org/t/p/w185/hX7UXULOo6PBALjUgl2gYKx9ZNw.jpg"
+            },
+            {
+                "name": "Peter Mensah",
+                "character": "Nebserek",
+                "profile_path": "https://image.tmdb.org/t/p/w185/t94TFc6f71AUmZFqdaQfjr7LTRp.jpg"
+            },
+            {
+                "name": "Pearl Thusi",
+                "character": "Tala",
+                "profile_path": "https://image.tmdb.org/t/p/w185/fQ3NvEYj7ocRYVM3U9GVEU0CQHg.jpg"
+            },
+            {
+                "name": "Mayling Ng",
+                "character": "Khensa",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ffQlGCqXcESQtOuRHX5sgINqYUq.jpg"
+            },
+            {
+                "name": "Katy Louise Saunders",
+                "character": "Amina",
+                "profile_path": "https://image.tmdb.org/t/p/w185/y3DP06nBIWZ51V18zkjKuncTjzN.jpg"
+            }
+        ],
+        "director": {
+            "name": "Don Michael Paul",
+            "profile_path": "https://image.tmdb.org/t/p/w185/68anBJK0vHrbwiORHh8NDaoOaLH.jpg"
+        },
+        "writers": [
+            {
+                "name": "David Alton Hedges"
+            }
+        ],
+        "runtime": 102,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt7338690",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "The.Scorpion.King.Book.of.Souls.2018.BluRay.1080p.DTS-HD.MA5.1.x265.10bit_viet sub.mkv",
+                "label": "1080p - BluRay - DTS - Vietsub - 8.64 GB",
+                "link": "https://ucad9c21a47ba7dc8461db9881b8.dl.dropboxusercontent.com/cd/0/get/C5CNNIqBM1c7bvEMMDd3WlDtLmGCm4iP6arPzlRbOT8m_vmbV2s4Brju63XRujWpDLqKR_sNl4_9DRG7K7PbDFCUGeYe0DMEYnb8bgCVTKiFiBdjyCWlUotp2Klvv-NnbpJl3GelDwobfkig6OuaOmpXvkPW4xvaCsLy7wwVCTrB2_ugm-L2AEZ89XCQjPzFe-wuX0-p5M1jKxu1HuNSsgny/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 539699,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Em Gái Mưa",
+        "original_title": "Em Gái Mưa",
+        "overview": "Câu chuyện lấy bối cảnh những năm đầu 2000 về Nguyễn Hà Vy, cô nữ sinh lớp 12A1 trường trung học Thanh Xuân tưởng chừng như sẽ 'kết thúc hời học sinh trong nhạt nhẽo' mà không có lấy cho riêng mình một “kỷ niệm sâu sắc” nào thì bỗng gặp được thầy Minh Vũ trong đoàn giáo sinh đến trường thực tập.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/rvXlk4A5h20kee1ViNn4BtHdQxj.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/yo6p0c9p1CAc3hMWpIuePqrhWM9.jpg",
+        "release_date": "2018-01-06",
+        "genres": [
+            {
+                "id": 10749,
+                "name": "Phim Lãng Mạn"
+            }
+        ],
+        "vote_average": 0,
+        "vote_count": 0,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Thùy Linh",
+                "character": "Hạ Vy",
+                "profile_path": "https://image.tmdb.org/t/p/w185/kVznWpyhr1biw9XMhE0CIdFmhF7.jpg"
+            },
+            {
+                "name": "Mai Tài Phến",
+                "character": "Minh Vũ",
+                "profile_path": "https://image.tmdb.org/t/p/w185/bBSI8gCbzBeOjgX1MauWafEogFV.jpg"
+            },
+            {
+                "name": "Phương Anh Đào",
+                "character": "Thảo Ly",
+                "profile_path": "https://image.tmdb.org/t/p/w185/aSUe3dhTduitDlzhduYd3mRjjZZ.jpg"
+            },
+            {
+                "name": "Tiến Vũ",
+                "character": "Bảo",
+                "profile_path": "https://image.tmdb.org/t/p/w185/f2OAMSw9aJZGlaC2utLalOENQ0Q.jpg"
+            },
+            {
+                "name": "Việt Hương",
+                "character": "Minh Châu",
+                "profile_path": "https://image.tmdb.org/t/p/w185/9v9E5OM91kILN7zkkE2pBSRNHbZ.jpg"
+            }
+        ],
+        "director": {
+            "name": "Kawaii Tuấn Anh",
+            "profile_path": null
+        },
+        "writers": [],
+        "runtime": 102,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt10915948",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Em.Gái.Mưa.2018.1080p.NF.WEB-DL.AAC2.0.x264-HBO.mkv",
+                "label": "1080p - WEB-DL - 2.29 GB",
+                "link": "https://uc53ae2c144a3639235f83225876.dl.dropboxusercontent.com/cd/0/get/C5BfwhLc1pCtrYwlg_lVyrlb3Noy9AkweMsw3bMNGbWvLHT9B93SGjrNN_K6F5vOGkoouVdt1dCv7P5KztbMsUn5EzVrzOGg6RJPReBX8HQ8PeISmpEs6P4KdMlPoAUVLDOFTRS4OY-HmV4mwJFs0qqFLeIzlKiHyHfJfaxbDjMCVCwWypSWbc5a6c0DI6KIfFa_xg5pFNr3qMe4S5U2AwjP/file",
                 "subtitle": null
             }
         ]
@@ -1679,6 +2892,91 @@
                 "filename": "Lat.Mat.3.mkv",
                 "label": "3.65 GB",
                 "link": "https://uc2ef122084bce9ab4fd7895c2e1.dl.dropboxusercontent.com/cd/0/get/C5AvIxzfJS7b3oAeHoCTTtH5JbR66kVdRnB6J1LxvUwlG4Gc6KGqIM9lpG2dbpzsE5lTivBfw2Qgv3PJTk1bQtVuF1ns8ZssttsZHkXyEmgbiDt0CwojGbMQzvvNtn2riIbwM6pYfNBEvCEvNSWdZyA4VyGIsEh02Cne59A7pM-KphsHTWE3I8Eyg6wCt3pAeals8eLYYn2CoRldG46EDawB/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 554793,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Người Bất Tử",
+        "original_title": "Người Bất Tử",
+        "overview": "Haunting dreams and visions lead An to a mysterious cave where she discovers the terrifying secrets of Hung — a man who lived across three centuries. Hung’s tumultuous life reveals a story filled with ambition, vengeance and dark magic.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/n1W7OhrhsUMD5XlCDgdQkXLqArp.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/a7DoGDHCLAobMBjDrXev8wSVC7C.jpg",
+        "release_date": "2018-10-26",
+        "genres": [
+            {
+                "id": 53,
+                "name": "Phim Gây Cấn"
+            },
+            {
+                "id": 27,
+                "name": "Phim Kinh Dị"
+            },
+            {
+                "id": 14,
+                "name": "Phim Giả Tượng"
+            }
+        ],
+        "vote_average": 6.3,
+        "vote_count": 8,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Quách Ngọc Ngoan",
+                "character": "Hùng",
+                "profile_path": "https://image.tmdb.org/t/p/w185/p32g3Q2XCeJI7kfaspocATeQqnq.jpg"
+            },
+            {
+                "name": "Ngọc Diệp",
+                "character": "An",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ueXSVd0DSgAgml3QCIC1fKrfMZN.jpg"
+            },
+            {
+                "name": "Jun Vũ",
+                "character": "Liên",
+                "profile_path": "https://image.tmdb.org/t/p/w185/sVahWPH9MdHXOkdWW5ZQRhrV6L6.jpg"
+            },
+            {
+                "name": "Thanh Tú",
+                "character": "Duyên",
+                "profile_path": "https://image.tmdb.org/t/p/w185/tKA5ZiHrenm7rlcPJ9MruLs5hhi.jpg"
+            },
+            {
+                "name": "François Négret",
+                "character": "DeBray",
+                "profile_path": "https://image.tmdb.org/t/p/w185/3QG0kPmtl9wNUctaxvZVOgrjTmr.jpg"
+            }
+        ],
+        "director": {
+            "name": "Victor Vũ",
+            "profile_path": "https://image.tmdb.org/t/p/w185/fnmFClB6WZw80CTJLua3ZCO5nZc.jpg"
+        },
+        "writers": [
+            {
+                "name": "Victor Vũ"
+            },
+            {
+                "name": "Kay Nguyễn"
+            }
+        ],
+        "runtime": 132,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt8653824",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Người Bất Tử.2018.1080p.WEB-DL.AAC2.0.x264-tG1R0.mkv",
+                "label": "1080p - WEB-DL - 5.26 GB",
+                "link": "https://ucdb982e4f2a5005c6d340308e92.dl.dropboxusercontent.com/cd/0/get/C5ALrt9FN8zHFYMh_J-S__Z_d8PC9yEWRF11NxuM8B7yY4yGnRvD6vzAUde8fuEYnWv6mNbFYctLsp3PdcVVgqnncqudV_BtAXZ4XVCMv74LOr9i2qRB1y2iq4DNoxc338HpFvkuZ6jU29vjOlRu693S9zsEogf784sgAFUBbvhcQ5LbxHGd6HNOIEnY12ohmgoxlduBkkLIuT-HBR7ynhGk/file",
                 "subtitle": null
             }
         ]
@@ -1774,6 +3072,167 @@
         ]
     },
     {
+        "id": 569805,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "The Legend of 5 Mile Cave",
+        "original_title": "The Legend of 5 Mile Cave",
+        "overview": "A mysterious drifter bonds with a boy with tales of the West. Past and present collide when a lawman appears seeking long-lost gold.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/4EFp20oGR4FBRxWHKKl3uqXPc2O.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/nVYqXhcZgbTA8VVQbuxJje6mhMO.jpg",
+        "release_date": "2019-04-02",
+        "genres": [
+            {
+                "id": 37,
+                "name": "Phim Miền Tây"
+            }
+        ],
+        "vote_average": 5.6,
+        "vote_count": 13,
+        "production_countries": [
+            "United States of America"
+        ],
+        "cast": [
+            {
+                "name": "Adam Baldwin",
+                "character": "Sam Barnes",
+                "profile_path": "https://image.tmdb.org/t/p/w185/rtRCD2rl9k3RVgyv3cHaUJer0Ms.jpg"
+            },
+            {
+                "name": "Jeremy Sumpter",
+                "character": "Shooter Green",
+                "profile_path": "https://image.tmdb.org/t/p/w185/pycR7N2pLA1fYFdySq1fP2wW7rN.jpg"
+            },
+            {
+                "name": "Jill Wagner",
+                "character": "Susan Tilwicky",
+                "profile_path": "https://image.tmdb.org/t/p/w185/dqPlsNMTHPZV4eso7sFQrtqvImD.jpg"
+            },
+            {
+                "name": "Jet Jurgensmeyer",
+                "character": "Tommy Tilwicky",
+                "profile_path": "https://image.tmdb.org/t/p/w185/xWoeGeGcpH6A6Q8YnJc9dpcuCpW.jpg"
+            },
+            {
+                "name": "Alexandria DeBerry",
+                "character": "Josie Hayes",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ts7SJoaHRYDeST8EfteBQ8UugBj.jpg"
+            }
+        ],
+        "director": {
+            "name": "Brent Christy",
+            "profile_path": null
+        },
+        "writers": [
+            {
+                "name": "Dustin Rikert"
+            },
+            {
+                "name": "William Shockley"
+            }
+        ],
+        "runtime": 90,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt9021234",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "The.Legend.of.Hei.2019.1080p.BluRay.DDP5.1.x265-NAN0.mkv",
+                "label": "1080p - BluRay - DDP5.1 - 6.38 GB",
+                "link": "https://uc38880a1be47b61510ef7ab04d4.dl.dropboxusercontent.com/cd/0/get/C5BQXLnoKk-hcn0_kZKc9z8cHdwlLoZubldoZMvOIxq1H2IaKJGNyWDjdXJqNk9iu1LtM_NJYvbV8QfYL86A-MddvpOcyEELSIbQCFZb77cmxoPK_Xg2McIHfDsmduGcmBRUMau1Ea25b93EzWBUAmyNWeZeEZjSufpTSq9AiyZzS3G9Uks-FXfFiHnQ4WuJ6QyKJmBK_AJDFP7002qNsA88/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 571208,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Chàng Vợ Của Em",
+        "original_title": "Chàng Vợ Của Em",
+        "overview": "Từ trước tới nay, người Việt vốn quen với hình ảnh người phụ nữ lúi húi trong bếp, phục vụ cơm nước cho chồng con, còn người đàn ông thì ra ngoài xã hội làm việc, kiếm tiền.  Song, mọi chuyện hoàn toàn khác đối với Mai (Phương Anh Đào). Xinh đẹp, mạnh mẽ, giàu có, nhưng đổi lại, cô gái luôn bận rộn trăm công nghìn việc tại công ty, hàng ngày phải đối đầu với “đám đàn ông ở công ty”.  Mai bận đến nỗi không có thời gian chăm sóc chó cưng, nhà cửa thì bừa bộn, và bản thân không còn khái niệm “bữa cơm gia đình”. Người phụ nữ hiện đại, sành điệu ấy chẳng cần bất cứ đấng mày râu nào chu cấp kinh tế, nhưng lại khao khát một “chàng vợ” có thể thay mình tề gia nội trợ, làm hậu phương vững chắc cho cô thỏa chí tung hoành.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jaMCmEFtklCD6OBYFHQBHIHEzr9.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/lw80FI2WMX00ehP2aNwJODogXdq.jpg",
+        "release_date": "2018-08-24",
+        "genres": [
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            },
+            {
+                "id": 10751,
+                "name": "Phim Gia Đình"
+            }
+        ],
+        "vote_average": 7.2,
+        "vote_count": 3,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Phương Anh Đào",
+                "character": "Mai",
+                "profile_path": "https://image.tmdb.org/t/p/w185/aSUe3dhTduitDlzhduYd3mRjjZZ.jpg"
+            },
+            {
+                "name": "Thái Hòa",
+                "character": "Hùng",
+                "profile_path": "https://image.tmdb.org/t/p/w185/1WUpCLAEOAXgTRWrtAJmIX0S9Yh.jpg"
+            },
+            {
+                "name": "Thanh Trúc",
+                "character": "Ngọc",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ulGr6No3RpG5BSWr5ENRLS8ahbd.jpg"
+            },
+            {
+                "name": "Hứa Vĩ Văn",
+                "character": "Mạnh",
+                "profile_path": "https://image.tmdb.org/t/p/w185/kX5YSIonNV4nj97MVmSGf8ZR1nF.jpg"
+            },
+            {
+                "name": "Trung Dũng",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/csXwcVlHgpSBRRbSffM2CI4MV0H.jpg"
+            }
+        ],
+        "director": {
+            "name": "Charlie Nguyen",
+            "profile_path": "https://image.tmdb.org/t/p/w185/5MxHaGUiguSGXNcBLnkW0hU4iAD.jpg"
+        },
+        "writers": [
+            {
+                "name": "Charlie Nguyen"
+            },
+            {
+                "name": "Chi Mai"
+            },
+            {
+                "name": "Nguyễn Hữu Tường Vi"
+            }
+        ],
+        "runtime": 90,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt8685802",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Chàng.Vợ.Của.Em.2018.1080p.NF.WEB-DL.DDP5.1.x264-HBO.mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 3.59 GB",
+                "link": "https://uc410034fec05701ea6678296ab3.dl.dropboxusercontent.com/cd/0/get/C5B-oMBGYkCfm9D54M-2oo5ThpJqjtm9-ssN0beNh4BKMgee0vdjjxUzWRPpSUsgu1z8Yks58HeBRw3TLgW2t08kUOmbRBeOf7J7Y0WYALRibXWK90oL9-PUmDl7Dq6kAQJ2vmxj95WNyYl3iBYeA0HYmCX7a0f7D67rWEO8SCu3FeiucMoiF-7kcjpY5lTPpCAxg7La1HA64vctSfZaAwZ5/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
         "id": 594427,
         "type": "movie",
         "hot_phim": 0,
@@ -1847,6 +3306,84 @@
                 "filename": "Lat.Mat.4.mkv",
                 "label": "2.52 GB",
                 "link": "https://uc012cfcdee1d168cf144b8d47e9.dl.dropboxusercontent.com/cd/0/get/C5CubxCLYi3bRCfo0-ictJ69plzlr1p1m0DFrp9Ld4H5t1-YgvZ2u4sxVuo5IQg7IJ3IdMKYkT7yCuUD_ULLo1WpE24LLBn67-F4ZY5hOb8hmxVSsZQ8p6vvUw4bS5Pa25J-imBF4FgPd8Frwg_xZeSNrYlZgK3cc_ooiK-2uPA1217DuZKak3Uu9j6mHYBt52qAGHLBAZd8XETg5c87_ejh/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 597515,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Cua Lại Vợ Bầu",
+        "original_title": "Cua Lại Vợ Bầu",
+        "overview": "Trọng Thoại và Nhã Linh yêu nhau đã được bảy năm. Những lỗi lầm nho nhỏ bắt đầu tích tụ thành mâu thuẫn cực lớn đẩy cả hai xa nhau. Lại thêm sự xuất hiện của người cũ Quý Khánh càng khiến Nhã Linh xao lòng. Và rồi, cô có thai. Rốt cuộc đứa bé là của ai và Nhã Linh sẽ chọn người đàn ông nào đi tiếp cùng mình?  Sở hữu dàn diễn viên được đông đảo công chúng biết đến- kết hợp thế hệ diễn viên trẻ và các bậc lão làng kỳ cựu, cộng thêm kịch bản vui tươi nhưng chẳng kém phần cảm động, Cua Lại Vợ Bầu là điển hình cho công thức thành công gần như 100% của phim Việt mùa Tết.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sKGnKCDjWHGSC5HJSSb0mnCs3lF.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/eyEOb10MHBxWH9MCSCSLVCK7PT1.jpg",
+        "release_date": "2019-02-05",
+        "genres": [
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            },
+            {
+                "id": 10751,
+                "name": "Phim Gia Đình"
+            }
+        ],
+        "vote_average": 7.3,
+        "vote_count": 3,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Trấn Thành",
+                "character": "Trọng Thoại",
+                "profile_path": "https://image.tmdb.org/t/p/w185/srIchVGBqzMVJ1mracvGV9qHUmM.jpg"
+            },
+            {
+                "name": "Ninh Dương Lan Ngọc",
+                "character": "Nhã Linh",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ypwd4glGKnAoiLMWH0DuxDkPvKE.jpg"
+            },
+            {
+                "name": "Anh Tú Atus",
+                "character": "Quý Khánh",
+                "profile_path": "https://image.tmdb.org/t/p/w185/shaY1dAn4o3P9qQTVg3J8DhWWlq.jpg"
+            },
+            {
+                "name": "Mạc Văn Khoa",
+                "character": "Tuấn",
+                "profile_path": "https://image.tmdb.org/t/p/w185/5IKZTF7PLbxo3uUOufpJn1atCF2.jpg"
+            },
+            {
+                "name": "Khả Như",
+                "character": "Như",
+                "profile_path": "https://image.tmdb.org/t/p/w185/paI6LnQlNbxXZyXoAY2JY2w8MU8.jpg"
+            }
+        ],
+        "director": {
+            "name": "Nhất Trung",
+            "profile_path": null
+        },
+        "writers": [
+            {
+                "name": "Nhất Trung"
+            }
+        ],
+        "runtime": 90,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt9633264",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Cua.Lại.Vợ.Bầu.2019.1080p.WEB-DL.DDP5.1.H.264-HDVN.mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 4.71 GB",
+                "link": "https://uca409fe64efb10ab2fd1b85173a.dl.dropboxusercontent.com/cd/0/get/C5CRwiPVKueypj47Lj1vEsfzDC8pFp1-CONqQ60pEQ7qU9X4j_MnPufwAkzGiDzKLbR1-SD6oWH9di_-kA5FKzPiRZktvstoaX9cizSMYdXQBn_3pvK77IZQf7FNPPFDLWgFqvLxu-Pzkzo2qhWFZINs_vGdMnzm7pV5S7MRgXgjXrrBKwi8Yvd49QVgR0UIlUOMcm5xikfU-BcovdRARCue/file",
                 "subtitle": null
             }
         ]
@@ -2079,6 +3616,77 @@
         ]
     },
     {
+        "id": 663745,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Gái Già Lắm Chiêu 3",
+        "original_title": "Gái Già Lắm Chiêu 3",
+        "overview": "Phim xoay quanh câu chuyện về một gia tộc siêu giàu, trong đấy nàng dâu Ninh Dương Lan Ngọc tiếp tục là tâm điểm với vai cô con dâu siêu chảnh. Miss Q lắm tai tiếng của showbiz sẽ bước vào hào môn xứ Huế và đối đầu với mẹ chồng tương lai - cựu minh tinh nổi tiếng Thái Tuyết Mai.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/tH92dHWRnzDuQ8jJya8co47PwuI.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/jzB1l4mgLiefnFRse7Qws3pE9Ic.jpg",
+        "release_date": "2020-01-25",
+        "genres": [],
+        "vote_average": 4,
+        "vote_count": 4,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Ninh Dương Lan Ngọc",
+                "character": "Ms. Q / Quyen",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ypwd4glGKnAoiLMWH0DuxDkPvKE.jpg"
+            },
+            {
+                "name": "Lê Xuân Tiền",
+                "character": "Jack",
+                "profile_path": "https://image.tmdb.org/t/p/w185/hCz3ZU3iKtlMALJASsRE23pqJT6.jpg"
+            },
+            {
+                "name": "Hồng Vân",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/xGtcfiU98EWtTMi3YVWoRfIvCrc.jpg"
+            },
+            {
+                "name": "Thùy Anh",
+                "character": "Kiki Ngo",
+                "profile_path": "https://image.tmdb.org/t/p/w185/pDw9ILgFvNkpqp3wsSEs8c0wetx.jpg"
+            },
+            {
+                "name": "Jun Vũ",
+                "character": "Khanh My",
+                "profile_path": "https://image.tmdb.org/t/p/w185/sVahWPH9MdHXOkdWW5ZQRhrV6L6.jpg"
+            }
+        ],
+        "director": {
+            "name": "Bảo Nhân",
+            "profile_path": null
+        },
+        "writers": [],
+        "runtime": 90,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt11564056",
+        "tagline": "Mẹ chồng siêu giàu vs. Nàng dâu siêu chảnh",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Gai.Gia.Lam.Chieu.2.2020.WEB-DL.1080p.mkv",
+                "label": "1080p - WEB-DL - 2.61 GB",
+                "link": "https://ucec2fa2f0b0906fc411e97d63b4.dl.dropboxusercontent.com/cd/0/get/C5BfxQ55VarABPuVkoPC_2rMaakDJksh3npvr9YM9VpbgyuTWaOlnpRorwBOUVjDEJ2O_6bq552jnla0XdaMmszxpEO3Bw5bzn149pBtoG87UmHRR3jZ9s06c_YJQv5tlMGBWuNF6kQEVmb70atDRZk39LK_BcceSUPTFLZW2PLNTsZaFiwJTKeOkS_Rsg4thdHXgX713XFF4uA2gNr-l1Jk/file",
+                "subtitle": null
+            },
+            {
+                "filename": "Gai.Gia.Lam.Chieu.3 - The Royal Bride 1080p WEBRip AAC 2.0 H.264.mkv",
+                "label": "1080p - WEB-DL - 11.84 GB",
+                "link": "https://uc491ffb4af9f3ca73fd53fbfefe.dl.dropboxusercontent.com/cd/0/get/C5CBSrDx9mupHeKA3eGe__2wWKRbiloCEQ7359SGluRWXgMfa0Aw1ucahMF5F188rvIwYBg-xAp0uQOyCiRiBdvPLN_njZ6j1q1kg6j7T0ybZ2N3lQTHUAJTcmx6apGcvsCM04IcnVf66QCiizGDt0K5NJhR1NuJESCLcy2r04Pcmd5GUrWVyA9pvm7aGyfhlXk4_uJ2i6f6aaQZJGuIYAeq/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
         "id": 679783,
         "type": "movie",
         "hot_phim": 0,
@@ -2151,6 +3759,84 @@
                 "filename": "EXIT.2019.ViE.1080p.FHDRip.H264.AAC_NonDRM(1).mkv",
                 "label": "1080p - 4.09 GB",
                 "link": "https://ucf9e24395dd85ec9e1ca2503523.dl.dropboxusercontent.com/cd/0/get/C5AeE3VLarkwQpMcDWA4sFWH5cvtxWY45jPcbc5TWHktQqltdfj1e1tJJIZdsOwmG13SWt6fyC8nKVHdcxPBg3doVssfOIXHTKfJT570urB4HhjUMvifTpX03D8P1Y-7r-RTWRT7p73XAAYdGJujwk1i0dTkUXEt018sQrDvUdTqSLRQKbpFwAQ4eVTMI1ROIhOTbfDZzXJ31_bIlclXmwgk/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 786978,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Người Cần Quên Phải Nhớ",
+        "original_title": "Người cần quên phải nhớ",
+        "overview": "Người Cần Quên Phải Nhớ xoay quanh nữ phóng viên Loan thuộc tòa soạn CP. Express, tác phẩm sẽ đưa khán giả theo chân nàng ta điều tra, vén màn bí mật đằng sau những cái chết bí ẩn. Trong lúc thu thập chứng cứ, cô tình cờ gặp gỡ và dần phải lòng Bình, chàng thanh niên lang bạt bị mất trí nhớ đồng thời là 'đối tượng tình nghi' trong vụ án.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/2yc8u7PBQ6nG8lKCj7yQMG0DBOD.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/tIKlDtwil0pBlZjfia8IJhYv1d4.jpg",
+        "release_date": "2020-12-24",
+        "genres": [
+            {
+                "id": 80,
+                "name": "Phim Hình Sự"
+            },
+            {
+                "id": 10749,
+                "name": "Phim Lãng Mạn"
+            },
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            }
+        ],
+        "vote_average": 0,
+        "vote_count": 0,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Hoàng Yến Chibi",
+                "character": "Loan",
+                "profile_path": "https://image.tmdb.org/t/p/w185/nUqFjrRxBCigDEk0u7Yb2U8xhif.jpg"
+            },
+            {
+                "name": "Trần Ngọc Vàng",
+                "character": "Bình",
+                "profile_path": "https://image.tmdb.org/t/p/w185/nyVfnTYxJxJJGaNlIJGXWw6jVHo.jpg"
+            },
+            {
+                "name": "Huyme",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/mnVAPK1NiIN00vPyNPmoerxi9mF.jpg"
+            },
+            {
+                "name": "Karen Nguyễn",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/v89kiRwSBPL9jVmX4UQPhfUMAOz.jpg"
+            },
+            {
+                "name": "Thái Hòa",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/1WUpCLAEOAXgTRWrtAJmIX0S9Yh.jpg"
+            }
+        ],
+        "director": {
+            "name": "Đức Thịnh",
+            "profile_path": "https://image.tmdb.org/t/p/w185/3zRVqDjr94R6cKz6WNuPtf7jGM9.jpg"
+        },
+        "writers": [],
+        "runtime": 110,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": null,
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Người.Quên.Cần.Phải.Nhớ.2020.1080p.NF.WEB-DL.AAC2.0.x264-HBO.mkv",
+                "label": "1080p - WEB-DL - 3.97 GB",
+                "link": "https://uc49660be2cb40ad941a88277e4e.dl.dropboxusercontent.com/cd/0/get/C5AqNU6iD_qy1JeF5KFQUfrRn7h7R5yuGtrd9WoJR4ZXnaamRPkriyy9ysV7La8XNGSGLU2TnkploZW4jnwIIY6iONXgtnBQ_JpuelG9HyGvt4WnP4Tub7cZ00OxG4aj6sHAMLT9kjbHpnsAh3ik6Zzh_fXi1kQgcqurTxm6epgfl6YXyrvTSnRZt1E29AOwFBgAsMnO1hpDY2xxgxW0b5Gu/file",
                 "subtitle": null
             }
         ]
@@ -2400,6 +4086,90 @@
         ]
     },
     {
+        "id": 959326,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Em và Trịnh",
+        "original_title": "Em và Trịnh",
+        "overview": "Tác phẩm xoay quanh cuộc đời Trịnh Công Sơn từ thời trẻ đến lúc trung niên trong khoảng những năm 1960-1990, điểm nhấn là câu chuyện giữa cố nhạc sĩ và cô gái Dao Ánh.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/x72eRMK9GzYVVER04hEsLxhWeUb.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/iy1iFcudNGCT1oZI2xjJpJtwDUY.jpg",
+        "release_date": "2024-12-15",
+        "genres": [
+            {
+                "id": 10749,
+                "name": "Phim Lãng Mạn"
+            },
+            {
+                "id": 10402,
+                "name": "Phim Nhạc"
+            }
+        ],
+        "vote_average": 0,
+        "vote_count": 0,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Lương Anh Vũ",
+                "character": "Trịnh Công Sơn (young)",
+                "profile_path": "https://image.tmdb.org/t/p/w185/sz7cKfPcBqpLIBGvs0HHvt2HRCw.jpg"
+            },
+            {
+                "name": "Phạm Nguyễn Lan Thy",
+                "character": "Bích Diễm",
+                "profile_path": "https://image.tmdb.org/t/p/w185/hMmeBpt4FSoH1qB3D4DBrN886iV.jpg"
+            },
+            {
+                "name": "Hoàng Hà",
+                "character": "Dao Ánh (young)",
+                "profile_path": "https://image.tmdb.org/t/p/w185/wy27mGYEkyEiV5qrCAw9vD4FcXL.jpg"
+            },
+            {
+                "name": "Trần Lực",
+                "character": "Trịnh Công Sơn",
+                "profile_path": "https://image.tmdb.org/t/p/w185/3RB33Wr22f7ykbmUtJJWdnf6oRe.jpg"
+            },
+            {
+                "name": "Bùi Lan Hương",
+                "character": "Khánh Ly",
+                "profile_path": "https://image.tmdb.org/t/p/w185/rgCCPGOlCkNKsPCGNSOoRMPDxLz.jpg"
+            }
+        ],
+        "director": {
+            "name": "Phan Gia Nhat Linh",
+            "profile_path": "https://image.tmdb.org/t/p/w185/qhI4iWvzXgNOZ2mbHrg52ilBzhk.jpg"
+        },
+        "writers": [
+            {
+                "name": "Phan Gia Nhat Linh"
+            },
+            {
+                "name": "Nguyễn Thái Hà"
+            },
+            {
+                "name": "Bình Bồng Bột"
+            }
+        ],
+        "runtime": 136,
+        "budget": 2156845,
+        "revenue": 3813746,
+        "imdb_id": "tt15028676",
+        "tagline": "KHI NGƯỜI TA TRẺ, NGƯỜI TA NGHĨ CÓ THỂ DỄ DÀNG TỪ BỎ MỘT MỐI TÌNH",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Em.Và.Trịnh.2022.1080p.WEB-DL.DDP5.1.H.264-HDVN.mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 6.37 GB",
+                "link": "https://uc9bd90c606232fc33ee14235a1c.dl.dropboxusercontent.com/cd/0/get/C5CYa31Ibc_nW6FLU3bco2d3d8SI1-LhFn3r0oBg-EqmVaeqZMOcA5gwswIzJkihXdxbW27KiB8mVhO9MNDPCMDKpJaqAk4-YzlftKOf45OjuRCxnbDO_nOgLwk5AgngJcSKT51hKUvJYBUYxuAFYk4F0JfquQgISTXGp2R2dGpbhqRsXdv13JxzjkILEJ9llbJRRkqf3Hq2AArvv443PG1t/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
         "id": 961651,
         "type": "movie",
         "hot_phim": 0,
@@ -2554,6 +4324,80 @@
                 "filename": "Ne Zha 2 2025 ViE 1080p AMZN WEB-DL DDP Atmos 5.1 x264 KyoGo.mkv",
                 "label": "1080p - WEB-DL - Atmos - 10.61 GB",
                 "link": "https://uc0d614949d8ff9fb5462b4ee302.dl.dropboxusercontent.com/cd/0/get/C5BKem-0g9aUJykhbULLBAI_3hg1H-OozCTI8PKTY8yvmXBf4H-r-YoJg0sesYgnCekkdGRZFNl392DCy0E03kVMzgoeVTq522jssbqAB8EpmtIdQX7CmRX94lIailqUOUuVkV2DkpgNP5NqbckM_gBU9EB4MB6WCGUhR1id_ykFJ8uAwKEPPq5R0P3_fkAnQK095YbiQAlmenD5MPvPg8df/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 985705,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Dân Chơi Không Sợ Con Rơi",
+        "original_title": "Dân Chơi Không Sợ Con Rơi",
+        "overview": "Quân, một dân chơi miệt vườn với tài “sát gái” thượng hạng, bỗng một ngày phải gánh lấy 'cục nợ con rơi' từ bạn gái cũ. Được sự trợ giúp 'ba phần đắc lực bảy phần phá đám' của Tám Mánh, Quân dần mất hết hy vọng tìm lại mẹ cho đứa bé và dần trở thành người cha hoàn hảo trong mắt Bé Thỏ.  Cuộc sống đầy sắc màu và tiếng cười của hai cha con bị đặt trước thử thách lớn lao khi người mẹ mà Bé Thỏ ngày đêm mong ngóng cuối cùng cũng xuất hiện…",
+        "poster_path": "https://image.tmdb.org/t/p/w500/mvgFPFYXgMf5FpiErVQH4LVBmR4.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/s18MwKDKV8YMe3Rv3nsdo7WGPtM.jpg",
+        "release_date": "2022-07-29",
+        "genres": [
+            {
+                "id": 10751,
+                "name": "Phim Gia Đình"
+            },
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            }
+        ],
+        "vote_average": 4.7,
+        "vote_count": 3,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Tiến Luật",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/oF3y6nJ4R9EmzHfynPcQ58BN6Gr.jpg"
+            },
+            {
+                "name": "Bé Bảo Thi",
+                "character": "",
+                "profile_path": null
+            },
+            {
+                "name": "Huỳnh Phương",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/4toGRqTbi9I0TMT565S7KLIY1kT.jpg"
+            },
+            {
+                "name": "Vân Trang",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/bkNkbvoTdqMY36kcWx6l7cyXZuO.jpg"
+            },
+            {
+                "name": "Ngô Kiến Huy",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/gbTEXwPVTiDys2RXVROGjm7sF6s.jpg"
+            }
+        ],
+        "director": {
+            "name": "Huỳnh Đông",
+            "profile_path": "https://image.tmdb.org/t/p/w185/uZs9RybFfQkKHfFTJabTvDZ4Nkv.jpg"
+        },
+        "writers": [],
+        "runtime": null,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt21372970",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Dan.Choi.Khong.So.Con.Roi.2022.1080p.NF.WEB-DL.DDP2.0.x264-MP12365.mkv",
+                "label": "1080p - WEB-DL - 1.62 GB",
+                "link": "https://uc4d0f836c68d575db7ee4199316.dl.dropboxusercontent.com/cd/0/get/C5BEPPGQywVVJhP7-yh8A7fEDuwVVqWhK-JWubKN60PI8Q9jPh21Ym8lmCvIhkEjD2ltL5XlbO-qp18kPKDtG6vgwkaS7SHp_d2y5woVlPf-BRnL-cO_2nQQtopM65ru46NWTtZk7Wzy-NxAk13802hYu_xqtnc9WvHxWBNOclpseRGLGsMNnYtTYX4GbyBYVE9Irm_OsBX7PE6K8gA74_LJ/file",
                 "subtitle": null
             }
         ]
@@ -2721,6 +4565,88 @@
         ]
     },
     {
+        "id": 1059935,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Duyên Ma",
+        "original_title": "Duyên Ma",
+        "overview": "Mắc kẹt trong trạng thái siêu nhiên sau khi bị xe tông, một người đàn ông đem lòng yêu một cô gái có dị năng nhìn thấy những con ma giống anh ta.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/eV8Ph03ZNV2PmE44FQn9jHB6TdY.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/k09IiSkmQBqa5zpBmhMRlVC5G9s.jpg",
+        "release_date": "2022-08-12",
+        "genres": [
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            },
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            },
+            {
+                "id": 27,
+                "name": "Phim Kinh Dị"
+            },
+            {
+                "id": 10749,
+                "name": "Phim Lãng Mạn"
+            }
+        ],
+        "vote_average": 0,
+        "vote_count": 0,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Ngoc Trinh",
+                "character": "",
+                "profile_path": null
+            },
+            {
+                "name": "Kiều Minh Tuấn",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/8htmGyEcsF9ClSHEkpQJWkHB7lL.jpg"
+            },
+            {
+                "name": "Phi Phung",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/eF82ECy3l0wJSeSKXo4WJBEWUxX.jpg"
+            },
+            {
+                "name": "Hải Triều",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/dpf5mWNVcF57eSN9UUkaRptyiCu.jpg"
+            },
+            {
+                "name": "Loc Le",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/l9sCj9KIY1cBIfzuSmylHlhDqFh.jpg"
+            }
+        ],
+        "director": {
+            "name": "Khánh Toàn",
+            "profile_path": null
+        },
+        "writers": [],
+        "runtime": 96,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": null,
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Duyên.Ma.2022.1080p.NF.WEB-DL.DDP5.1.x264-HBO.mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 3.76 GB",
+                "link": "https://uc2c0f928561a72ac69a1a7cc3d5.dl.dropboxusercontent.com/cd/0/get/C5CQiU6e9TI7yvRrn9TZL7Uw1LJkCi8gHv_6yqzkarTalBWry9UAva73BrWcdriSAxPTncl70sNozrtieApbDBOCZsxfNIkz3oWr75QH7E925QOTBJCXOQw4Tn5rimVFyG97s2_dL2Z989TZ7QQKG2o6oNw798m7302ghprVX5UrOnytmMRz_9yrbu2QERRjz0hrh5kpbwg8jNe_3_L8ZneQ/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
         "id": 1072077,
         "type": "movie",
         "hot_phim": 0,
@@ -2794,6 +4720,240 @@
                 "filename": "Lat.Mat.6.mkv",
                 "label": "4.7 GB",
                 "link": "https://ucad6425564a92e9058a1942780b.dl.dropboxusercontent.com/cd/0/get/C5AqKuPFkLBMFXB7_mhJeUNEST-vwMZ90yiOLdaemg6xB7lXkpts8S5p2KPfzVrxZ-rLjhptdEhcSR7s8MCMBAULnpTmmYkXNehyd6jUVG-xDE9OiL4aBtmCVipfWKrZx5Jt2INStzJUzeRG-UHSUgeopEu2KUUv1T8xuSZIOEGE9Wz2hEc2tSENZpGDaPbgQvO9t0rm40JTjnv8E4gRs_qh/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1075228,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Con Nhót Mót Chồng",
+        "original_title": "Con Nhót Mót Chồng",
+        "overview": "Bộ phim là câu chuyện của Nhót - người phụ nữ “chưa kịp già” đã sắp bị mãn kinh, vội vàng đi tìm chồng. Nhưng sâu thẳm trong cô, là khao khát muốn có một đứa con và luôn muốn hàn gắn với người cha suốt ngày say xỉn của mình.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1jprS9NCMudAob2rAGyYSLsgcO4.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/xOwyub5PxnRDrZNPENmucEVJQE7.jpg",
+        "release_date": "2023-04-28",
+        "genres": [
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            },
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            }
+        ],
+        "vote_average": 6.8,
+        "vote_count": 2,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Thái Hòa",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/1WUpCLAEOAXgTRWrtAJmIX0S9Yh.jpg"
+            },
+            {
+                "name": "Thu Trang",
+                "character": "Nhót",
+                "profile_path": "https://image.tmdb.org/t/p/w185/oSpHBUKu9vNcmQTJD9w936jJD7R.jpg"
+            },
+            {
+                "name": "Tiến Luật",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/oF3y6nJ4R9EmzHfynPcQ58BN6Gr.jpg"
+            },
+            {
+                "name": "Vinh Râu",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/brqSMo70svUy1Ljm3BLEFOs9ib7.jpg"
+            },
+            {
+                "name": "Huỳnh Phương",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/4toGRqTbi9I0TMT565S7KLIY1kT.jpg"
+            }
+        ],
+        "director": {
+            "name": "Vũ Ngọc Đãng",
+            "profile_path": "https://image.tmdb.org/t/p/w185/1WA24RuDeYQMjFcdGXC3tf7S5AX.jpg"
+        },
+        "writers": [],
+        "runtime": 112,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt27600298",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "_Con.Nhót.Mót.Chồng.2023.1080p.WEB-DL.DDP5.1.H.264-HDVN.mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 5.06 GB",
+                "link": "https://uc47c220a4bafeef280aa8eadd01.dl.dropboxusercontent.com/cd/0/get/C5A1Q8qH2ttGLs_rZ_8XaDVNt6Cg30MwpbngbiEAaofHn4O4RGidpe3fiPKkEUuQyPawv6CBk033ryMxekjqQm75dS4cn7DDxtgWlEaEVWlUmIRYc50WRruuhsm7TudB1Qk23RL7YSI7d2A3SmtNmPhKOAwamO20gfPrrB5s3r8UAs3BkvOfPxu_9uYmluGvkSDjEVNEkxTaIzUcHqv8ZLOa/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1099580,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Người Vợ Cuối Cùng",
+        "original_title": "Người Vợ Cuối Cùng",
+        "overview": "Lấy cảm hứng từ tiểu thuyết Hồ Oán Hận, của nhà văn Hồng Thái, Người Vợ Cuối Cùng là một bộ phim tâm lý cổ trang, lấy bối cảnh Việt Nam vào triều Nguyễn.  LINH - Người vợ bất đắc dĩ của một viên quan tri huyện, xuất thân là con của một gia đình nông dân nghèo khó, vì không thể hoàn thành nghĩa vụ sinh con nối dõi nên đã chịu sự chèn ép của những người vợ lớn trong gia đình. Sự gặp gỡ tình cờ của cô và người yêu thời thanh mai trúc mã của mình - NHÂN đã dẫn đến nhiều câu chuyện bất ngờ xảy ra khiến cuộc sống cô hoàn toàn thay đổi.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/dRgYeBp48TwCU84d6BR7A3VwfUi.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/mkv2cz71iLvpYjUWCfBPh6nZaaD.jpg",
+        "release_date": "2023-11-03",
+        "genres": [
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            },
+            {
+                "id": 10749,
+                "name": "Phim Lãng Mạn"
+            }
+        ],
+        "vote_average": 7,
+        "vote_count": 9,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Kaity Nguyễn",
+                "character": "Linh",
+                "profile_path": "https://image.tmdb.org/t/p/w185/n78QM4icCLlhWLBn1eXhRSX21Lg.jpg"
+            },
+            {
+                "name": "Thuan Nguyen",
+                "character": "Nhân",
+                "profile_path": "https://image.tmdb.org/t/p/w185/dCiGaNQpfs3JJqQLCjSYAQ1d2Hd.jpg"
+            },
+            {
+                "name": "Quốc Huy",
+                "character": "Thám tử Kiên",
+                "profile_path": "https://image.tmdb.org/t/p/w185/aGRdsKpcafM8NweSjxxvGDiBTRi.jpg"
+            },
+            {
+                "name": "De Ly Luu",
+                "character": "Con Linh",
+                "profile_path": null
+            },
+            {
+                "name": "Ngọc Diệp",
+                "character": "Mợ Hai",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ueXSVd0DSgAgml3QCIC1fKrfMZN.jpg"
+            }
+        ],
+        "director": {
+            "name": "Victor Vũ",
+            "profile_path": "https://image.tmdb.org/t/p/w185/fnmFClB6WZw80CTJLua3ZCO5nZc.jpg"
+        },
+        "writers": [
+            {
+                "name": "Vo Nguyen Dan"
+            },
+            {
+                "name": "Victor Vũ"
+            },
+            {
+                "name": "Trieu Hoang My"
+            }
+        ],
+        "runtime": 133,
+        "budget": null,
+        "revenue": 4000000,
+        "imdb_id": "tt29686547",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Người.Vợ.Cuối.Cùng.2023.1080p.NF.WEB-DL.DDP5.1.x264-HBO.mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 5.17 GB",
+                "link": "https://uc224220dcf39d3ce30599432c61.dl.dropboxusercontent.com/cd/0/get/C5Aph9u1BzJxu4T4abGS55S6FDI97JawADAduKIeun0JEN-c3NhvhFuWaCLKtoi1epHgXd_U3B0EencvTUtGCqlvrCuSqL2rHnR0boYreJzj2uz3QaVG-ssZJSPXuH2Vs4ol4zzK2ZWu7PlNLwmGmFv_JHKBWMzbJeKYSGiVCj-kDmetnXSWNdX_SMxpuacLN044el2-R66-MTUE_NpZcyyp/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1104206,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Cậu Chủ Ma Cà Rồng",
+        "original_title": "Cậu Chủ Ma Cà Rồng",
+        "overview": "",
+        "poster_path": "https://image.tmdb.org/t/p/w500/n89DpcTjPvniDbbvFcl6KtWHzv7.jpg",
+        "backdrop_path": "",
+        "release_date": "2019-08-23",
+        "genres": [
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            },
+            {
+                "id": 27,
+                "name": "Phim Kinh Dị"
+            },
+            {
+                "id": 14,
+                "name": "Phim Giả Tượng"
+            }
+        ],
+        "vote_average": 0,
+        "vote_count": 0,
+        "production_countries": [],
+        "cast": [
+            {
+                "name": "Trương Minh Thảo",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/vmKCg6BXXz6mRJYBIl87cnHcvFs.jpg"
+            },
+            {
+                "name": "Vo Dang Duy Luan",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/d5YvFMCjQ0AE83i7d6orEV80Lw2.jpg"
+            },
+            {
+                "name": "Yeye Nhat Ha",
+                "character": "",
+                "profile_path": null
+            },
+            {
+                "name": "Truc May",
+                "character": "",
+                "profile_path": null
+            },
+            {
+                "name": "Lam Huong Giang",
+                "character": "",
+                "profile_path": null
+            }
+        ],
+        "director": {
+            "name": "Trần Nhân Kiên",
+            "profile_path": null
+        },
+        "writers": [],
+        "runtime": 86,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt10726454",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Cau.Chu.Ma.Ca.Rong.2019.1080P.WEB-DL.DD2.0.H264.mkv",
+                "label": "1080p - WEB-DL - 10.32 GB",
+                "link": "https://uc17d462fc4c75204bc76046c45e.dl.dropboxusercontent.com/cd/0/get/C5AeoaUOkAOm-xa9Yl0JPKy1X-4I2JzqIhNNuRkC5KHewQyrIm6cFebjtQkzLEmtPCsg1HdlmKFD43qU3-Iy3lB32fC-nBURjKnpQATCpmrFHvj0dwRE844x4XQ-yizpcQrvdgINbKKObQITPf-KPRcKF8LXwhLj_9u61LtR0iHzl9Z02hSJaqdrSUcWqwfk3elSEBMV5YxHYidFqfxtjSt1/file",
                 "subtitle": null
             }
         ]
@@ -3203,6 +5363,271 @@
         ]
     },
     {
+        "id": 1235746,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Mùa Đông Chết",
+        "original_title": "Dead of Winter",
+        "overview": "Một người phụ nữ, đang đi một mình qua miền bắc Minnesota phủ đầy tuyết trắng, đã ngăn chặn vụ bắt cóc một cô gái tuổi teen. Cách thị trấn gần nhất hàng giờ đồng hồ và không có sóng điện thoại, cô nhận ra rằng mình là hy vọng duy nhất của cô gái trẻ.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/ajdB8AoHKrYlOR4yMDMZYLFyfdj.jpg",
+        "release_date": "2025-09-23",
+        "genres": [
+            {
+                "id": 53,
+                "name": "Phim Gây Cấn"
+            }
+        ],
+        "vote_average": 6.348,
+        "vote_count": 141,
+        "production_countries": [
+            "Germany",
+            "United States of America"
+        ],
+        "cast": [
+            {
+                "name": "Emma Thompson",
+                "character": "Barb",
+                "profile_path": "https://image.tmdb.org/t/p/w185/bLGNyyVAGSDfRpLoC3gKD6S6j4P.jpg"
+            },
+            {
+                "name": "Judy Greer",
+                "character": "Purple Lady",
+                "profile_path": "https://image.tmdb.org/t/p/w185/j5fyC7BdkhheN9A93ryEvHAP4Nl.jpg"
+            },
+            {
+                "name": "Marc Menchaca",
+                "character": "Camo Jacket",
+                "profile_path": "https://image.tmdb.org/t/p/w185/fL0LmdBwau30M4AFPVJrpLRXXsU.jpg"
+            },
+            {
+                "name": "Laurel Marsden",
+                "character": "Leah",
+                "profile_path": "https://image.tmdb.org/t/p/w185/9qXzNvaTevBkR0odMrRBsL1GQ35.jpg"
+            },
+            {
+                "name": "Gaia Wise",
+                "character": "Young Barb",
+                "profile_path": "https://image.tmdb.org/t/p/w185/vyjUZOrhto3PKq4PuHG7270cum5.jpg"
+            }
+        ],
+        "director": {
+            "name": "Brian Kirk",
+            "profile_path": "https://image.tmdb.org/t/p/w185/6GDT6T9E3vvJTsBDHe2XgGwcG6y.jpg"
+        },
+        "writers": [
+            {
+                "name": "Nicholas Jacobson-Larson"
+            },
+            {
+                "name": "Dalton Leeb"
+            }
+        ],
+        "runtime": 98,
+        "budget": null,
+        "revenue": 1030111,
+        "imdb_id": "tt7574556",
+        "tagline": "Wrong place. Wrong crime.",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Dead.Of.Winter.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX (1).mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 5.31 GB",
+                "link": "https://uce7def371800db5dd77d4b4ba98.dl.dropboxusercontent.com/cd/0/get/C5Bme51F0V-TVp7GkqbJsy_G5XO4Sp3xqckEFOpcoXN0bpdCGcEIyWSNtONvmLsA4SvmBx6tOVAd7hTyXvP8F6sML5ni6j4JeoLW42dmEk249VLna6biAfG3VBzHMrcmavFeGwNjlHU2WQrZXcozFwWRC29bRCJ6hpy1JV8SxB2zkN2ZmLe4vF8pmjyBzGmVqpHMGxp7JKqjknoTRVcJ-Vsd/file",
+                "subtitle": null
+            },
+            {
+                "filename": "Dead.Of.Winter.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 5.31 GB",
+                "link": "https://uc5ca4ee6a8304546d6e61250046.dl.dropboxusercontent.com/cd/0/get/C5Agf-aezVANdXyW7Gkr57MNtKPz8CrIUg8WcmOWRZYlOKgQRlM7sIXYb0XvcFgnrP3ZRK2DlVw7lTVbtGVTamnVxzUgAbDcl7-z0rm2FzMwZ30jlWtwNywKrhPk5qLKH-jfHqp8aTfyAM4iNXH_Tgmi9_iUa7ccLkztsMSRTI3h3jXO2Cfl7-7hF0Z7sWNA1HA-4m0DbrLyrGiOq9xPIqkG/file",
+                "subtitle": null
+            },
+            {
+                "filename": "Dead.Of.Winter.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX (2).mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 5.31 GB",
+                "link": "https://ucd1509cdeb9f0953a203ae00afb.dl.dropboxusercontent.com/cd/0/get/C5BuZLHbJ_iLjpQcTO93-JsL1i5EpcW0mMFEQH7L_C0DviCEX3XxlI2eQnak7DBZp8rgL1Y6IQDsrMxtpLxMI6EYaeKs8xDHLxaZXPrB2BmU4vSX8mH6ZojBip2zcYyA1VWKtpUsXqydSnjazS4BXCTHa5YLCOhZVLdf1kbFKqyfjsUqU5oDa65O6Nn5J94Sv0kvwbGIOBA8OyG8y8YE33xN/file",
+                "subtitle": null
+            },
+            {
+                "filename": "Dead.Of.Winter.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX (3).mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 5.31 GB",
+                "link": "https://uc515c1d69e9b28f6f3c7be37475.dl.dropboxusercontent.com/cd/0/get/C5BMocVHT4KpNKjwGE8OT6mhyEzbqK89BZS6Ez_GH0agDXEauta4VtzARbmyXKpCevoFVG1wDZBVwlurEC7-gLo61Td4rDAJDifHupjutK6huYwC4gdXIi9ueq4msJx8_3ty9-hShrIpxHB823eCmZ-9_8kxaHeAxTy-dhm-qGVUhK0uhCxq9iwF1PXNY6jNPpHCyTT4eF3OEKnzgd5BW0Fq/file",
+                "subtitle": null
+            },
+            {
+                "filename": "Dead.of.Winter.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX (Sub Viet).mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 5.31 GB",
+                "link": "https://uca2ecf388556f66c649ae64e853.dl.dropboxusercontent.com/cd/0/get/C5Bv1-W6wuBm-izgUSnEtZ_JpUzdvIUF9pwZCazq2yU6JfGYIrMgY-PGmwo7kSd7-qYeEMaHzDAKagFpozC8fEmMLMWjeeQcPa5Lk80omzyV3rrlc25dHXyeJ4MMtiEWDZ9IbBgI3l6BrwbUggOWix9M-VEIDsdsWC_wQfu0RKQ0o8ititrDKF-Nn3wPiKSKTdGTnjAxeHyynOPwkB7jhoE4/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1265623,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Banger",
+        "original_title": "Banger",
+        "overview": "Khi cảnh sát chiêu mộ một DJ hết thời để triệt phá một băng tội phạm lập dị có liên hệ với đối thủ của anh, anh coi đó là cơ hội để trở lại đỉnh cao theo cách ngoạn mục.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/5boTARNEddfrihsKRBhyvHwoC7Z.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/oDvBfDVgF6uthIPdRfC6zqqbvcE.jpg",
+        "release_date": "2025-04-01",
+        "genres": [
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            },
+            {
+                "id": 10402,
+                "name": "Phim Nhạc"
+            }
+        ],
+        "vote_average": 4.763,
+        "vote_count": 76,
+        "production_countries": [
+            "France"
+        ],
+        "cast": [
+            {
+                "name": "Vincent Cassel",
+                "character": "Luis / Scorpex",
+                "profile_path": "https://image.tmdb.org/t/p/w185/KxzpJXyzVnqfouInWLypAND0gL.jpg"
+            },
+            {
+                "name": "Yvick Letexier",
+                "character": "Vestax",
+                "profile_path": "https://image.tmdb.org/t/p/w185/2mTvSkBjg8ilrOUFUGwVZm1oyBB.jpg"
+            },
+            {
+                "name": "Laura Felpin",
+                "character": "Rose",
+                "profile_path": "https://image.tmdb.org/t/p/w185/jSDgeJhj46YmeXTl3J0sYWAI175.jpg"
+            },
+            {
+                "name": "Alexis Manenti",
+                "character": "Molotov",
+                "profile_path": "https://image.tmdb.org/t/p/w185/n9YW0FkKhxlwMhFQz3U2OokuWFZ.jpg"
+            },
+            {
+                "name": "Nina Zem",
+                "character": "Toni",
+                "profile_path": "https://image.tmdb.org/t/p/w185/xdMXLOIjUe3eQhSNNedMVPwOiO.jpg"
+            }
+        ],
+        "director": {
+            "name": "So-Me",
+            "profile_path": null
+        },
+        "writers": [
+            {
+                "name": "So-Me"
+            },
+            {
+                "name": "Elias Belkeddar"
+            },
+            {
+                "name": "Agnès Feuvre"
+            }
+        ],
+        "runtime": 90,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt35434840",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Banger.2025.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-BYNDR (Sub Viet).mkv",
+                "label": "1080p - WEB-DL - Atmos - 4.05 GB",
+                "link": "https://uc8b5bf85545ab4c013164208036.dl.dropboxusercontent.com/cd/0/get/C5CVGrRVEP-8yuIBzuIa9SbStckC7vv4C8_QcR7knYoQsw4NaI9HAu62fIRnyk4iNWtJ3_B7sxf-M9FPFgteCjMkl-_8ZP0wt4ixwUCjmEdtNxa1_AhoLAOlk_49j_E661gwPG9-N1heB2UBVT2NWa3gFeD030MR8Xzqzojh31RZiui5cZ03SFi1VWbp8G4UxXeHgfPzJyq1DqFb1xSGktCc/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1272166,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Bản ballad của tay bạc nhỏ",
+        "original_title": "Ballad of a Small Player",
+        "overview": "Giữa những sòng bạc hào nhoáng ở Macau, con bạc đang trốn chạy khỏi quá khứ – và nợ nần – bỗng si mê người phụ nữ bí ẩn tại bàn chơi bài baccarat.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ji3cF8UJjB9zHkFITfKs54vvyHk.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/cc48kfehVAkgG73BsPcFLMoxa8h.jpg",
+        "release_date": "2025-10-15",
+        "genres": [
+            {
+                "id": 80,
+                "name": "Phim Hình Sự"
+            },
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            }
+        ],
+        "vote_average": 5.811,
+        "vote_count": 257,
+        "production_countries": [
+            "Germany",
+            "United Kingdom"
+        ],
+        "cast": [
+            {
+                "name": "Colin Farrell",
+                "character": "Lord Doyle",
+                "profile_path": "https://image.tmdb.org/t/p/w185/oyQVfpowL9eSudYhwoPGkd9WxS7.jpg"
+            },
+            {
+                "name": "Fala Chen",
+                "character": "Dao Ming",
+                "profile_path": "https://image.tmdb.org/t/p/w185/nsucfzPlPHeYVXhIS2b8ZtKr4wJ.jpg"
+            },
+            {
+                "name": "Tilda Swinton",
+                "character": "Cynthia Blithe",
+                "profile_path": "https://image.tmdb.org/t/p/w185/dzjT4LKgs7eOma84GsPy78DsGNH.jpg"
+            },
+            {
+                "name": "Deanie Ip",
+                "character": "Grandma",
+                "profile_path": "https://image.tmdb.org/t/p/w185/cbLmEQf2bzjEB4tOcoCPOVTZLeb.jpg"
+            },
+            {
+                "name": "Alex Jennings",
+                "character": "Adrian Lippett",
+                "profile_path": "https://image.tmdb.org/t/p/w185/4nbbUmAwoOCarkR5FHJjzw2STPE.jpg"
+            }
+        ],
+        "director": {
+            "name": "Edward Berger",
+            "profile_path": "https://image.tmdb.org/t/p/w185/st8iwTbaPHmX0lOiyGFC4sIcA8H.jpg"
+        },
+        "writers": [
+            {
+                "name": "Rowan Joffé"
+            }
+        ],
+        "runtime": 101,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt32063098",
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Ballad.of.a.Small.Player.2025.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-Spidey.mkv",
+                "label": "1080p - WEB-DL - Atmos - 6.18 GB",
+                "link": "https://uc54606c71dc2c67c10454b5868b.dl.dropboxusercontent.com/cd/0/get/C5AbMLw24_fLGU9QFji4AB50l4kOeihBc0sO4rsfiNp4EexyVryTZZgYiNl6_skIxct4B0LcHz8GFttIWAF2bgmTTEn3UivcaAYgZUqukQbACahjkZwf1syUpIAGN63LhALehEn8zGYtbdMy9jQSq053kq8sKdXLTqB_jOmmyCFZ4WEQfvUb2XZSd2codrOR5oUVJjxq3fvehr6ic1k1vT0g/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
         "id": 1276073,
         "type": "movie",
         "hot_phim": 0,
@@ -3287,6 +5712,80 @@
                 "filename": "Bullet.Train.Explosion.2025.1080p.NF.WEB-DL.DDP5.1.Atmos.H264-PandaQT.MKV",
                 "label": "1080p - WEB-DL - Atmos - 6.01 GB",
                 "link": "https://ucccdcc048ac10c89682f4506245.dl.dropboxusercontent.com/cd/0/get/C5CCqMfLzXwb5QgNoxOFch2t3UdujD441WGDWjMpHtzJG4mz_0ZvUY5szHFfrKLQtDhRwHSD3CivDOiKBOacY5SQ4U8zZaRRaupFCgRKRWXPC1tkCTx7X63YfEBA-U8vHrVyN2nX0G0XodrR0Y6H9f2gMeR9ZXUEywJ1R_xFzURC1URcm8LeTQH3hzOVhEBN98hca9Peje2-1I605lgfJ_SH/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1290159,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Ngôi nhà thuốc nổ",
+        "original_title": "A House of Dynamite",
+        "overview": "Khi một tên lửa không rõ nguồn gốc được phóng vào lãnh thổ Hoa Kỳ, một cuộc chạy đua bắt đầu nhằm truy tìm thủ phạm và quyết định phương án ứng phó.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/5SVRVwBfHCIkffiq0MmbdvnHWSz.jpg",
+        "release_date": "2025-10-02",
+        "genres": [
+            {
+                "id": 53,
+                "name": "Phim Gây Cấn"
+            }
+        ],
+        "vote_average": 6.388,
+        "vote_count": 1036,
+        "production_countries": [
+            "United States of America"
+        ],
+        "cast": [
+            {
+                "name": "Idris Elba",
+                "character": "POTUS",
+                "profile_path": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+            },
+            {
+                "name": "Rebecca Ferguson",
+                "character": "Captain Olivia Walker",
+                "profile_path": "https://image.tmdb.org/t/p/w185/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
+            },
+            {
+                "name": "Gabriel Basso",
+                "character": "Deputy National Security Advisor Jake Baerington",
+                "profile_path": "https://image.tmdb.org/t/p/w185/6jHYQf6Y37BEouavp03WWpWpFyR.jpg"
+            },
+            {
+                "name": "Jared Harris",
+                "character": "Secretary of Defense Reid Baker",
+                "profile_path": "https://image.tmdb.org/t/p/w185/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg"
+            },
+            {
+                "name": "Tracy Letts",
+                "character": "General Anthony Brady",
+                "profile_path": "https://image.tmdb.org/t/p/w185/x318yEddF10ASORC5U958C2kowf.jpg"
+            }
+        ],
+        "director": {
+            "name": "Kathryn Bigelow",
+            "profile_path": "https://image.tmdb.org/t/p/w185/llfsTIvItT7IEmX5qK1qUX0dbqc.jpg"
+        },
+        "writers": [
+            {
+                "name": "Noah Oppenheim"
+            }
+        ],
+        "runtime": 112,
+        "budget": null,
+        "revenue": 181125,
+        "imdb_id": "tt32376165",
+        "tagline": "Not if. When.",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "A.HOUSE.OF.DYNAMITE.2025.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv",
+                "label": "1080p - WEB-DL - Atmos - 4.43 GB",
+                "link": "https://uc9b41cbe1aaee7460fb9aeee2ae.dl.dropboxusercontent.com/cd/0/get/C5Bf9_BkuHaCex97QJCGbhQg2NNV2U-9FhCfHwaxL9k7kHIbzLceq_f0SyxebJbm9sTG0Pvb6rMI9h3CzBRCaZaRlHUy1LEEOpDbTtDZj9HHpxeP3mbwOsjZXCP1bB37lBUfqEGcZsRmgapm-5faWROXgO1nzUbY1q3o-PssJdQfWyA0fShr3eG9KVkB3LMmaWRZV-0QW7GJ8ibkbg7Gqp3t/file",
                 "subtitle": null
             }
         ]
@@ -3450,6 +5949,87 @@
                 "filename": "Lạc Phàm Trần 2024 4K WEB-DL H265 TVP TMPĐ_kimngonx5.mkv",
                 "label": "4K - WEB-DL - 3.31 GB",
                 "link": "https://uc603554473c88c028ec6450070e.dl.dropboxusercontent.com/cd/0/get/C5BveylfyDrc2kzRdyZkcGdLNhxgfU3xC6xHsGHr5_fBYWh_O8D6xnKa0FGyZyvFQ9pINsptgRpsEfdztfMucnMPWuuUpn6fnJcqFeqmi_HIRY3r3K7HbUhE7CePUU7GeiDwZusHlGz9rjQOPw3tEEN7uBEcU3OZucO_SDzrKZF-zPGwE1ZP36lJwP7FzaHMScOw2_YigM4XDSbbPXdYUOP7/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1306816,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Zombie Cưng Của Ba",
+        "original_title": "좀비딸",
+        "overview": "Zombie Cưng Của Ba đánh dấu sự trở lại của nam diễn viên Cho Jung Seok trên màn ảnh rộng năm nay. Cho Jung Seok hóa thân thành Lee Jung Hwan, một huấn luyện viên động vật đầy nhiệt huyết quyết tâm bảo vệ cô con gái tuổi teen bị nhiễm virus zombie bằng cách “thuần hóa” cô bé. Trải qua hành trình Jung Hwan đưa cô con gái nhiễm virus zombie Soo Ah đến ngôi làng ven biển, với nỗ lực bảo vệ cô bé khỏi sự truy quét của chính quyền. Tại đây, anh phát hiện Soo Ah vẫn còn giữ được ý thức con người, đặc biệt là niềm đam mê nhảy múa. Ngoài ra, cô bé vẫn nhận ra và vô cùng yêu thương bà của mình. Từ đó, Jung Hwan đưa ra quyết định quan trọng, đó là áp dụng kinh nghiệm huấn luyện động vật của chính mình để “thuần hóa” con gái, mở ra cuộc hành trình vừa hài hước vừa cảm động. Zombie Cưng Của Ba có đầy đủ yếu tố trở thành “bữa tiệc hè” đặc sắc từ xứ kim chi dịp hè 2025 khi đầy đủ các yếu tố cảm xúc HÀI - TÌNH - LỆ",
+        "poster_path": "https://image.tmdb.org/t/p/w500/aASLRiO8p9xLIvG9EHXSyZ71sPl.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/gT7MXlPs7ohpdefR5cdgdPx1zsf.jpg",
+        "release_date": "2025-07-30",
+        "genres": [
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            },
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            }
+        ],
+        "vote_average": 6.893,
+        "vote_count": 28,
+        "production_countries": [
+            "South Korea"
+        ],
+        "cast": [
+            {
+                "name": "Cho Jung-seok",
+                "character": "Lee Jung-hwan",
+                "profile_path": "https://image.tmdb.org/t/p/w185/pVZHsNj31fNMyWixqg26TA9HjU1.jpg"
+            },
+            {
+                "name": "Lee Jung-eun",
+                "character": "Kim Bam-soon",
+                "profile_path": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+            },
+            {
+                "name": "Cho Yeo-jeong",
+                "character": "Shin Yeon-hwa",
+                "profile_path": "https://image.tmdb.org/t/p/w185/5MgWM8pkUiYkj9MEaEpO0Ir1FD9.jpg"
+            },
+            {
+                "name": "Yoon Kyung-ho",
+                "character": "Cho Dong-bae",
+                "profile_path": "https://image.tmdb.org/t/p/w185/217cVZqyvJypi4OR1uvxoaJxvLm.jpg"
+            },
+            {
+                "name": "Choi Yu-ri",
+                "character": "Lee Soo-ah",
+                "profile_path": "https://image.tmdb.org/t/p/w185/dUp7EAnZzKVX6JSMbLQgpeD9r9W.jpg"
+            }
+        ],
+        "director": {
+            "name": "Pil Gam-seong",
+            "profile_path": "https://image.tmdb.org/t/p/w185/k1yiAZeWUt6hKbDBnremiWsNb67.jpg"
+        },
+        "writers": [
+            {
+                "name": "Kim Hyun"
+            },
+            {
+                "name": "Pil Gam-seong"
+            }
+        ],
+        "runtime": 114,
+        "budget": null,
+        "revenue": 37891989,
+        "imdb_id": "tt36553678",
+        "tagline": "She doesn't bite!",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "My.Daughter.is.a.Zombie.2025.ViE.1080p.CoupangPlay.WEB-DL.AAC2.0.H264-PandaQT.mkv",
+                "label": "1080p - WEB-DL - 4.1 GB",
+                "link": "https://uc9ff7aadd2777f3e57a7cd940f7.dl.dropboxusercontent.com/cd/0/get/C5AIh0HSrGf17dv8uEGafxV4b-zBhghpLbAFXpbtxSFgr27ggwm7BWFhhasJbtbbXgJ5qGn-tmroxqOZIoS4urMoS7K2fA6Fy5G4FfDQB6uWwt8dJXyPzUtYwB8qw5P0h8YDgIuVhn7mcWwyj9qMsKYN3U38uo1n_p4LDIu3RgxIhcWfzG4Pk6pg6ysoSgYonmhF7ND7ry8z670yT_iUU_Fy/file",
                 "subtitle": null
             }
         ]
@@ -3780,6 +6360,90 @@
         ]
     },
     {
+        "id": 1362315,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Bàn tay ru nôi",
+        "original_title": "The Hand That Rocks the Cradle",
+        "overview": "Một bà mẹ ngoại ô giàu có đưa một bảo mẫu mới, Polly Murphy, về nhà mình và phát hiện ra cô ấy không phải là người như cô ấy tự nhận.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/fM9WpA5HNqNhUuGjTv2cEPQ1wEz.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/lK1zWi7EpBIFaGJBf0Y7jjemZe2.jpg",
+        "release_date": "2025-10-16",
+        "genres": [
+            {
+                "id": 27,
+                "name": "Phim Kinh Dị"
+            },
+            {
+                "id": 53,
+                "name": "Phim Gây Cấn"
+            }
+        ],
+        "vote_average": 5.7,
+        "vote_count": 152,
+        "production_countries": [
+            "United States of America"
+        ],
+        "cast": [
+            {
+                "name": "Maika Monroe",
+                "character": "Polly Murphy",
+                "profile_path": "https://image.tmdb.org/t/p/w185/x4yiKkMnCdf8g4eOrDoqla9FYEA.jpg"
+            },
+            {
+                "name": "Mary Elizabeth Winstead",
+                "character": "Caitlin Morales",
+                "profile_path": "https://image.tmdb.org/t/p/w185/5d1AkBJpybuTM64lcNyBUZ90KD1.jpg"
+            },
+            {
+                "name": "Raúl Castillo",
+                "character": "Miguel Morales",
+                "profile_path": "https://image.tmdb.org/t/p/w185/wyxl5HtyjeJRXkE89LtsItQhPHN.jpg"
+            },
+            {
+                "name": "Mileiah Vega",
+                "character": "Emma Morales",
+                "profile_path": null
+            },
+            {
+                "name": "Nora Contreras",
+                "character": "Josie Morales",
+                "profile_path": null
+            }
+        ],
+        "director": {
+            "name": "Michelle Garza Cervera",
+            "profile_path": "https://image.tmdb.org/t/p/w185/6Wpj63gqgCw5YqstNWnTit7I5Xh.jpg"
+        },
+        "writers": [
+            {
+                "name": "Micah Bloomberg"
+            }
+        ],
+        "runtime": 105,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt33502160",
+        "tagline": "Good help is hard to find.",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "The.Hand.That.Rocks.the.Cradle.2025.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv",
+                "label": "1080p - WEB-DL - Atmos - 3.68 GB",
+                "link": "https://uca2bebd4c2aaeeec20dd5b6e14e.dl.dropboxusercontent.com/cd/0/get/C5AUA1Qu3spOuhhGoWlnIHqcMyzC3doFVEPGemLJjeu5JYecFX2iiDZeJfiRrpF4O310oU-ifMezrwlWt3dGlogJ122YM3nRLe2vM2HgV5I_YNQ6t9Uq0VHa_r-tB0y5SxKm4y0TKxxd84aLj5hsHjEeJ9lDeMIV_mFc_DZMz7XLV4B5E_ScZaPo-ebBNzADyRiT2tlZNJwMn3DwfPFC_Mdy/file",
+                "subtitle": null
+            },
+            {
+                "filename": "The.Hand.That.Rocks.the.Cradle.2025.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX (Sub Viet).mkv",
+                "label": "1080p - WEB-DL - Atmos - 3.68 GB",
+                "link": "https://uc6910760996954fb73e1264e20e.dl.dropboxusercontent.com/cd/0/get/C5DhCHm1LtDhVdqRLQakQgGn0-WK4uQXTJImfMTnAM1unD01oKx2ZEy_8FOeM_RSOVZtuILnwFUeAPBvyz0LQ4f-ZOmpEUAnduAXXNmnfRppWjqob-CA3znJ9TS_c9v3AVYjiO2K1TatRIl2OUbnQ7b7tzvGdt73ZBVqyrAPGcurqoBkCRoYHVaEh81PNZ9Z9zpPQZKKmvlpmKAGYcu8l77t/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
         "id": 1372489,
         "type": "movie",
         "hot_phim": 0,
@@ -3861,6 +6525,88 @@
                 "filename": "Doraemon.Nobitas.Art.World.Tales.2025.JPN.BluRay.1080p.x264.DDP.7.1.2Audios-CMCT.mkv",
                 "label": "1080p - BluRay - 8.34 GB",
                 "link": "https://uc9442678b37d3bfe654515a7ca6.dl.dropboxusercontent.com/cd/0/get/C5CTWuCEg3VQ67dESizY0uIGp23RcCOQaJzeDgwJmkAtrBtrmynKcdIhbODpGriYW9D7or3EEXTng9NUkKxEfGnG34wKCWQ8bqQuzKhOi_Plh_y-afpwJf-NwK7mEDG9iU9ng_Zx5rQfuVcPt27art51DnuRYoJMZgBnKA49r2E_iua_WQ34f7rl8sDDMOUKugtGH5YtNYqUu4PJjMP5sW7o/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1376879,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Địa Đạo: Mặt Trời Trong Bóng Tối",
+        "original_title": "Địa Đạo: Mặt Trời Trong Bóng Tối",
+        "overview": "Năm 1967, giữa lúc Chiến tranh Việt Nam đang ở đỉnh điểm, đội du kích cách mạng 21 người trở thành mục tiêu “tìm và diệt” số 1 của quân đội Mỹ khi nhận nhiệm vụ bằng mọi giá phải bảo vệ một nhóm thông tin tình báo chiến lược mới đến ẩn náu tại căn cứ.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8rZ74dcigPg8XOm8lGx6qXQkzSY.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/AeIB61nouCdGJr8FAGjPK7Zyd3u.jpg",
+        "release_date": "2025-04-04",
+        "genres": [
+            {
+                "id": 10752,
+                "name": "Phim Chiến Tranh"
+            },
+            {
+                "id": 28,
+                "name": "Phim Hành Động"
+            },
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            }
+        ],
+        "vote_average": 7.4,
+        "vote_count": 5,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Thái Hòa",
+                "character": "Bảy Theo",
+                "profile_path": "https://image.tmdb.org/t/p/w185/1WUpCLAEOAXgTRWrtAJmIX0S9Yh.jpg"
+            },
+            {
+                "name": "Quang Tuấn",
+                "character": "Tư Đạp",
+                "profile_path": "https://image.tmdb.org/t/p/w185/phycXzKyBl7eKvO07vmnjvD94ej.jpg"
+            },
+            {
+                "name": "Hồ Thu Anh",
+                "character": "Ba Hương",
+                "profile_path": "https://image.tmdb.org/t/p/w185/q3bN33UOZEO3hEXZdThzMXarcHL.jpg"
+            },
+            {
+                "name": "Diễm Hằng Lamoon",
+                "character": "Út Khờ",
+                "profile_path": null
+            },
+            {
+                "name": "Anh Tú Wilson",
+                "character": "Lục Tạc",
+                "profile_path": null
+            }
+        ],
+        "director": {
+            "name": "Bùi Thạc Chuyên",
+            "profile_path": "https://image.tmdb.org/t/p/w185/lZI1FPerVVr46pzCzTV9xWJbLMg.jpg"
+        },
+        "writers": [
+            {
+                "name": "Bùi Thạc Chuyên"
+            }
+        ],
+        "runtime": 128,
+        "budget": 2500000,
+        "revenue": null,
+        "imdb_id": "tt34268350",
+        "tagline": "Trong mỗi chúng ta là một người hùng",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Dia.Dao.Mat.Troi.Trong.Bong.Toi.2025.1080p.WEB-DL.AAC.2.0.H.264-AYA.mkv",
+                "label": "1080p - WEB-DL - 2.16 GB",
+                "link": "https://ucbde034e517a549fb04eac281ae.dl.dropboxusercontent.com/cd/0/get/C5Ae2Waz1S6L4QbEOAWQ5iy7CB-wxW5rR1QXp05fYDaJIfCCqNs102cvqeH4irrqZ3-9XCR8k7nfeJgYOb3B00rHWJWJfp9h7bViFNvqkP25d_t6e4JjejgBrGquLDVvxLZpTfmQggyC66bpQ2WxeOOgLSvqonexT8NDMZkePvy-4XBP_FWuZP0Td0oPzw-gev9bbSuUQ0OYKdxkur0J64yY/file",
                 "subtitle": null
             }
         ]
@@ -4098,6 +6844,306 @@
         ]
     },
     {
+        "id": 1448353,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Thám Tử Kiên: Kỳ Án Không Đầu",
+        "original_title": "Thám Tử Kiên: Kỳ Án Không Đầu",
+        "overview": "Một chuỗi án mạng kinh hoàng tại một ngôi làng hẻo lánh – nơi liên tiếp xảy ra tám vụ giết người với cùng một đặc điểm rợn người: tất cả nạn nhân đều không còn đầu.\r Thám Tử Kiên phải đối mặt với vụ án khủng khiếp gây hoang mang tột độ cho dân làng. Ai sẽ là nạn nhân tiếp theo trong chuỗi án mạng rùng rợn? Kiên có tìm ra mấu chốt để lần theo dấu vết hung thủ?",
+        "poster_path": "https://image.tmdb.org/t/p/w500/51aFpeW0cxIiI5XPrDXo6jTTDKT.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/rmhmfqVVUWV4xjoC0uBnelARFmT.jpg",
+        "release_date": "2025-04-25",
+        "genres": [
+            {
+                "id": 27,
+                "name": "Phim Kinh Dị"
+            },
+            {
+                "id": 80,
+                "name": "Phim Hình Sự"
+            },
+            {
+                "id": 36,
+                "name": "Phim Lịch Sử"
+            }
+        ],
+        "vote_average": 7.9,
+        "vote_count": 13,
+        "production_countries": [
+            "Vietnam"
+        ],
+        "cast": [
+            {
+                "name": "Quốc Huy",
+                "character": "Thám tử Kiên",
+                "profile_path": "https://image.tmdb.org/t/p/w185/aGRdsKpcafM8NweSjxxvGDiBTRi.jpg"
+            },
+            {
+                "name": "Ngọc Diệp",
+                "character": "Hai Mẫn",
+                "profile_path": "https://image.tmdb.org/t/p/w185/ueXSVd0DSgAgml3QCIC1fKrfMZN.jpg"
+            },
+            {
+                "name": "Minh Anh",
+                "character": "Nga",
+                "profile_path": "https://image.tmdb.org/t/p/w185/2cYI7LjDsFeTrLOc2EdMBXamhem.jpg"
+            },
+            {
+                "name": "Quốc Anh",
+                "character": "Thạc",
+                "profile_path": "https://image.tmdb.org/t/p/w185/rfF99VklCwmkymfSeYQse63xMFW.jpg"
+            },
+            {
+                "name": "Tín Nguyễn",
+                "character": "",
+                "profile_path": "https://image.tmdb.org/t/p/w185/g3wYpq0M6QCw4i5Pj53oNaMQlGb.jpg"
+            }
+        ],
+        "director": {
+            "name": "Victor Vũ",
+            "profile_path": "https://image.tmdb.org/t/p/w185/fnmFClB6WZw80CTJLua3ZCO5nZc.jpg"
+        },
+        "writers": [
+            {
+                "name": "Victor Vũ"
+            },
+            {
+                "name": "Duc Nguyen"
+            }
+        ],
+        "runtime": 131,
+        "budget": null,
+        "revenue": 9768694,
+        "imdb_id": "tt36386168",
+        "tagline": "Kẻ chết không siêu thoát, người sống không lối thoát",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Detective.Kien.The.Headless.Horror.2025.1080p.WEB-DL.DDP5.1.H.264-SHINIKIN.mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 5.91 GB",
+                "link": "https://uc2a7bb54e66ae0b5ffd0bd13f85.dl.dropboxusercontent.com/cd/0/get/C5D9jEMSqgxjEfYpopHPtpwx1oVDYRtRUsURuI4PHugYmHyVGLCDdbHgLDVJ9AbTOxsqbg0tuvsDsQYv5kdZDOHYWnB_KFGt-pS9bw_xrb1LrEHXJ7lfCIBANtb8nuxnBFMSDGH4GSLII_qo4u812Zlm9y8bRgMS3Ziz-cRCio-ZLMvHBchjvjXE6u1jISTrgLvKkjyRf9PyGzVQU7KnfBRR/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1467784,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Attack Of The Machine",
+        "original_title": "Attack Of The Machine",
+        "overview": "The fate of humanity lies in the hands of a select few brave space explorers who are on a critical mission to face off against The Machine.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/tI0zFKe9nYI8inaQxuUosgkid4r.jpg",
+        "backdrop_path": "",
+        "release_date": "2025-03-01",
+        "genres": [
+            {
+                "id": 28,
+                "name": "Phim Hành Động"
+            },
+            {
+                "id": 878,
+                "name": "Phim Khoa Học Viễn Tưởng"
+            }
+        ],
+        "vote_average": 0,
+        "vote_count": 0,
+        "production_countries": [],
+        "cast": [
+            {
+                "name": "Manuela Vellés",
+                "character": "Claire Martinez",
+                "profile_path": "https://image.tmdb.org/t/p/w185/tehIQs0SgHA7vNJ3fzPPZ1hO8Mk.jpg"
+            },
+            {
+                "name": "Adam Quintero",
+                "character": "Joseph Wood",
+                "profile_path": "https://image.tmdb.org/t/p/w185/aPdbHnG3guWmdqoer0IfoJMvqeK.jpg"
+            },
+            {
+                "name": "Paul Haapaniemi",
+                "character": "Hunter",
+                "profile_path": "https://image.tmdb.org/t/p/w185/6MZeXDRRrgCAakzJakLmhYS3I9M.jpg"
+            },
+            {
+                "name": "James Hayward Brinkley",
+                "character": "Mono",
+                "profile_path": "https://image.tmdb.org/t/p/w185/84ywbEwCU1s2VsGjwi2llL2IH1Y.jpg"
+            }
+        ],
+        "director": {
+            "name": "Jon Mikel Caballero",
+            "profile_path": "https://image.tmdb.org/t/p/w185/gRC1FXXF8NhhcFEbYB1toyL1Laj.jpg"
+        },
+        "writers": [
+            {
+                "name": "Jon Mikel Caballero"
+            },
+            {
+                "name": "Eric Navarro"
+            },
+            {
+                "name": "Lexie Findarle Trivundza"
+            }
+        ],
+        "runtime": 86,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt34747908",
+        "tagline": "Humanity's fate is in their hands",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Attack.13.2025.1080p.NF.WEB-DL.DDP5.1.H.264-BiOMA (Sub Viet).mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 4.14 GB",
+                "link": "https://uc20708abfe30cb4ca4cefb165c7.dl.dropboxusercontent.com/cd/0/get/C5Dtp4A2Vq3qEMpQDef-zWGXObYhy6O0H_3NpQFUnXWOI-fk_omRWAHzeCvlg-opH0UldZ9HlpIdVyZOT5nZ3MPMob9LcBKf-ZYMxzUpO-PL6_rA-0TMDaDlp3SV0FV_qcSxSg-qngxba062Im8Goz6qGEmAsPsjleRVhXHId6Q3g9GO63ihafmTvGeRhehVROxOcqn_U97NrxTsNlTdxqjA/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1486283,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "A House of Forgotten Objects",
+        "original_title": "A House of Forgotten Objects",
+        "overview": "A documentary about the MorYork Gallery and Clare Graham.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/f726sxNaRN0UqmSZOW5E6MvSvg0.jpg",
+        "backdrop_path": "",
+        "release_date": "2025-05-01",
+        "genres": [
+            {
+                "id": 99,
+                "name": "Phim Tài Liệu"
+            }
+        ],
+        "vote_average": 0,
+        "vote_count": 0,
+        "production_countries": [
+            "United States of America"
+        ],
+        "cast": [
+            {
+                "name": "Clare Graham",
+                "character": "Clare Graham",
+                "profile_path": null
+            },
+            {
+                "name": "Douglas Hill",
+                "character": "Douglas Hill",
+                "profile_path": null
+            },
+            {
+                "name": "Richard Conti",
+                "character": "Richard Conti",
+                "profile_path": null
+            }
+        ],
+        "director": {
+            "name": "Nathalie Genyk",
+            "profile_path": null
+        },
+        "writers": [],
+        "runtime": null,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": null,
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "A.HOUSE.OF.DYNAMITE.2025.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264.DUAL-BiOMA (Sub Viet).mkv",
+                "label": "1080p - WEB-DL - Atmos - 5.05 GB",
+                "link": "https://uc6a9a3e44fc1ba401785b83debb.dl.dropboxusercontent.com/cd/0/get/C5DNm4TdDZaUQcUhPWx0wlDe5oKJAbZNMOLBqqBSk-qfdGJQ42GlZpSQ2HWHzZm-N7DCFpjkWsunstlf7m0h9Kt0OqQBXfT1HIvmzGMkuZffv3964iGBxtcExJcWHA6nbgj9NBWjK9fc6orcnJJs4OCTBlFQ_qkW07oQSTTx1YKrnEN0ENe0kpkH99_l9s__Mu0FJUSa08WXDhr2GdY-xQ2S/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1493192,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "VICIOUS",
+        "original_title": "VICIOUS",
+        "overview": "VICIOUS is the debut short film from independent director Nella Tirkkonen. Based out of Helsinki, the city is also the backdrop for this slice-of-life story, following a night of drinking in a small dive bar.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/aQoF6t15hbUyUSxQ7GLRPO0NoN5.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/2EUfMnv9NtaJle1pFXK8U8G7mdH.jpg",
+        "release_date": "2025-06-04",
+        "genres": [
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            },
+            {
+                "id": 18,
+                "name": "Phim Chính Kịch"
+            }
+        ],
+        "vote_average": 0,
+        "vote_count": 0,
+        "production_countries": [
+            "Finland"
+        ],
+        "cast": [
+            {
+                "name": "Danny Joe",
+                "character": "Samu",
+                "profile_path": null
+            },
+            {
+                "name": "Sebastian Vega",
+                "character": "Mies",
+                "profile_path": null
+            },
+            {
+                "name": "Athos Avonius",
+                "character": "Jori",
+                "profile_path": null
+            },
+            {
+                "name": "Rob Royce",
+                "character": "Henri",
+                "profile_path": null
+            },
+            {
+                "name": "Ricky Gambina",
+                "character": "Aleksi",
+                "profile_path": null
+            }
+        ],
+        "director": {
+            "name": "Nella Tirkkonen",
+            "profile_path": null
+        },
+        "writers": [
+            {
+                "name": "Nella Tirkkonen"
+            }
+        ],
+        "runtime": 3,
+        "budget": 114,
+        "revenue": null,
+        "imdb_id": null,
+        "tagline": "A night of drinking gets rowdy in a Helsinki dive bar",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Vicious.2025.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv",
+                "label": "1080p - WEB-DL - Atmos - 5.02 GB",
+                "link": "https://ucf2d99428f01774aa307839727e.dl.dropboxusercontent.com/cd/0/get/C5DQh-xE5ToN2CBdBr55RTVnVcZwv7lxlRnI9IuE2oGxt9qvi5AsUCQOV39Sv1N-l_yAUdllAzEc8Et5pw6oTQ7Bq8ZaeqxjCUTvTvZmAbMTRVaTc4E51zKLG47g1zB8bQuxHdoA_8F3JsYAiIZkVt7HjVj5GYGJ_jefoGukwkGK948kSKsuVa4jB_PZ_Vh4CiaKcHI0lssofWjhnqW76DDn/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
         "id": 1516738,
         "type": "movie",
         "hot_phim": 0,
@@ -4158,6 +7204,250 @@
                 "filename": "The.Fantastic.Four.First.Steps.2025.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-BYNDR(Vietsub).mkv",
                 "label": "1080p - WEB-DL - Atmos - Vietsub - 6.12 GB",
                 "link": "https://uc785472e6ff24258850f53d9ddc.dl.dropboxusercontent.com/cd/0/get/C5BrhncfsrAThfR21oXZ51eeFwh7ciSap9jxL1OWm3dr8XFJDdsoJQL6araVhd1Ytq7UIQFYnOyQhYOoZu2yVIDM9DOe-Z0l44lyrVGDrUs1I7xsCVJJ8Ad7nIAbXgF7PNe7xNjzZaGO2yC3siGZt4JqLZnPQoQde5KmdumO3LdiU84_9xXSA_y5e79Fr5rqRcxyGv1Kz6QdGpcbIyg9SJkY/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1517758,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Stiller & Meara: Giữ Trọn Ký Ức - Stiller & Meara: Nothing Is Lost",
+        "original_title": "Stiller & Meara: Nothing Is Lost",
+        "overview": "Ben Stiller kể lại câu chuyện về bố mẹ mình, hai biểu tượng hài kịch Jerry Stiller và Anne Meara, khám phá ảnh hưởng của họ đối với văn hóa đại chúng và gia đình, nơi ranh giới giữa sự sáng tạo, gia đình, cuộc sống và nghệ thuật thường mờ nhạt.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/56IuEiSnFpQZHFc9n7KzbH0uQL0.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/dvdZItPwnRukloJYOK9HQBPNYq9.jpg",
+        "release_date": "2025-10-17",
+        "genres": [
+            {
+                "id": 99,
+                "name": "Phim Tài Liệu"
+            }
+        ],
+        "vote_average": 6.472,
+        "vote_count": 18,
+        "production_countries": [
+            "United States of America"
+        ],
+        "cast": [
+            {
+                "name": "Jerry Stiller",
+                "character": "Self (archive footage)",
+                "profile_path": "https://image.tmdb.org/t/p/w185/eGymLHTpIyxKyBjACsNTpEof6y4.jpg"
+            },
+            {
+                "name": "Anne Meara",
+                "character": "Self (archive footage)",
+                "profile_path": "https://image.tmdb.org/t/p/w185/zQVdY5AdOlGuq2AtwOMjOD3AmfH.jpg"
+            },
+            {
+                "name": "Ben Stiller",
+                "character": "Self",
+                "profile_path": "https://image.tmdb.org/t/p/w185/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+            },
+            {
+                "name": "Amy Stiller",
+                "character": "Self",
+                "profile_path": "https://image.tmdb.org/t/p/w185/hBOWh6dNPr1Mc5UdKJD2fq0eQx4.jpg"
+            },
+            {
+                "name": "Ella Stiller",
+                "character": "Self",
+                "profile_path": "https://image.tmdb.org/t/p/w185/zrVtDBIeheeWuc82k6UcxSstXj4.jpg"
+            }
+        ],
+        "director": {
+            "name": "Ben Stiller",
+            "profile_path": "https://image.tmdb.org/t/p/w185/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+        },
+        "writers": [],
+        "runtime": 98,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": "tt37674658",
+        "tagline": "Ben Stiller hé lộ câu chuyện xúc động về cha mẹ mình, hai tượng đài trong làng hài kịch.",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Stiller.and.Meara.Nothing.Is.Lost.2025.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-FLUX (Sub Viet).mkv",
+                "label": "1080p - WEB-DL - Atmos - 7.08 GB",
+                "link": "https://uce2988889e207778ab4bc70660f.dl.dropboxusercontent.com/cd/0/get/C5AMnjIy3tNbpk-jt9yhIZPn0JtEEp0ISMhOWa97e2tBKOG8uKIEJj7z_yf8l2sF4kvUJXMinvjLK-Zt898136IQiU_Mk_UxpOs7frcoHiev9XvPhREhJIkvPrB4egUEo2HokD3keO3pjNvVZYhTdPCcXho14y009iaC8915TPLqFTcKN0NeDkHFygbIQlqrcURAIJ8Jii1qZev-0FMnbo3L/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1547088,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "Good Boy",
+        "original_title": "Good Boy",
+        "overview": "When an obedient recluse is ordered to capture a young woman for his motherly A.I, the captured girl has to quickly devise a plan of escape before she's forced to submit to being a good girl for her new mommy.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/Fzzkncr8KqKnMasRQToYKX1tcp.jpg",
+        "backdrop_path": "https://image.tmdb.org/t/p/w1280/hm1uz6mgRIYsLqfLGlrn0ManQaO.jpg",
+        "release_date": "2025-09-12",
+        "genres": [
+            {
+                "id": 878,
+                "name": "Phim Khoa Học Viễn Tưởng"
+            },
+            {
+                "id": 27,
+                "name": "Phim Kinh Dị"
+            }
+        ],
+        "vote_average": 0,
+        "vote_count": 0,
+        "production_countries": [],
+        "cast": [
+            {
+                "name": "Jeffrey Roth",
+                "character": "Frankie/Mommy",
+                "profile_path": null
+            },
+            {
+                "name": "Noelle Ramsay",
+                "character": "Alex",
+                "profile_path": null
+            }
+        ],
+        "director": {
+            "name": "Joseph Genua",
+            "profile_path": "https://image.tmdb.org/t/p/w185/A6KYHM5rXcYjyxtBN8O0ozgZpMK.jpg"
+        },
+        "writers": [
+            {
+                "name": "Joseph Genua"
+            }
+        ],
+        "runtime": 19,
+        "budget": 5000,
+        "revenue": null,
+        "imdb_id": "tt27816429",
+        "tagline": "MOMMY KNOWS BEST",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "Good.Boy.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 3.15 GB",
+                "link": "https://uc04fdd22cd3a6484351479c3dd6.dl.dropboxusercontent.com/cd/0/get/C5CyH9iTfUHZ_3Wt5L--gFUmiMKOmBire-hissE9A3u-DxWgKx0y1a1fYODdiTv28plUJ4Rn5uK2o-HsB8_FnLGIXYQ0Er-Jv2qaQAB0QUEA0XLtyJqIpB1t9OUPh0WiF-xN9Mv1NcmqYInuMVhj1bqLgmTBAOqw5jZhdRIAqAkVpG_Yxbi3w7enYYZk_Un7cvzbkJa0aXxupkZ88j6gyZp_/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1577501,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "The Long Walk Back to the Bed",
+        "original_title": "The Long Walk Back to the Bed",
+        "overview": "A girl embarks on the perilous journey from lightswitch to bed.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/rByzoxElBCMXHxn3jdACMnnnjTH.jpg",
+        "backdrop_path": "",
+        "release_date": "2025-11-04",
+        "genres": [
+            {
+                "id": 27,
+                "name": "Phim Kinh Dị"
+            },
+            {
+                "id": 35,
+                "name": "Phim Hài"
+            }
+        ],
+        "vote_average": 10,
+        "vote_count": 1,
+        "production_countries": [],
+        "cast": [
+            {
+                "name": "Meda Elvikyte",
+                "character": "Girl",
+                "profile_path": null
+            },
+            {
+                "name": "Pascale",
+                "character": "Monster",
+                "profile_path": null
+            }
+        ],
+        "director": {
+            "name": "Anaïs the Great",
+            "profile_path": null
+        },
+        "writers": [
+            {
+                "name": "Anaïs the Great"
+            }
+        ],
+        "runtime": 3,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": null,
+        "tagline": "Everything changes once the light is out.",
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "The.Long.Walk.2025.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv",
+                "label": "1080p - WEB-DL - Atmos - 7.57 GB",
+                "link": "https://uc0671e422ecd9ede7194341a8da.dl.dropboxusercontent.com/cd/0/get/C5DnJh-7Eyg19novfTmppUofBPxd5FHofCdXok42AUzN_VSRtBhQp0LDMSKZPnt7-pE12VKhL0BH_UIikKXbGWvGyy6-fW5ocLtGXnugM55OPURr8Bxjdv6CjQTj8pr_uMA82_BMwh97SITi6oOqCsTnf4rZWGU8MokK_z9IgTr15B9K-SiZM1J2J_dUeZmVb-xOVHSuTsyC6m540ZdDTqmI/file",
+                "subtitle": null
+            }
+        ]
+    },
+    {
+        "id": 1583748,
+        "type": "movie",
+        "hot_phim": 0,
+        "title": "El olor de las rosas",
+        "original_title": "El olor de las rosas",
+        "overview": "",
+        "poster_path": "https://image.tmdb.org/t/p/w500/7dK93etFdBAmZMNN3Ea7upAlsWO.jpg",
+        "backdrop_path": "",
+        "release_date": "2025-10-27",
+        "genres": [],
+        "vote_average": 0,
+        "vote_count": 0,
+        "production_countries": [],
+        "cast": [
+            {
+                "name": "Alba Manuela Lermo",
+                "character": "Ella",
+                "profile_path": null
+            },
+            {
+                "name": "Marcos González",
+                "character": "Él",
+                "profile_path": null
+            }
+        ],
+        "director": {
+            "name": "Bernal del Campo",
+            "profile_path": null
+        },
+        "writers": [
+            {
+                "name": "Bernal del Campo"
+            }
+        ],
+        "runtime": null,
+        "budget": null,
+        "revenue": null,
+        "imdb_id": null,
+        "tagline": null,
+        "rotten_tomatoes_score": null,
+        "metascore": null,
+        "awards": null,
+        "versions": [
+            {
+                "filename": "The.Roses.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-KyoGo (Sub Viet).mkv",
+                "label": "1080p - WEB-DL - DDP5.1 - 7.17 GB",
+                "link": "https://uce9ccef1c53800f27b45d9a1df1.dl.dropboxusercontent.com/cd/0/get/C5Cmy0iipW6N1CBR9qI5bA1bQ5Aoi8AYVi5Fk3Wtb_v9tvbGfNIsAHeonbFl88mob0SXr9sJMtGfmI6ncxNyINiBxUCLdE9b3DoFCXunTX1Cpyfn9E39s1Z94Dcg_OTI52BFl2Vi-4kVX2nhMJmDzgFWBjxCoPcxq8Jerpns-AIV_tPRdHsreu3UdylY_nQMQfbuxA-0ChBF_Nut8RwNV_pV/file",
                 "subtitle": null
             }
         ]
